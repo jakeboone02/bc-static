@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'presidentregular';
+  src: url('../fonts/president-webfont.eot');
+  src: url('../fonts/president-webfont.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/president-webfont.woff2') format('woff2'),
+       url('../fonts/president-webfont.woff') format('woff'),
+       url('../fonts/president-webfont.ttf') format('truetype'),
+       url('../fonts/president-webfont.svg#presidentregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.recipe {
+    margin-bottom: 2em;
+}
+
+.recipe .recipe-title-block {
+  margin-bottom: 1em;
+}
+
+.recipe .recipe-title {
+  margin: 0 auto 0.4em;
+}
+
+.recipe .recipe-section-header {
+  border-bottom: 1px solid rgba(39,92,36,0.26);
+}
+
+.text-ws-pre-wrap {
+  white-space: pre-wrap;
+}

@@ -1,0 +1,39 @@
+{
+  "name": "bc-static",
+  "version": "0.1.0",
+  "description": "Static version of Boone Cookbook",
+  "main": "js/main.js",
+  "scripts": {
+    "start": "watchify -o js/bundle.js -v -d .",
+    "build": "NODE_ENV=production browserify . | uglifyjs -cm > js/bundle.min.js",
+    "test": "jest"
+  },
+  "author": "Jake Boone <jakeboone02@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^0.12.2",
+    "react-bootstrap": "^0.16.0",
+    "react-router": "^0.12.4",
+    "react-router-bootstrap": "^0.9.1"
+  },
+  "devDependencies": {
+    "browserify": "^9.0.3",
+    "envify": "^3.2.0",
+    "reactify": "^1.0.0",
+    "watchify": "^2.4.0"
+  },
+  "browserify": {
+    "transform": [
+      [
+        "reactify",
+        {
+          "es6": true
+        }
+      ],
+      "envify"
+    ]
+  },
+  "jest": {
+    "rootDir": "./js"
+  }
+}
