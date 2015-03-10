@@ -6,15 +6,15 @@ module.exports = [
                 "isFavorite": false,
                 "title": "Apple Birthday Cake",
                 "lastModified": "2012-02-24T04:10:27",
-                "notes": "",
-                "ingredients": [],
+                "notes": "You can also bake the cake in a 13-by-9-inch pan; the baking time will be about the same. Also, if the buttercream separates, continue beating -- it will come together.",
+                "ingredients": [{"qty":0,"qty2":0,"uom":"","desc":"For The Buttercream (or make a cream cheese frosting)","isGroupHeader":true},{"qty":4,"qty2":0,"uom":"","desc":"large egg whites","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"cup","desc":"packed light-brown sugar","isGroupHeader":false},{"qty":0.25,"qty2":0,"uom":"teaspoon","desc":"salt","isGroupHeader":false},{"qty":1.5,"qty2":0,"uom":"cups","desc":"(3 sticks) unsalted butter, room temperature, cut into pieces","isGroupHeader":false},{"qty":0,"qty2":0,"uom":"","desc":"For The Cake","isGroupHeader":true},{"qty":0.5,"qty2":0,"uom":"cup","desc":"(1 stick)unsalted butter, melted, plus more for pans","isGroupHeader":false},{"qty":2,"qty2":0,"uom":"cups","desc":"all-purpose flour (spooned and leveled), plus more for pans","isGroupHeader":false},{"qty":2,"qty2":0,"uom":"teaspoons","desc":"baking soda","isGroupHeader":false},{"qty":0.5,"qty2":0,"uom":"teaspoon","desc":"baking powder","isGroupHeader":false},{"qty":2,"qty2":0,"uom":"teaspoons","desc":"ground cinnamon","isGroupHeader":false},{"qty":0.5,"qty2":0,"uom":"teaspoon","desc":"ground ginger","isGroupHeader":false},{"qty":0.75,"qty2":0,"uom":"teaspoon","desc":"salt","isGroupHeader":false},{"qty":2,"qty2":0,"uom":"cups","desc":"packed light-brown sugar","isGroupHeader":false},{"qty":2,"qty2":0,"uom":"","desc":"large eggs","isGroupHeader":false},{"qty":4,"qty2":0,"uom":"","desc":"Granny Smith apples, peeled, two coarsely grated and two diced","isGroupHeader":false}],
                 "categories": "Cake, apple",
-                "yield": "",
+                "yield": "Serves 12",
                 "equipment": "",
-                "source": "Martha Stewart",
+                "source": "Martha Stewart / Everyday Food, September 2008",
                 "key": "agtzfmJjb29rYm9va3IPCxIHUmVjaXBlMhi20ggM",
-                "directions": "Back to Layer Cakes\nJohn's Three-Layer Apple Cake\nEmail\nSave\nPrint\n\nView Gallery\n\nWATCH THE VIDEO\n\nPlay Video\nTriple Layer Apple Cak\nJohn Barricelli prepares a showstopping three-layer apple cake.\nWE ALSO LOVE\n\n\n\nImagine those caramel apples you loved as a kid, now all grown up and baked into a cake. Stacks up well, doesn't it? Try this cake, courtesy of John Barricelli, host of \"Everyday Baking.\"\n\nEveryday Food, September 2008\nPrep Time\n45 minutes\nTotal Time\n2 hours 20 minutes, plus chilling\nYield\nServes 12\nAdd to Shopping List\nIngredients\n\nFor The Buttercream (or make a cream cheese frosting)\n4 large egg whites\n1 cup packed light-brown sugar\n1/4 teaspoon salt\n1 1/2 cups (3 sticks) unsalted butter, room temperature, cut into pieces\nFor The Cake\n1/2 cup (1 stick) unsalted butter, melted, plus more for pans\n2 cups all-purpose flour (spooned and leveled), plus more for pans\n2 teaspoons baking soda\n1/2 teaspoon baking powder\n2 teaspoons ground cinnamon\n1/2 teaspoon ground ginger\n3/4 teaspoon salt\n2 cups packed light-brown sugar\n2 large eggs\n4 Granny Smith apples, peeled, two coarsely grated and two diced\nDirections\n\nPreheat oven to 350 degrees. Butter three 8-inch-round cake pans; line bottoms with parchment paper. Butter, then flour paper and sides (tapping out excess); set aside.\n\nIn a medium bowl, whisk together flour, baking soda, baking powder, cinnamon, ginger, and salt; set aside. In a large bowl, whisk together butter, sugar, and eggs until well combined; fold in grated and diced apples. Add flour mixture; mix just until combined. Divide batter among prepared pans; smooth tops.\n\nBake until a toothpick inserted in center of cake comes out clean, 35 to 40 minutes. Cool cakes in pans 20 minutes, then invert onto wire racks; peel off parchment. Invert cakes again, and let cool completely on racks.\n\nMake buttercream: In a heatproof bowl set over (not in) a pan of simmering water, whisk together egg whites, sugar, and salt until sugar has dissolved; remove from heat. Using an electric mixer on medium, beat mixture until fluffy and cooled, about 15 minutes. Increase to high; beat until stiff peaks form. Reduce to medium-low; gradually add butter, beating until fully incorporated, about 3 to 5 minutes.\n\nAssemble cake: Place one layer on a serving plate; spread top with buttercream. Top with another layer; spread top with buttercream. Top with third layer; spread remaining buttercream over top and sides of cake. Refrigerate at least 1 hour (or up to 4 days). To serve, bring cake to room temperature; slice with a serrated knife.\n\nCook's Note\n\nYou can also bake the cake in a 13-by-9-inch pan; the baking time will be about the same. Also, if the buttercream separates, continue beating -- it will come together.\n",
-                "preptime": "",
+                "directions": "Back to Layer Cakes\nJohn's Three-Layer Apple Cake\nImagine those caramel apples you loved as a kid, now all grown up and baked into a cake. Stacks up well, doesn't it? Try this cake, courtesy of John Barricelli, host of \"Everyday Baking.\"\n\n\nPreheat oven to 350 degrees. Butter three 8-inch-round cake pans; line bottoms with parchment paper. Butter, then flour paper and sides (tapping out excess); set aside.\n\nIn a medium bowl, whisk together flour, baking soda, baking powder, cinnamon, ginger, and salt; set aside. In a large bowl, whisk together butter, sugar, and eggs until well combined; fold in grated and diced apples. Add flour mixture; mix just until combined. Divide batter among prepared pans; smooth tops.\n\nBake until a toothpick inserted in center of cake comes out clean, 35 to 40 minutes. Cool cakes in pans 20 minutes, then invert onto wire racks; peel off parchment. Invert cakes again, and let cool completely on racks.\n\nMake buttercream: In a heatproof bowl set over (not in) a pan of simmering water, whisk together egg whites, sugar, and salt until sugar has dissolved; remove from heat. Using an electric mixer on medium, beat mixture until fluffy and cooled, about 15 minutes. Increase to high; beat until stiff peaks form. Reduce to medium-low; gradually add butter, beating until fully incorporated, about 3 to 5 minutes.\n\nAssemble cake: Place one layer on a serving plate; spread top with buttercream. Top with another layer; spread top with buttercream. Top with third layer; spread remaining buttercream over top and sides of cake. Refrigerate at least 1 hour (or up to 4 days). To serve, bring cake to room temperature; slice with a serrated knife.",
+                "preptime": "45 minutes\nTotal Time\n2 hours 20 minutes, plus chilling",
                 "owner_id": "102168863463009654270",
                 "owner_email": "angieboone01@gmail.com"
             },
@@ -26,13 +26,13 @@ module.exports = [
                 "title": "Banana Bread",
                 "lastModified": "2013-10-06T14:33:13",
                 "notes": "",
-                "ingredients": [],
+                "ingredients": [{"qty":3,"qty2":4,"uom":"","desc":"ripe bananas","isGroupHeader":false},{"qty":0.25,"qty2":0,"uom":"cup","desc":"melted butter","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"cup","desc":"sugar","isGroupHeader":false},{"qty":1.5,"qty2":0,"uom":"cups","desc":"flour","isGroupHeader":false},{"qty":0.25,"qty2":0,"uom":"teaspoon","desc":"salt","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"","desc":"egg, beaten","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"teaspoon","desc":"baking soda","isGroupHeader":false},{"qty":0,"qty2":0,"uom":"","desc":"Chocolate chips (as many as you want!)","isGroupHeader":false}],
                 "categories": "",
                 "yield": "",
                 "equipment": "",
                 "source": "",
                 "key": "agtzfmJjb29rYm9va3IPCxIHUmVjaXBlMhiOhgoM",
-                "directions": "Ingredients\n3 to 4 ripe bananas\n1/4 cup melted butter\n1 cup sugar\n1 1/2 cups flour\n1/4 teaspoon salt\n1 egg, beaten\n1 teaspoon baking soda\nChocolate chips (as many as you want!)\n\n\nPreparation\nPreheat oven to 350°F. Mash the bananas in a bowl. Add all the remaining ingredients and mix well with a wooden spoon. Bake in a buttered loaf pan until a toothpick stuck into the bread comes out clean, 55 to 60 minutes. Slice and serve.\n\nCookie, March 2006\n",
+                "directions": "Preheat oven to 350°F. Mash the bananas in a bowl. Add all the remaining ingredients and mix well with a wooden spoon. Bake in a buttered loaf pan until a toothpick stuck into the bread comes out clean, 55 to 60 minutes. Slice and serve.\n\nCookie, March 2006\n",
                 "preptime": "",
                 "owner_id": "102168863463009654270",
                 "owner_email": "angieboone01@gmail.com"
@@ -45,13 +45,13 @@ module.exports = [
                 "title": "Banana Bread -- No Butter!",
                 "lastModified": "2011-09-08T01:58:53",
                 "notes": "",
-                "ingredients": [],
+                "ingredients": [{"qty":3,"qty2":0,"uom":"","desc":"(over) ripe bananas","isGroupHeader":false},{"qty":0.5,"qty2":0.75,"uom":"cups","desc":"sugar (the less ripe the bananas, the more sugar you will need)","isGroupHeader":false},{"qty":2,"qty2":0,"uom":"","desc":"eggs","isGroupHeader":false},{"qty":2,"qty2":0,"uom":"cups","desc":"all purpose flour (I often replace one of the cups with whole wheat flour)","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"tsp","desc":"salt","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"tsp","desc":"baking soda","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"tsp","desc":"vanilla","isGroupHeader":false},{"qty":0.5,"qty2":0,"uom":"tsp","desc":"cinnamon","isGroupHeader":false}],
                 "categories": "",
                 "yield": "",
                 "equipment": "",
                 "source": "BreadandButter.com",
                 "key": "agtzfmJjb29rYm9va3IPCxIHUmVjaXBlMhiG5QcM",
-                "directions": "Banana Bread\nIngredients\n3 (over) ripe bananas\n1/2- 3/4 cups sugar (the less ripe the bananas, the more sugar you will need)\n2 eggs\n2 cups all purpose flour (I often replace one of the cups with whole wheat flour)\n1 tsp salt\n1 tsp baking soda\n1 tsp vanilla\n1/2 tsp cinnamon\n\nMash the bananas in a large bowl and add the sugar. The sugar will help liquefy the mixture.  Whisk in the eggs, and then sift in the dry ingredients. Still until evenly combined. Bake in a greased a floured loaf pan at 325 for about 1 hour or until a cake tester comes out clean. Allow to stand and cool for 15 minutes before removing from the pan.",
+                "directions": "Mash the bananas in a large bowl and add the sugar. The sugar will help liquefy the mixture.  Whisk in the eggs, and then sift in the dry ingredients. Still until evenly combined. Bake in a greased a floured loaf pan at 325 for about 1 hour or until a cake tester comes out clean. Allow to stand and cool for 15 minutes before removing from the pan.",
                 "preptime": "",
                 "owner_id": "102168863463009654270",
                 "owner_email": "angieboone01@gmail.com"
@@ -69,7 +69,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 3,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "c.",
                         "desc": "flour"
                     },
@@ -77,7 +76,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "T",
                         "desc": "baking powder"
                     },
@@ -85,7 +83,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 3,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "T",
                         "desc": "sugar"
                     },
@@ -93,7 +90,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp.",
                         "desc": "salt"
                     },
@@ -101,7 +97,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 12,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "oz.",
                         "desc": "beer (room temperature)"
                     },
@@ -109,7 +104,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "c.",
                         "desc": "unsalted butter, melted"
                     }
@@ -132,13 +126,13 @@ module.exports = [
                 "title": "Best Banana Bread!",
                 "lastModified": "2013-10-06T14:52:54",
                 "notes": "",
-                "ingredients": [],
+                "ingredients": [{"qty":3,"qty2":0,"uom":"","desc":"to 5 ripe bananas","isGroupHeader":false},{"qty":0.25,"qty2":0,"uom":"cup","desc":"melted butter","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"cup","desc":"sugar","isGroupHeader":false},{"qty":1.5,"qty2":0,"uom":"cups","desc":"flour","isGroupHeader":false},{"qty":0.25,"qty2":0,"uom":"teaspoon","desc":"salt","isGroupHeader":false},{"qty":0.5,"qty2":0,"uom":"","desc":"to 1 tsp cinnamon","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"","desc":"egg, beaten","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"teaspoon","desc":"baking soda","isGroupHeader":false},{"qty":0,"qty2":0,"uom":"","desc":"Chocolate chips (as many as you want!)","isGroupHeader":false},{"qty":0,"qty2":0,"uom":"","desc":"Walnuts","isGroupHeader":false},{"qty":0,"qty2":0,"uom":"","desc":"Pecans on top","isGroupHeader":false},{"qty":0,"qty2":0,"uom":"","desc":"Sanding sugar on top!","isGroupHeader":false}],
                 "categories": "",
                 "yield": "",
                 "equipment": "",
-                "source": "",
+                "source": "Cookie, March 2006",
                 "key": "agtzfmJjb29rYm9va3IPCxIHUmVjaXBlMhj2jQoM",
-                "directions": "Ingredients\n3 to 5 ripe bananas\n1/4 cup melted butter\n1 cup sugar\n1 1/2 cups flour\n1/4 teaspoon salt\n1/2 to 1 tsp cinnamon\n1 egg, beaten\n1 teaspoon baking soda\nChocolate chips (as many as you want!)\nWalnuts\nPecans on top\nSanding sugar on top!\n\n\nPreparation\nPreheat oven to 350°F. Mash the bananas in a bowl. Add all the remaining ingredients and mix well with a wooden spoon. Bake in a buttered loaf pan until a toothpick stuck into the bread comes out clean, 55 to 60 minutes. Slice and serve.\n\nCookie, March 2006\n",
+                "directions": "Preheat oven to 350°F. Mash the bananas in a bowl. Add all the remaining ingredients and mix well with a wooden spoon. Bake in a buttered loaf pan until a toothpick stuck into the bread comes out clean, 55 to 60 minutes. Slice and serve.",
                 "preptime": "",
                 "owner_id": "102168863463009654270",
                 "owner_email": "angieboone01@gmail.com"
@@ -156,7 +150,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoon",
                         "desc": "melted butter"
                     },
@@ -164,7 +157,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "medium chopped onions"
                     },
@@ -172,7 +164,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "melted butter"
                     },
@@ -180,7 +171,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "flour"
                     },
@@ -188,7 +178,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "half-and-half cream"
                     },
@@ -196,7 +185,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "chicken stock"
                     },
@@ -204,7 +192,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "lb",
                         "desc": "fresh broccoli"
                     },
@@ -212,7 +199,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "carrots, julienned"
                     },
@@ -220,7 +206,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "nutmeg"
                     },
@@ -228,7 +213,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 8,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "ounces",
                         "desc": "grated sharp cheddar cheese"
                     },
@@ -236,7 +220,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "salt and pepper"
                     }
@@ -253,19 +236,19 @@ module.exports = [
             },
             {
                 "status": "active",
-                "subtitle": "",
+                "subtitle": "Chocolate-Peanut Butter Cake with Cream Cheese and Butterfinger Frosting",
                 "canEmailOwner": true,
                 "isFavorite": false,
                 "title": "Butterfinger Cake",
                 "lastModified": "2012-03-28T01:41:40",
                 "notes": "",
-                "ingredients": [],
+                "ingredients": [{"qty":0,"qty2":0,"uom":"","desc":"Filling:","isGroupHeader":true},{"qty":2.25,"qty2":0,"uom":"cups","desc":"heavy whipping cream","isGroupHeader":false},{"qty":0.5,"qty2":0,"uom":"cup","desc":"(packed) golden brown sugar","isGroupHeader":false},{"qty":12,"qty2":0,"uom":"ounces","desc":"bittersweet or semisweet chocolate, finely chopped","isGroupHeader":false},{"qty":0.5,"qty2":0,"uom":"cup","desc":"old-fashioned (natural) chunky peanut butter","isGroupHeader":false},{"qty":0,"qty2":0,"uom":"","desc":"Cake:","isGroupHeader":true},{"qty":2.5,"qty2":0,"uom":"cups","desc":"all purpose flour","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"teaspoon","desc":"baking powder","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"teaspoon","desc":"baking soda","isGroupHeader":false},{"qty":0.5,"qty2":0,"uom":"teaspoon","desc":"salt","isGroupHeader":false},{"qty":10,"qty2":0,"uom":"tablespoons","desc":"(1 1/4 sticks) unsalted butter, room temperature","isGroupHeader":false},{"qty":0.5,"qty2":0,"uom":"cup","desc":"old-fashioned (natural) chunky peanut butter","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"pound","desc":"golden brown sugar","isGroupHeader":false},{"qty":4,"qty2":0,"uom":"","desc":"large eggs","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"teaspoon","desc":"vanilla extract","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"cup","desc":"buttermilk","isGroupHeader":false},{"qty":0,"qty2":0,"uom":"","desc":"Frosting:","isGroupHeader":true},{"qty":1.5,"qty2":0,"uom":"","desc":"8-ounce packages cream cheese, room temperature","isGroupHeader":false},{"qty":2,"qty2":0,"uom":"cups","desc":"powdered sugar, divided","isGroupHeader":false},{"qty":6,"qty2":0,"uom":"tablespoons","desc":"(3/4 stick) unsalted butter, room temperature","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"teaspoon","desc":"vanilla extract","isGroupHeader":false},{"qty":0.75,"qty2":0,"uom":"cup","desc":"chilled heavy whipping cream","isGroupHeader":false},{"qty":0,"qty2":0,"uom":"","desc":"Butterfinger candy bars, coarsely chopped","isGroupHeader":false},{"qty":0,"qty2":0,"uom":"","desc":"Glazed peanuts","isGroupHeader":false}],
                 "categories": "",
                 "yield": "",
                 "equipment": "",
-                "source": "",
+                "source": "Bon Appétit, March 2005",
                 "key": "agtzfmJjb29rYm9va3IPCxIHUmVjaXBlMhiOiQkM",
-                "directions": "Chocolate-Peanut Butter Cake with Cream Cheese and Butterfinger Frosting\nFilling\n2 1/4 cups heavy whipping cream\n1/2 cup (packed) golden brown sugar\n12 ounces bittersweet or semisweet chocolate, finely chopped\n1/2 cup old-fashioned (natural) chunky peanut butter\n\nCake\n2 1/2 cups all purpose flour\n1 teaspoon baking powder\n1 teaspoon baking soda\n1/2 teaspoon salt\n10 tablespoons (1 1/4 sticks) unsalted butter, room temperature\n1/2 cup old-fashioned (natural) chunky peanut butter\n1 pound golden brown sugar\n4 large eggs\n1 teaspoon vanilla extract\n1 cup buttermilk\n\nFrosting\n1 1/2 8-ounce packages cream cheese, room temperature\n2 cups powdered sugar, divided\n6 tablespoons (3/4 stick) unsalted butter, room temperature\n1 teaspoon vanilla extract\n3/4 cup chilled heavy whipping cream\nButterfinger candy bars, coarsely chopped\nGlazed peanuts\n\nFor filling:\nBring cream and sugar to simmer in saucepan, whisking to dissolve sugar. Remove from heat. Add chocolate; let stand 1 minute. Whisk until smooth. Whisk in peanut butter. Chill uncovered overnight.\n\nFor cake:\nPreheat oven to 350°F. Butter three 9-inch-diameter cake pans with 1 1/2-inch-high sides. Line bottoms with parchment paper. Sift first 4 ingredients into medium bowl. Using electric mixer, beat butter and peanut butter in large bowl until blended. Beat in sugar. Beat in eggs, 1 at a time, then vanilla. At low speed, beat in flour mixture in 4 additions alternately with buttermilk in 3 additions.\n\nDivide batter among pans and spread evenly. Bake cakes until tester inserted into center comes out clean, about 25 minutes. Cool cakes 5 minutes. Turn out onto racks; peel off parchment. Cool cakes completely.\n\nFor frosting:\nUsing electric mixer, beat cream cheese, 1 1/4 cups powdered sugar, butter, and vanilla in large bowl to blend. Whisk whipping cream and 3/4 cup powdered sugar in bowl until mixture holds medium-firm peaks. Fold into cream cheese mixture in 3 additions; chill until firm but spreadable, about 1 hour.\n\nPlace 1 cake layer, bottom side up, on 9-inch tart pan bottom. Spread with half of filling. Place another layer, bottom side up, on work surface. Spread with remaining filling; place atop first layer. Top with remaining cake layer, bottom side up.\n\nSpread frosting over top and sides of cake. (Can be made 1 day ahead. Cover with cake dome; chill. Let stand at room temperature 2 hours before continuing.) Press candy and peanuts onto top of cake.\n\nBon Appétit\nMarch 2005",
+                "directions": "For filling:\nBring cream and sugar to simmer in saucepan, whisking to dissolve sugar. Remove from heat. Add chocolate; let stand 1 minute. Whisk until smooth. Whisk in peanut butter. Chill uncovered overnight.\n\nFor cake:\nPreheat oven to 350°F. Butter three 9-inch-diameter cake pans with 1 1/2-inch-high sides. Line bottoms with parchment paper. Sift first 4 ingredients into medium bowl. Using electric mixer, beat butter and peanut butter in large bowl until blended. Beat in sugar. Beat in eggs, 1 at a time, then vanilla. At low speed, beat in flour mixture in 4 additions alternately with buttermilk in 3 additions.\n\nDivide batter among pans and spread evenly. Bake cakes until tester inserted into center comes out clean, about 25 minutes. Cool cakes 5 minutes. Turn out onto racks; peel off parchment. Cool cakes completely.\n\nFor frosting:\nUsing electric mixer, beat cream cheese, 1 1/4 cups powdered sugar, butter, and vanilla in large bowl to blend. Whisk whipping cream and 3/4 cup powdered sugar in bowl until mixture holds medium-firm peaks. Fold into cream cheese mixture in 3 additions; chill until firm but spreadable, about 1 hour.\n\nPlace 1 cake layer, bottom side up, on 9-inch tart pan bottom. Spread with half of filling. Place another layer, bottom side up, on work surface. Spread with remaining filling; place atop first layer. Top with remaining cake layer, bottom side up.\n\nSpread frosting over top and sides of cake. (Can be made 1 day ahead. Cover with cake dome; chill. Let stand at room temperature 2 hours before continuing.) Press candy and peanuts onto top of cake.",
                 "preptime": "",
                 "owner_id": "102168863463009654270",
                 "owner_email": "angieboone01@gmail.com"
@@ -278,13 +261,13 @@ module.exports = [
                 "title": "Buttermilk Biscuits",
                 "lastModified": "2011-06-19T19:34:58",
                 "notes": "",
-                "ingredients": [],
+                "ingredients": [{"qty":3,"qty2":0,"uom":"cups","desc":"all purpose flour","isGroupHeader":false},{"qty":2,"qty2":0,"uom":"tablespoons","desc":"sugar","isGroupHeader":false},{"qty":4,"qty2":0,"uom":"teaspoons","desc":"baking powder","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"teaspoon","desc":"salt","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"teaspoon","desc":"baking soda","isGroupHeader":false},{"qty":0.75,"qty2":0,"uom":"cup","desc":"(1 1/2sticks) chilled unsalted butter, cut into 1/4-inch pieces","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"cup","desc":"buttermilk","isGroupHeader":false}],
                 "categories": "Bread, breakfast",
                 "yield": "12 - 16",
                 "equipment": "",
                 "source": "epicurious.com",
                 "key": "agtzfmJjb29rYm9va3IPCxIHUmVjaXBlMhj9vQcM",
-                "directions": "Buttermilk Biscuits\n3 cups all purpose flour\n2 tablespoons sugar\n4 teaspoons baking powder\n1 teaspoon salt\n1 teaspoon baking soda\n3/4 cup (1 1/2sticks) chilled unsalted butter, cut into 1/4-inch pieces\n1 cup buttermilk\n\nPreheat oven to 425°F. Whisk flour, sugar, baking powder, salt and baking soda in large bowl to blend. Using fingertips, rub 3/4 cup chilled butter into dry ingredients until mixture resembles coarse meal. Add buttermilk and stir until evenly moistened. Using 1/4 cup dough for each biscuit, drop biscuits onto baking sheet, spacing 2 inches apart. Bake until biscuits are golden brown on top, about 15 minutes. Cool slightly. Serve warm.",
+                "directions": "Preheat oven to 425°F. Whisk flour, sugar, baking powder, salt and baking soda in large bowl to blend. Using fingertips, rub 3/4 cup chilled butter into dry ingredients until mixture resembles coarse meal. Add buttermilk and stir until evenly moistened. Using 1/4 cup dough for each biscuit, drop biscuits onto baking sheet, spacing 2 inches apart. Bake until biscuits are golden brown on top, about 15 minutes. Cool slightly. Serve warm.",
                 "preptime": "30 minutes",
                 "owner_id": "102168863463009654270",
                 "owner_email": "angieboone01@gmail.com"
@@ -297,13 +280,13 @@ module.exports = [
                 "title": "Buttery Barley Risotto",
                 "lastModified": "2012-03-01T23:34:55",
                 "notes": "",
-                "ingredients": [],
+                "ingredients": [{"qty":6.5,"qty2":0,"uom":"cups","desc":"low-salt chicken broth","isGroupHeader":false},{"qty":6,"qty2":0,"uom":"tablespoons","desc":"unsalted European-style butter","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"","desc":"medium onion, finely chopped","isGroupHeader":false},{"qty":2,"qty2":0,"uom":"","desc":"medium garlic cloves, minced","isGroupHeader":false},{"qty":2,"qty2":0,"uom":"cups","desc":"pearl barley (about 13 ounces), rinsed, drained","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"","desc":"6-ounce package 3-inch-diameter portobello mushrooms, stemmed, gills scraped, caps sliced","isGroupHeader":false},{"qty":0.5,"qty2":0,"uom":"cup","desc":"freshly grated Parmesan cheese (about 1 1/2 oz.)","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"tablespoon","desc":"chopped fresh chives","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"tablespoon","desc":"chopped fresh Italian parsley","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"tablespoon","desc":"chopped fresh basil","isGroupHeader":false},{"qty":0,"qty2":0,"uom":"","desc":"(May add grilled chicken or steamed vegetables as desired)","isGroupHeader":false}],
                 "categories": "",
                 "yield": "",
                 "equipment": "",
-                "source": "Epicurious",
+                "source": "Epicurious / Bon Appétit, 2003",
                 "key": "agtzfmJjb29rYm9va3IPCxIHUmVjaXBlMhju6QgM",
-                "directions": "\n\n6 1/2 cups low-salt chicken broth\n6 tablespoons unsalted European-style butter\n1 medium onion, finely chopped\n2 medium garlic cloves, minced\n2 cups pearl barley (about 13 ounces), rinsed, drained\n1 6-ounce package 3-inch-diameter portobello mushrooms, stemmed, gills scraped, caps sliced\n1/2 cup freshly grated Parmesan cheese (about 1 1/2 oz.)\n1 tablespoon chopped fresh chives\n1 tablespoon chopped fresh Italian parsley\n1 tablespoon chopped fresh basil \n(May add grilled chicken or steamed vegetables as desired)\n\n\nBring broth to simmer in medium saucepan. Reduce heat to low and cover to keep warm.\n\nMelt 2 tablespoons butter in heavy large saucepan over med heat. Add onion and garlic; sauté until tender, about 6 minutes. \n\nAdd barley; stir until coated with butter, about 1 minute. Add 1/2 cup broth; simmer, stirring often, until broth is absorbed, about 3 minutes. Add remaining broth 1/2 cup at a time, allowing broth to be absorbed before adding more and stirring frequently until barley is tender but still firm to bite and risotto is creamy, about 45 minutes.\n\nMeanwhile, melt 2 tablespoons butter in medium skillet over medium-high heat. Add mushrooms and sauté until soft, about 5 minutes. Season to taste with salt and pepper. Add mushrooms, Parmesan cheese, herbs, and remaining 2 tablespoons butter to risotto; stir to combine. Season to taste with salt and pepper. Divide risotto among bowls and serve.\n\nBon Appétit\n2003\n",
+                "directions": "Bring broth to simmer in medium saucepan. Reduce heat to low and cover to keep warm.\n\nMelt 2 tablespoons butter in heavy large saucepan over med heat. Add onion and garlic; sauté until tender, about 6 minutes. \n\nAdd barley; stir until coated with butter, about 1 minute. Add 1/2 cup broth; simmer, stirring often, until broth is absorbed, about 3 minutes. Add remaining broth 1/2 cup at a time, allowing broth to be absorbed before adding more and stirring frequently until barley is tender but still firm to bite and risotto is creamy, about 45 minutes.\n\nMeanwhile, melt 2 tablespoons butter in medium skillet over medium-high heat. Add mushrooms and sauté until soft, about 5 minutes. Season to taste with salt and pepper. Add mushrooms, Parmesan cheese, herbs, and remaining 2 tablespoons butter to risotto; stir to combine. Season to taste with salt and pepper. Divide risotto among bowls and serve.",
                 "preptime": "",
                 "owner_id": "102168863463009654270",
                 "owner_email": "angieboone01@gmail.com"
@@ -313,25 +296,16 @@ module.exports = [
                 "subtitle": "",
                 "canEmailOwner": true,
                 "isFavorite": false,
-                "title": "CAULIFLOWER AND CARAMELIZED ONION TART",
+                "title": "Cauliflower and Caramelized Onion Tart",
                 "lastModified": "2012-02-22T22:11:50",
                 "notes": "",
-                "ingredients": [
-                    {
-                        "isGroupHeader": false,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": ""
-                    }
-                ],
+                "ingredients": [{"qty":1,"qty2":0,"uom":"","desc":"small head of cauliflower (about 1 lb.), cored, 1” pieces","isGroupHeader":false},{"qty":2.5,"qty2":0,"uom":"tablespoons","desc":"olive oil, divided","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"tablespoon","desc":"truffle oil","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"","desc":"refrigerated pie crust","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"","desc":"large onion, halved lengthwise, thinly sliced","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"tablespoon","desc":"Dijon mustard","isGroupHeader":false},{"qty":2,"qty2":0,"uom":"","desc":"large eggs","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"","desc":"(7- to 8-ounce) container mascarpone cheese (Italian cream cheese)","isGroupHeader":false},{"qty":0.5,"qty2":0,"uom":"cup","desc":"whipping cream","isGroupHeader":false},{"qty":0.25,"qty2":0,"uom":"teaspoon","desc":"ground white pepper","isGroupHeader":false},{"qty":0,"qty2":0,"uom":"","desc":"Pinch of ground nutmeg","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"cup","desc":"grated Gruyère cheese","isGroupHeader":false},{"qty":0.75,"qty2":0,"uom":"cup","desc":"grated Parmesan cheese","isGroupHeader":false}],
                 "categories": "",
-                "yield": "",
+                "yield": "Serves 8",
                 "equipment": "",
-                "source": "",
+                "source": "Bon Appétit, March 2007",
                 "key": "agtzfmJjb29rYm9va3IPCxIHUmVjaXBlMhjOyggM",
-                "directions": "\n\nCAULIFLOWER AND Serves 8\nCARAMELIZED ONION TART\n\n\n\n1 small head of cauliflower (about 1 lb.), cored, 1” pieces\n2 1/2 tablespoons olive oil, divided\n1 tablespoon truffle oil\n1 refrigerated pie crust\n1 large onion, halved lengthwise, thinly sliced\n1 tablespoon Dijon mustard\n2 large eggs\n1 (7- to 8-ounce) container mascarpone cheese (Italian cream cheese)\n1/2 cup whipping cream\n1/4 teaspoon ground white pepper\nPinch of ground nutmeg\n1 cup grated Gruyère cheese\n3/4 cup grated Parmesan cheese\n\n\nPosition rack in center of oven; preheat to 425°F. Toss cauliflower with 1 tablespoon olive oil in large bowl. Spread on large rimmed baking sheet, spacing apart. Sprinkle with salt and pepper. Roast 15 minutes; turn florets over. Continue roasting until tender, about 25 minutes longer. Cool cauliflower, then thinly slice. Drizzle with truffle oil; toss. Reduce oven temperature to 350°F.\n\nPress pie crust onto bottom and up sides of 9-inch-diameter tart pan with removable bottom. Line pie crust with foil; fill with pie weights. Bake crust 20 minutes. Remove foil and pie weights; bake until crust is golden, about 5 minutes, pressing crust with back of fork if bubbles form. Cool crust. Maintain oven temperature.\n\nHeat remaining 1 1/2 tablespoons olive oil in heavy large skillet over medium heat. Add onion; sprinkle with salt and pepper. Cook until onion is deep golden brown, stirring occasionally, about 40 minutes. Cool slightly. DO AHEAD Can be made 1 day ahead. Store crust at room temperature. Cover and chill cauliflower and onion separately.\n\nBrush bottom and sides of crust with mustard. Spread onion in crust. Arrange cauliflower evenly over. Set tart on rimmed baking sheet. Whisk eggs and next 4 ingredients in medium bowl. Stir in Gruyère. Pour mixture over filling in tart pan; sprinkle with Parmesan. Bake until tart is golden and center is set, about 40 minutes. Transfer to rack; cool 15 minutes before serving.\n\nBon Appétit\nMarch 2007\n",
+                "directions": "Position rack in center of oven; preheat to 425°F. Toss cauliflower with 1 tablespoon olive oil in large bowl. Spread on large rimmed baking sheet, spacing apart. Sprinkle with salt and pepper. Roast 15 minutes; turn florets over. Continue roasting until tender, about 25 minutes longer. Cool cauliflower, then thinly slice. Drizzle with truffle oil; toss. Reduce oven temperature to 350°F.\n\nPress pie crust onto bottom and up sides of 9-inch-diameter tart pan with removable bottom. Line pie crust with foil; fill with pie weights. Bake crust 20 minutes. Remove foil and pie weights; bake until crust is golden, about 5 minutes, pressing crust with back of fork if bubbles form. Cool crust. Maintain oven temperature.\n\nHeat remaining 1 1/2 tablespoons olive oil in heavy large skillet over medium heat. Add onion; sprinkle with salt and pepper. Cook until onion is deep golden brown, stirring occasionally, about 40 minutes. Cool slightly. DO AHEAD Can be made 1 day ahead. Store crust at room temperature. Cover and chill cauliflower and onion separately.\n\nBrush bottom and sides of crust with mustard. Spread onion in crust. Arrange cauliflower evenly over. Set tart on rimmed baking sheet. Whisk eggs and next 4 ingredients in medium bowl. Stir in Gruyère. Pour mixture over filling in tart pan; sprinkle with Parmesan. Bake until tart is golden and center is set, about 40 minutes. Transfer to rack; cool 15 minutes before serving.",
                 "preptime": "",
                 "owner_id": "102168863463009654270",
                 "owner_email": "angieboone01@gmail.com"
@@ -349,7 +323,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "9-ounce box chocolate wafer cookies, broken"
                     },
@@ -357,7 +330,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "sugar"
                     },
@@ -365,7 +337,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoons",
                         "desc": "instant espresso powder"
                     },
@@ -373,7 +344,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 3,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "ounces",
                         "desc": "bittersweet or semisweet chocolate, chopped"
                     },
@@ -381,31 +351,20 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 6,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "(3/4 stick) unsalted butter, melted, hot"
                     },
                     {
-                        "isGroupHeader": false,
+                        "isGroupHeader": true,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
-                        "desc": ""
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": "Filling"
+                        "desc": "Filling:"
                     },
                     {
                         "isGroupHeader": false,
                         "qty": 4,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "8-ounce packages cream cheese, room temperature"
                     },
@@ -413,7 +372,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "sugar"
                     },
@@ -421,7 +379,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "coffee liqueur"
                     },
@@ -429,7 +386,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 3,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "instant espresso powder"
                     },
@@ -437,7 +393,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoon",
                         "desc": "vanilla extract"
                     },
@@ -445,7 +400,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 4,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "large eggs"
                     },
@@ -453,31 +407,20 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 6,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "ounces",
                         "desc": "bittersweet or semisweet chocolate, chopped"
                     },
                     {
-                        "isGroupHeader": false,
+                        "isGroupHeader": true,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
-                        "desc": ""
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": "Topping"
+                        "desc": "Topping:"
                     },
                     {
                         "isGroupHeader": false,
                         "qty": 1.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "sour cream"
                     },
@@ -485,7 +428,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 3,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "sugar"
                     },
@@ -493,31 +435,20 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoons",
                         "desc": "instant espresso powder or instant coffee powder"
                     },
                     {
-                        "isGroupHeader": false,
+                        "isGroupHeader": true,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
-                        "desc": ""
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": "Garnish"
+                        "desc": "Garnish:"
                     },
                     {
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "ounces",
                         "desc": "bittersweet (not unsweetened) or semisweet chocolate, chopped, melted"
                     },
@@ -525,7 +456,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Lightly sweetened whipped cream"
                     },
@@ -533,7 +463,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Coffee bean candies (optional)"
                     }
@@ -556,212 +485,11 @@ module.exports = [
                 "title": "Café con Leche and Chocolate Cheesecake",
                 "lastModified": "2013-01-18T18:21:01",
                 "notes": "",
-                "ingredients": [
-                    {
-                        "isGroupHeader": false,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": "Crust"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 9,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "oz",
-                        "desc": "chocolate wafer cookies, broken"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 2,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "tablespoons",
-                        "desc": "sugar"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 2,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "teaspoons",
-                        "desc": "instant espresso powder or instant coffee powder"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 3,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "ounces",
-                        "desc": "bittersweet (not unsweetened) or semisweet chocolate, chopped"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 6,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "tablespoons",
-                        "desc": "(3/4 stick) unsalted butter, melted, hot"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": ""
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": "Filling"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 4,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": "8-ounce packages cream cheese, room temperature"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 1.25,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "cups",
-                        "desc": "sugar"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 0.25,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "cup",
-                        "desc": "coffee liqueur"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 3,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "tablespoons",
-                        "desc": "instant espresso powder or instant coffee powder"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 1,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "tablespoon",
-                        "desc": "vanilla extract"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 4,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": "large eggs"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 6,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "ounces",
-                        "desc": "bittersweet (not unsweetened) or semisweet chocolate, chopped"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": ""
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": "Topping"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 1.25,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "cups",
-                        "desc": "sour cream"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 3,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "tablespoons",
-                        "desc": "sugar"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 2,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "teaspoons",
-                        "desc": "instant espresso powder or instant coffee powder"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": ""
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": "Garnish"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 2,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "ounces",
-                        "desc": "bittersweet (not unsweetened) or semisweet chocolate, chopped, melted"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": "Lightly sweetened whipped cream"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": "Coffee bean candies (optional)"
-                    }
-                ],
+                "ingredients": [{"qty":0,"qty2":0,"uom":"","desc":"Crust:","isGroupHeader":true},{"qty":9,"qty2":0,"uom":"oz","desc":"chocolate wafer cookies, broken","isGroupHeader":false},{"qty":2,"qty2":0,"uom":"tablespoons","desc":"sugar","isGroupHeader":false},{"qty":2,"qty2":0,"uom":"teaspoons","desc":"instant espresso powder or instant coffee powder","isGroupHeader":false},{"qty":3,"qty2":0,"uom":"ounces","desc":"bittersweet (not unsweetened) or semisweet chocolate, chopped","isGroupHeader":false},{"qty":6,"qty2":0,"uom":"tablespoons","desc":"(3/4 stick) unsalted butter, melted, hot","isGroupHeader":false},{"qty":0,"qty2":0,"uom":"","desc":"Filling:","isGroupHeader":true},{"qty":4,"qty2":0,"uom":"","desc":"8-ounce packages cream cheese, room temperature","isGroupHeader":false},{"qty":1.25,"qty2":0,"uom":"cups","desc":"sugar","isGroupHeader":false},{"qty":0.25,"qty2":0,"uom":"cup","desc":"coffee liqueur","isGroupHeader":false},{"qty":3,"qty2":0,"uom":"tablespoons","desc":"instant espresso powder or instant coffee powder","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"tablespoon","desc":"vanilla extract","isGroupHeader":false},{"qty":4,"qty2":0,"uom":"","desc":"large eggs","isGroupHeader":false},{"qty":6,"qty2":0,"uom":"ounces","desc":"bittersweet (not unsweetened) or semisweet chocolate, chopped","isGroupHeader":false},{"qty":0,"qty2":0,"uom":"","desc":"Topping:","isGroupHeader":true},{"qty":1.25,"qty2":0,"uom":"cups","desc":"sour cream","isGroupHeader":false},{"qty":3,"qty2":0,"uom":"tablespoons","desc":"sugar","isGroupHeader":false},{"qty":2,"qty2":0,"uom":"teaspoons","desc":"instant espresso powder or instant coffee powder","isGroupHeader":false},{"qty":0,"qty2":0,"uom":"","desc":"Garnish:","isGroupHeader":true},{"qty":2,"qty2":0,"uom":"ounces","desc":"bittersweet (not unsweetened) or semisweet chocolate, chopped, melted","isGroupHeader":false},{"qty":0,"qty2":0,"uom":"","desc":"Lightly sweetened whipped cream","isGroupHeader":false},{"qty":0,"qty2":0,"uom":"","desc":"Coffee bean candies (optional)","isGroupHeader":false}],
                 "categories": "",
                 "yield": "",
                 "equipment": "",
-                "source": "Bon Appétit  | May 1992 ",
+                "source": "Bon Appétit | May 1992",
                 "key": "agtzfmJjb29rYm9va3IPCxIHUmVjaXBlMhjOxwkM",
                 "directions": "For crust:\nFinely grind cookies, sugar and espresso powder in processor. Add chocolate and chop finely. Add butter and blend until moist crumbs form. Press crumbs onto bottom and up sides of 9-inch-diameter springform pan with 2 3/4-inch-high sides.\n\n\nFor filling:\nPreheat oven to 350°F. Using electric mixer, beat cream cheese and sugar in large bowl until well blended. \n\nCombine coffee liqueur and espresso powder in small saucepan. Stir over low heat until coffee dissolves. Mix in vanilla. Add to cheese mixture and beat until smooth. Add eggs 1 at a time, beating just until combined. \n\nPour filling into 2 bowls, dividing evenly. Melt chocolate in top of double broiler over simmering water, stirring until smooth. Stir chocolate into filling in bowl. Pour coffee filling into crust. Bake until partially set and crust forms on filling, about 25 minutes. \n\nCarefully spoon chocolate filling over coffee filling. Bake cheesecake until set on edges but center 2 inches still move slightly when pan is shaken, about 30 minutes. Transfer cheesecake to rack and cool 20 minutes. Maintain oven temperature.\n\n\nFor topping:\nMix all ingredients in bowl. Press down on edges of cheesecake to even. Spoon topping over cheesecake. Bake 10 minutes. Transfer cheesecake to rack. Run small sharp knife around crust sides to loosen. Cool completely. Cover and chill overnight.\n\n\nFor garnish:\nDip spoon into melted chocolate. Wave from side to side over cheesecake, creating zigzag lines. Release and remove sides of springform pan. Spoon whipped cream into pastry bag fitted with large star tip. Pipe rosettes of cream around cake edges. Top with coffee bean candies if desired.\n",
                 "preptime": "",
@@ -800,7 +528,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "chicken breasts, pounded"
                     },
@@ -808,7 +535,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "flour"
                     },
@@ -816,7 +542,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 3,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "T",
                         "desc": "oil"
                     },
@@ -824,7 +549,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.333,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "lemon juice"
                     },
@@ -832,7 +556,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "chicken stock"
                     },
@@ -840,7 +563,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "capers, drained and rinsed"
                     },
@@ -848,7 +570,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 4,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "T",
                         "desc": "butter"
                     },
@@ -856,7 +577,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "heavy cream"
                     },
@@ -864,7 +584,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "Cup",
                         "desc": "parsley"
                     }
@@ -892,7 +611,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoon",
                         "desc": "vegetable oil"
                     },
@@ -900,7 +618,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoon",
                         "desc": "sesame oil"
                     },
@@ -908,7 +625,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "pounds",
                         "desc": "boneless, skinless chicken breast, cut into 1/2-inch pieces"
                     },
@@ -916,7 +632,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "bunch broccoli, cut into florets"
                     },
@@ -924,7 +639,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "package shiitake mushrooms"
                     },
@@ -932,7 +646,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "to 3 carrots, thinly sliced"
                     },
@@ -940,7 +653,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "red bell pepper, chopped"
                     },
@@ -948,7 +660,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "onion, diced"
                     },
@@ -956,7 +667,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "(8-ounce) can sliced water chestnuts, drained"
                     },
@@ -964,7 +674,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "chicken broth"
                     },
@@ -972,7 +681,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "hoisin sauce or bean sauce"
                     },
@@ -980,7 +688,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoon",
                         "desc": "soy sauce"
                     },
@@ -988,7 +695,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "powdered ginger"
                     },
@@ -996,7 +702,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "cornstarch"
                     },
@@ -1004,7 +709,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Bunches buckwheat noodles"
                     }
@@ -1029,26 +733,16 @@ module.exports = [
                 "notes": "I add whatever veggies I have on hand, and usually bake this in a casserole dish.  It takes much longer to bake, but I like it better than individual servings.",
                 "ingredients": [
                     {
-                        "isGroupHeader": false,
+                        "isGroupHeader": true,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
-                        "desc": "Crust"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": ""
+                        "desc": "Crust:"
                     },
                     {
                         "isGroupHeader": false,
                         "qty": 2.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "all purpose flour"
                     },
@@ -1056,7 +750,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "salt"
                     },
@@ -1064,7 +757,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "(2 sticks) unsalted butter, cut into pieces, room temperature"
                     },
@@ -1072,47 +764,20 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "8-ounce package cream cheese, cut into pieces, room temperature"
                     },
                     {
-                        "isGroupHeader": false,
+                        "isGroupHeader": true,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
-                        "desc": ""
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": ""
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": "Chicken"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": ""
+                        "desc": "Chicken:"
                     },
                     {
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "3 1/2-pound whole chicken"
                     },
@@ -1120,7 +785,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 12,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "water"
                     },
@@ -1128,7 +792,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "large onions, quartered"
                     },
@@ -1136,7 +799,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "large carrots, coarsely chopped"
                     },
@@ -1144,7 +806,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "large leek, sliced"
                     },
@@ -1152,7 +813,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 12,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "small thyme sprigs"
                     },
@@ -1160,47 +820,20 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "bay leaf"
                     },
                     {
-                        "isGroupHeader": false,
+                        "isGroupHeader": true,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
-                        "desc": ""
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": ""
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": "Filling and assembly"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": ""
+                        "desc": "Filling and assembly:"
                     },
                     {
                         "isGroupHeader": false,
                         "qty": 3,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "olive oil"
                     },
@@ -1208,7 +841,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "red bell peppers, cut into strips"
                     },
@@ -1216,7 +848,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "large onion, chopped"
                     },
@@ -1224,7 +855,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 8,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "ounces",
                         "desc": "shiitake mushrooms, stemmed, caps sliced"
                     },
@@ -1232,7 +862,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 4,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "ounces",
                         "desc": "green beans, boiled 1 minute, cut into 1-inch pieces"
                     },
@@ -1240,7 +869,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "chopped green onions"
                     },
@@ -1248,7 +876,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "drained oil-packed sun-dried tomatoes, chopped"
                     },
@@ -1256,31 +883,13 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoon",
                         "desc": "chopped rosemary"
                     },
                     {
                         "isGroupHeader": false,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": ""
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": ""
-                    },
-                    {
-                        "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "(1 stick) unsalted butter"
                     },
@@ -1288,7 +897,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "plus 2 tablespoons all purpose flour"
                     },
@@ -1296,7 +904,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "milk"
                     },
@@ -1304,7 +911,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "whipping cream"
                     },
@@ -1312,47 +918,21 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 4.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoons",
                         "desc": "beef base* or other concentrated beef-flavored broth*"
                     },
                     {
                         "isGroupHeader": false,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": ""
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": ""
-                    },
-                    {
-                        "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "egg, beaten to blend (for glaze)"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": ""
                     }
                 ],
                 "categories": "",
                 "yield": "",
                 "equipment": "",
-                "source": "Bon Appétit  | February 2001 ",
+                "source": "Bon Appétit  | February 2001",
                 "key": "agtzfmJjb29rYm9va3IPCxIHUmVjaXBlMhjmvwkM",
                 "directions": " For crust:\nMix flour and salt in processor. Add butter and cheese; blend until moist clumps form. Shape dough into 6-inch-long log. Wrap; chill while making chicken and filling.\n\nFor chicken:\nPlace all ingredients in large pot; bring to boil. Reduce heat; simmer until chicken is cooked through, about 45 minutes. Transfer chicken to large bowl; cool. Discard skin and bones. Cut meat into 1-inch pieces; return to bowl. Strain cooking liquid into large saucepan. Boil until reduced to 3 cups stock, about 1 hour.\n\nFor filling and assembly:\nHeat 1 tablespoon oil in large skillet over medium heat. Add peppers and onion; cook until soft, about 6 minutes. Transfer to bowl with chicken. Heat 2 tablespoons oil in same skillet over medium-high heat. Add mushrooms; sauté until just brown, about 4 minutes. Add to bowl with chicken; mix in next 4 ingredients.\n\nMelt butter in large saucepan over medium heat. Add flour; whisk 2 minutes. Gradually whisk in 3 cups stock, then milk, cream and beef base; bring to boil. Season sauce with salt and pepper. Stir 3 cups sauce into chicken mixture (reserve remaining sauce for another use).\n\nCut prepared dough crosswise into 6 equal pieces. Roll out pieces to 7-inch rounds on lightly floured surface. Divide filling among six 2-cup soufflé dishes. Cover each dish with 1 dough round. Press overhang to side of dish to adhere. (Can be made 1 day ahead. Cover; chill.)\n\nPreheat oven to 350°F. Brush top of each dough round with egg glaze; cut 3 slits in each for steam to escape. Bake pies until crust is golden brown and filling is heated through, about 45 minutes.",
                 "preptime": "",
@@ -1361,19 +941,19 @@ module.exports = [
             },
             {
                 "status": "active",
-                "subtitle": "",
+                "subtitle": "Ganache-Filled Chocolate Cupcakes with Seven-Minute Meringe Frosting",
                 "canEmailOwner": true,
                 "isFavorite": false,
                 "title": "Chocolate Ganache-Filled Cupcakes",
                 "lastModified": "2012-03-28T01:46:17",
                 "notes": "",
-                "ingredients": [],
+                "ingredients": [{"qty":0,"qty2":0,"uom":"","desc":"Cupcakes:","isGroupHeader":true},{"qty":1.75,"qty2":0,"uom":"cups","desc":"all purpose flour","isGroupHeader":false},{"qty":0.75,"qty2":0,"uom":"cup","desc":"unsweetened cocoa powder","isGroupHeader":false},{"qty":0.75,"qty2":0,"uom":"teaspoon","desc":"baking soda","isGroupHeader":false},{"qty":0.75,"qty2":0,"uom":"teaspoon","desc":"salt","isGroupHeader":false},{"qty":1.75,"qty2":0,"uom":"cups","desc":"sugar","isGroupHeader":false},{"qty":0.75,"qty2":0,"uom":"cup","desc":"(1 1/2 sticks) unsalted butter, room temperature","isGroupHeader":false},{"qty":2,"qty2":0,"uom":"","desc":"large eggs","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"teaspoon","desc":"vanilla extract","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"cup","desc":"hot water","isGroupHeader":false},{"qty":1.25,"qty2":0,"uom":"cups","desc":"bittersweet chocolate chips (about 7 1/2 ounces; do not exceed 61% cacao)","isGroupHeader":false},{"qty":0,"qty2":0,"uom":"","desc":"Filling and frosting:","isGroupHeader":true},{"qty":1,"qty2":0,"uom":"cup","desc":"heavy whipping cream","isGroupHeader":false},{"qty":1.5,"qty2":0,"uom":"cups","desc":"bittersweet chocolate chips (do not exceed 61% cacao)","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"cup","desc":"sugar","isGroupHeader":false},{"qty":2,"qty2":0,"uom":"","desc":"large egg whites","isGroupHeader":false},{"qty":0.25,"qty2":0,"uom":"teaspoon","desc":"cream of tartar","isGroupHeader":false},{"qty":0,"qty2":0,"uom":"","desc":"Pinch of coarse kosher salt","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"teaspoon","desc":"vanilla extract","isGroupHeader":false}],
                 "categories": "",
                 "yield": "",
                 "equipment": "",
-                "source": "",
+                "source": "Bon Appétit, April 2011, by Jeanne Kelley",
                 "key": "agtzfmJjb29rYm9va3IPCxIHUmVjaXBlMhj2kAkM",
-                "directions": "Ganache-Filled Chocolate Cupcakes with Seven-Minute Meringe Frosting\nCupcakes:\n1 3/4 cups all purpose flour \n3/4 cup unsweetened cocoa powder \n3/4 teaspoon baking soda \n3/4 teaspoon salt\n1 3/4 cups sugar \n3/4 cup (1 1/2 sticks) unsalted butter, room temperature \n2 large eggs \n1 teaspoon vanilla extract \n1 cup hot water\n1 1/4 cups bittersweet chocolate chips (about 7 1/2 ounces; do not exceed 61% cacao)\n\nFilling and frosting:\n1 cup heavy whipping cream\n1 1/2 cups bittersweet chocolate chips (do not exceed 61% cacao)\n1 cup sugar\n2 large egg whites \n1/4 teaspoon cream of tartar\nPinch of coarse kosher salt \n1 teaspoon vanilla extract\n\nFor cupcakes: \nPreheat oven to 350°F. Line two 12-cup standard muffin pans with paper liners. Sift flour, cocoa powder, baking soda, and salt into medium bowl. Using electric mixer, beat sugar and butter in large bowl until light and fluffy, about 2 minutes. Add eggs 1 at a time, beating until well incorporated after each addition. Beat in vanilla, half of flour mixture, then 1 cup hot water. Add remaining flour mixture; beat just until blended. Let batter stand until cooled and slightly thickened, about 5 minutes. Stir in chocolate chips. Divide batter among muffin papers (about 1/4 cup batter each). \n\nBake cupcakes until tester inserted into center comes out with some crumbs attached, 22 to 25 minutes. Cool cupcakes completely in pans. \n\nFor filling and frosting:\nBring cream just to boil in heavy small saucepan. Place chocolate chips in medium bowl; pour hot cream over. Let stand 1 minute, then whisk until melted and smooth. Let stand at room temperature until cool and firm, about 2 hours. (Alternatively, chill ganache until cool and firm, stirring occasionally, about 1 hour.) DO AHEAD: Can be made 4 hours ahead. Let stand at room temperature.\n\nWhisk 1/3 cup water, sugar, egg whites, cream of tartar, and coarse salt to blend in large metal bowl. Set bowl over saucepan of barely simmering water. Using electric mixer, beat mixture until soft peaks form, about 5 minutes. Remove bowl from over water and continue beating until frosting is cool to touch, stiff, and billowy, about 2 minutes. Beat vanilla into frosting. \n\nUsing thumb, press down center of each cupcake from top to bottom, forming deep pocket. Spoon or pipe ganache into pocket of each cupcake. \n\nFrost cupcakes, forming tall peaks. DO AHEAD: Cupcakes can be made 1 day ahead. Cover with cake dome and store at room temperature. \n\nBon Appétit\nApril 2011\nby Jeanne Kelley ",
+                "directions": "For cupcakes:\nPreheat oven to 350°F. Line two 12-cup standard muffin pans with paper liners. Sift flour, cocoa powder, baking soda, and salt into medium bowl. Using electric mixer, beat sugar and butter in large bowl until light and fluffy, about 2 minutes. Add eggs 1 at a time, beating until well incorporated after each addition. Beat in vanilla, half of flour mixture, then 1 cup hot water. Add remaining flour mixture; beat just until blended. Let batter stand until cooled and slightly thickened, about 5 minutes. Stir in chocolate chips. Divide batter among muffin papers (about 1/4 cup batter each). \n\nBake cupcakes until tester inserted into center comes out with some crumbs attached, 22 to 25 minutes. Cool cupcakes completely in pans. \n\nFor filling and frosting:\nBring cream just to boil in heavy small saucepan. Place chocolate chips in medium bowl; pour hot cream over. Let stand 1 minute, then whisk until melted and smooth. Let stand at room temperature until cool and firm, about 2 hours. (Alternatively, chill ganache until cool and firm, stirring occasionally, about 1 hour.) DO AHEAD: Can be made 4 hours ahead. Let stand at room temperature.\n\nWhisk 1/3 cup water, sugar, egg whites, cream of tartar, and coarse salt to blend in large metal bowl. Set bowl over saucepan of barely simmering water. Using electric mixer, beat mixture until soft peaks form, about 5 minutes. Remove bowl from over water and continue beating until frosting is cool to touch, stiff, and billowy, about 2 minutes. Beat vanilla into frosting. \n\nUsing thumb, press down center of each cupcake from top to bottom, forming deep pocket. Spoon or pipe ganache into pocket of each cupcake. \n\nFrost cupcakes, forming tall peaks. DO AHEAD: Cupcakes can be made 1 day ahead. Cover with cake dome and store at room temperature.",
                 "preptime": "",
                 "owner_id": "102168863463009654270",
                 "owner_email": "angieboone01@gmail.com"
@@ -1391,23 +971,13 @@ module.exports = [
                         "isGroupHeader": true,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Cookies:"
                     },
                     {
                         "isGroupHeader": false,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": ""
-                    },
-                    {
-                        "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "all-purpose flour"
                     },
@@ -1415,7 +985,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "unsweetened cocoa powder"
                     },
@@ -1423,7 +992,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "baking soda"
                     },
@@ -1431,7 +999,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "salt"
                     },
@@ -1439,7 +1006,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "(2 sticks) unsalted butter, room temperature"
                     },
@@ -1447,7 +1013,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "packed light brown sugar"
                     },
@@ -1455,7 +1020,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "sugar"
                     },
@@ -1463,7 +1027,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "eggs"
                     },
@@ -1471,7 +1034,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoons",
                         "desc": "vanilla extract"
                     },
@@ -1479,39 +1041,20 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "chocolate chips"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": ""
                     },
                     {
                         "isGroupHeader": true,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Glaze:"
                     },
                     {
                         "isGroupHeader": false,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": ""
-                    },
-                    {
-                        "isGroupHeader": false,
                         "qty": 0.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "confectioners' sugar"
                     },
@@ -1519,7 +1062,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "drops mint extract, or more to taste"
                     },
@@ -1527,17 +1069,8 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 3.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoons",
                         "desc": "water"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": ""
                     }
                 ],
                 "categories": "cookies, chocolate",
@@ -1545,7 +1078,7 @@ module.exports = [
                 "equipment": "",
                 "source": "foodnetwork.com",
                 "key": "agtzfmJjb29rYm9va3IPCxIHUmVjaXBlMhiWsAkM",
-                "directions": " For the cookies:\n\nPreheat oven to 350 degrees F.\n\nIn a medium bowl sift together flour, cocoa powder, baking soda and salt. Set aside. \n\nIn a mixer beat together the butter with the sugars until fluffy, about 2 minutes. Add eggs 1 at a time, beating until smooth after each addition and scraping the sides of the bowl as necessary. Add in the vanilla. \n\nOn a low speed beat in the flour mixture a little at a time. Gently mix in chocolate chips.\n\nOn an ungreased cookie sheet, drop teaspoons of the batter about 2 inches apart. Bake until just cracked on top, about 8 to10 minutes, rotating the pan halfway through the cooking time. Cool completely.\n\nFor the glaze:\n\nIn a small bowl mix together the sugar; mint extract and water until smooth. Transfer mixture to a medium resealable plastic bag and snip off the corner. Drizzle glaze over cooled cookies. Let cookies stand until set, about 10 minutes. ",
+                "directions": " For the cookies:\n\nPreheat oven to 350 degrees F.\n\nIn a medium bowl sift together flour, cocoa powder, baking soda and salt. Set aside. \n\nIn a mixer beat together the butter with the sugars until fluffy, about 2 minutes. Add eggs 1 at a time, beating until smooth after each addition and scraping the sides of the bowl as necessary. Add in the vanilla. \n\nOn a low speed beat in the flour mixture a little at a time. Gently mix in chocolate chips.\n\nOn an ungreased cookie sheet, drop teaspoons of the batter about 2 inches apart. Bake until just cracked on top, about 8 to10 minutes, rotating the pan halfway through the cooking time. Cool completely.\n\nFor the glaze:\n\nIn a small bowl mix together the sugar; mint extract and water until smooth. Transfer mixture to a medium resealable plastic bag and snip off the corner. Drizzle glaze over cooled cookies. Let cookies stand until set, about 10 minutes.",
                 "preptime": "40 min",
                 "owner_id": "102168863463009654270",
                 "owner_email": "angieboone01@gmail.com"
@@ -1563,7 +1096,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "bunch scallions"
                     },
@@ -1571,7 +1103,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "extra-virgin olive oil"
                     },
@@ -1579,7 +1110,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "medium onions, chopped (1 1/2 cups)"
                     },
@@ -1587,7 +1117,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 4,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "garlic cloves, finely chopped"
                     },
@@ -1595,7 +1124,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoons",
                         "desc": "salt"
                     },
@@ -1603,7 +1131,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "black pepper"
                     },
@@ -1611,7 +1138,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 6,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "oz",
                         "desc": "Spanish chorizo (cured spiced pork sausage), cut into 1/4-inch dice"
                     },
@@ -1619,7 +1145,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "lb",
                         "desc": "yellow-fleshed potatoes such as Yukon Gold (about 4 medium), peeled and cut into 1/4-inch dice"
                     },
@@ -1627,7 +1152,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 9,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "large eggs"
                     },
@@ -1635,7 +1159,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "sour cream"
                     },
@@ -1643,7 +1166,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "oz",
                         "desc": "Manchego or white Cheddar, coarsely grated (2 cups)"
                     }
@@ -1671,7 +1193,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 3,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "whole milk"
                     },
@@ -1679,7 +1200,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "sugar"
                     },
@@ -1687,7 +1207,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "whipping cream"
                     },
@@ -1695,7 +1214,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "cinnamon sticks"
                     },
@@ -1703,7 +1221,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.125,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "salt"
                     },
@@ -1711,7 +1228,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 12,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "large egg yolks"
                     },
@@ -1719,7 +1235,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "vanilla extract"
                     }
@@ -1747,7 +1262,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "heavy cream"
                     },
@@ -1755,7 +1269,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "milk"
                     },
@@ -1763,7 +1276,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.667,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "sugar"
                     },
@@ -1771,7 +1283,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Pinch of Salt"
                     },
@@ -1779,7 +1290,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 4,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoons",
                         "desc": "instant coffee (get decaf)"
                     },
@@ -1787,7 +1297,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 6,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "egg yolks"
                     },
@@ -1795,7 +1304,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 10,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "oreo cookies, crushed"
                     },
@@ -1803,7 +1311,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "ounce",
                         "desc": "(2 Tbsp) Mount Gay rum, or other golden rum"
                     }
@@ -1831,7 +1338,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "water, vegetable or chicken stock"
                     },
@@ -1839,7 +1345,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoon",
                         "desc": "unsalted butter"
                     },
@@ -1847,7 +1352,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "medium onion, coarsely chopped"
                     },
@@ -1855,7 +1359,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "cloves garlic, minced"
                     },
@@ -1863,7 +1366,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.125,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "ground nutmeg (optional)"
                     },
@@ -1871,7 +1373,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 4.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "stock"
                     },
@@ -1879,7 +1380,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "white wine"
                     },
@@ -1887,7 +1387,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "pounds",
                         "desc": "vegetable of choice, coarsely chopped"
                     },
@@ -1895,7 +1394,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "(cauliflower, broccoli, carrot, spinach, etc.)"
                     },
@@ -1903,7 +1401,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0.5,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "heavy cream or milk"
                     },
@@ -1911,7 +1408,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 1,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "ground white or black pepper"
                     }
@@ -1939,7 +1435,6 @@ module.exports = [
                         "isGroupHeader": true,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "For Cake Layers"
                     },
@@ -1947,7 +1442,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 3,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "ounces",
                         "desc": "fine-quality semisweet chocolate such as Callebaut"
                     },
@@ -1955,7 +1449,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "hot brewed coffee"
                     },
@@ -1963,7 +1456,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 3,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "sugar"
                     },
@@ -1971,7 +1463,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "all-purpose flour"
                     },
@@ -1979,7 +1470,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "unsweetened cocoa powder (not Dutch process)"
                     },
@@ -1987,7 +1477,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoons",
                         "desc": "baking soda"
                     },
@@ -1995,7 +1484,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "baking powder"
                     },
@@ -2003,7 +1491,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoons",
                         "desc": "salt"
                     },
@@ -2011,7 +1498,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 3,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "large eggs"
                     },
@@ -2019,7 +1505,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "vegetable oil"
                     },
@@ -2027,7 +1512,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "well-shaken buttermilk"
                     },
@@ -2035,7 +1519,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "vanilla"
                     },
@@ -2043,7 +1526,6 @@ module.exports = [
                         "isGroupHeader": true,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "For Ganache Icing"
                     },
@@ -2051,7 +1533,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "pound",
                         "desc": "fine-quality semisweet chocolate such as Callebaut"
                     },
@@ -2059,7 +1540,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "heavy cream"
                     },
@@ -2067,7 +1547,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "sugar"
                     },
@@ -2075,7 +1554,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "light corn syrup"
                     },
@@ -2083,7 +1561,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "stick",
                         "desc": "(1/4 cup) unsalted butter"
                     }
@@ -2111,7 +1588,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "sticks",
                         "desc": "unsalted butter"
                     },
@@ -2119,7 +1595,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "oz.",
                         "desc": "chopped unsweetened (we use 60 - 90%) chocolate"
                     },
@@ -2127,7 +1602,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "c.",
                         "desc": "sugar"
                     },
@@ -2135,7 +1609,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "T",
                         "desc": "espresso powder (I use decaf or reduce the amount)"
                     },
@@ -2143,7 +1616,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp.",
                         "desc": "vanilla"
                     },
@@ -2151,7 +1623,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp.",
                         "desc": "salt"
                     },
@@ -2159,7 +1630,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 4,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "lg. eggs"
                     },
@@ -2167,7 +1637,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "c.",
                         "desc": "all-purpose flour"
                     },
@@ -2175,7 +1644,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "c.",
                         "desc": "semisweet chocolate chips"
                     }
@@ -2203,7 +1671,6 @@ module.exports = [
                         "isGroupHeader": true,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "For crust"
                     },
@@ -2211,7 +1678,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "finely ground chocolate wafers (about 26)"
                     },
@@ -2219,7 +1685,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "stick",
                         "desc": "(6 tablespoons) unsalted butter, melted"
                     },
@@ -2227,7 +1692,6 @@ module.exports = [
                         "isGroupHeader": true,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "For filling"
                     },
@@ -2235,7 +1699,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 4,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "large eggs"
                     },
@@ -2243,7 +1706,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "sugar"
                     },
@@ -2251,7 +1713,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "pounds",
                         "desc": "cream cheese, softened"
                     },
@@ -2259,7 +1720,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "cornstarch"
                     },
@@ -2267,7 +1727,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoon",
                         "desc": "plus 1 teaspoon vanilla extract"
                     },
@@ -2275,7 +1734,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "sour cream"
                     },
@@ -2283,7 +1741,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "instant espresso powder"
                     },
@@ -2291,7 +1748,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 12,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "ounces",
                         "desc": "fine-quality bittersweet chocolate (not unsweetened), melted and cooled"
                     },
@@ -2299,7 +1755,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "chilled heavy cream, whipped into soft peaks"
                     },
@@ -2307,7 +1762,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Garnish: bittersweet and milk chocolate curls"
                     }
@@ -2335,7 +1789,6 @@ module.exports = [
                         "isGroupHeader": true,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Cake Ingredients"
                     },
@@ -2343,7 +1796,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "ounces",
                         "desc": "fine-quality semisweet chocolate"
                     },
@@ -2351,7 +1803,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "hot brewed coffee"
                     },
@@ -2359,7 +1810,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "sugar"
                     },
@@ -2367,7 +1817,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "all-purpose flour"
                     },
@@ -2375,7 +1824,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "unsweetened cocoa powder (not Dutch process)"
                     },
@@ -2383,7 +1831,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "baking soda"
                     },
@@ -2391,7 +1838,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "scant teaspoon baking powder"
                     },
@@ -2399,7 +1845,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.667,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "salt"
                     },
@@ -2407,7 +1852,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "large eggs"
                     },
@@ -2415,7 +1859,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.375,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "vegetable oil"
                     },
@@ -2423,7 +1866,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "well-shaken buttermilk"
                     },
@@ -2431,7 +1873,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "vanilla"
                     },
@@ -2439,7 +1880,6 @@ module.exports = [
                         "isGroupHeader": true,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Mousse Ingredients"
                     },
@@ -2447,7 +1887,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Vegetable oil"
                     },
@@ -2455,7 +1894,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 4,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "ounces",
                         "desc": "bittersweet chocolate, chopped"
                     },
@@ -2463,7 +1901,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 4,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "ounces",
                         "desc": "milk chocolate, chopped"
                     },
@@ -2471,7 +1908,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 4,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "ounces",
                         "desc": "good-quality white chocolate"
                     },
@@ -2479,7 +1915,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "cold water"
                     },
@@ -2487,7 +1922,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoon",
                         "desc": "unflavored gelatin"
                     },
@@ -2495,7 +1929,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "large egg yolks"
                     },
@@ -2503,7 +1936,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "sugar"
                     },
@@ -2511,7 +1943,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "half and half"
                     },
@@ -2519,7 +1950,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "chilled whipping cream"
                     }
@@ -2547,7 +1977,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 4,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "(1/2 stick) butter, divided"
                     },
@@ -2555,7 +1984,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 3,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "coarsely chopped zucchini and/or yellow crookneck squash"
                     },
@@ -2563,7 +1991,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "chopped onion"
                     },
@@ -2571,7 +1998,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "fresh corn kernels or frozen, thawed"
                     },
@@ -2579,7 +2005,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "4-ounce can diced mild green chilies"
                     },
@@ -2587,7 +2012,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "chopped fresh cilantro"
                     },
@@ -2595,7 +2019,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "chicken, roasted"
                     },
@@ -2603,7 +2026,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": ""
                     },
@@ -2611,7 +2033,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 3,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "chili powder"
                     },
@@ -2619,7 +2040,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "all purpose flour"
                     },
@@ -2627,7 +2047,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoons",
                         "desc": "ground cumin"
                     },
@@ -2635,7 +2054,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "whole milk"
                     },
@@ -2643,7 +2061,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "(packed) grated Monterey Jack and/or sharp cheddar cheese (about 8 ounces)"
                     },
@@ -2651,7 +2068,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": ""
                     },
@@ -2659,7 +2075,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 8,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "8-inch warm flour tortillas"
                     }
@@ -2687,7 +2102,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "C",
                         "desc": "low sodium chicken broth"
                     },
@@ -2695,7 +2109,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "C",
                         "desc": "chopped roasted Hatch green chiles"
                     },
@@ -2703,7 +2116,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "C",
                         "desc": "sour cream"
                     },
@@ -2711,7 +2123,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "c",
                         "desc": "cream"
                     },
@@ -2719,7 +2130,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp",
                         "desc": "salt"
                     },
@@ -2727,7 +2137,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp",
                         "desc": "ground cumin"
                     },
@@ -2735,7 +2144,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp",
                         "desc": "freshly ground black pepper"
                     },
@@ -2743,7 +2151,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp.",
                         "desc": "boullion"
                     },
@@ -2751,7 +2158,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "garlic clove, minced"
                     },
@@ -2759,7 +2165,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 8,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "(6-inch) corn or flour tortillas"
                     },
@@ -2767,7 +2172,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "lbs",
                         "desc": "shredded cooked chicken breast"
                     },
@@ -2775,7 +2179,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "C",
                         "desc": "shredded cheese"
                     }
@@ -2803,7 +2206,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "C",
                         "desc": "low sodium chicken broth"
                     },
@@ -2811,7 +2213,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "C",
                         "desc": "chopped roasted Hatch green chiles"
                     },
@@ -2819,7 +2220,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "C",
                         "desc": "sour cream"
                     },
@@ -2827,7 +2227,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "c",
                         "desc": "cream"
                     },
@@ -2835,7 +2234,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp",
                         "desc": "salt"
                     },
@@ -2843,7 +2241,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp",
                         "desc": "ground cumin"
                     },
@@ -2851,7 +2248,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp",
                         "desc": "freshly ground black pepper"
                     },
@@ -2859,7 +2255,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp.",
                         "desc": "boullion"
                     },
@@ -2867,7 +2262,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "garlic clove, minced"
                     },
@@ -2875,7 +2269,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 8,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "(6-inch) corn or flour tortillas"
                     },
@@ -2883,7 +2276,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "lbs",
                         "desc": "shredded cooked chicken breast"
                     },
@@ -2891,7 +2283,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "C",
                         "desc": "shredded cheese"
                     }
@@ -2919,7 +2310,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "milk"
                     },
@@ -2927,7 +2317,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "water"
                     },
@@ -2935,7 +2324,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "butter"
                     },
@@ -2943,7 +2331,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 4.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "all-purpose flour"
                     },
@@ -2951,7 +2338,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "(.25 ounce) package instant yeast"
                     },
@@ -2959,7 +2345,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "white sugar"
                     },
@@ -2967,7 +2352,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoons",
                         "desc": "salt"
                     },
@@ -2975,7 +2359,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "egg"
                     }
@@ -3003,7 +2386,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "lb",
                         "desc": "elbow macaroni"
                     },
@@ -3011,7 +2393,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tbsp",
                         "desc": "butter"
                     },
@@ -3019,7 +2400,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "chicken broth"
                     },
@@ -3027,7 +2407,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 8,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "tomatillos, husked and chopped"
                     },
@@ -3035,7 +2414,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 6,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Hatch chiles, peeled, seeded and chopped"
                     },
@@ -3043,7 +2421,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "medium white onion, chopped"
                     },
@@ -3051,7 +2428,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "cloves garlic, minced"
                     },
@@ -3059,7 +2435,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "cilantro leaves, loosely packed"
                     },
@@ -3067,7 +2442,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp",
                         "desc": "salt"
                     },
@@ -3075,7 +2449,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tbsp",
                         "desc": "vegetable oil"
                     },
@@ -3083,7 +2456,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "half and half"
                     },
@@ -3091,7 +2463,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "Monterey Jack cheese, shredded"
                     },
@@ -3099,7 +2470,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "white cheddar cheese, shredded"
                     },
@@ -3107,7 +2477,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 4,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "oz",
                         "desc": "cream cheese, cubed"
                     },
@@ -3115,7 +2484,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "chicken breast, cooked and shredded"
                     },
@@ -3123,7 +2491,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "tortilla chips, crushed"
                     },
@@ -3131,7 +2498,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tbsp",
                         "desc": "butter, melted"
                     },
@@ -3139,7 +2505,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "Monterey Jack cheese, grated"
                     }
@@ -3149,7 +2514,7 @@ module.exports = [
                 "equipment": "Skillet!",
                 "source": "Central Market",
                 "key": "agtzfmJjb29rYm9va3IPCxIHUmVjaXBlMhiOjAgM",
-                "directions": "Cook pasta until al dente and drain. Butter 12-inch cast iron skillet. \n\nHeat broth with tomatillos and Hatch chiles and cook for 10 minutes. Transfer to food processor and pulse. Add onion, garlic, cilantro and salt. \n\nHeat oil in saucepan. Add tomatillo mixture and cook over medium-low heat for six minutes. Stir in half and half and cheeses until heated through. Toss in pasta and chicken and place in cast iron skillet. \n\nMix last four ingredients for topping and spread over pasta mixture. Place skillet under broiler for 15 minutes until golden brown. ",
+                "directions": "Cook pasta until al dente and drain. Butter 12-inch cast iron skillet. \n\nHeat broth with tomatillos and Hatch chiles and cook for 10 minutes. Transfer to food processor and pulse. Add onion, garlic, cilantro and salt. \n\nHeat oil in saucepan. Add tomatillo mixture and cook over medium-low heat for six minutes. Stir in half and half and cheeses until heated through. Toss in pasta and chicken and place in cast iron skillet. \n\nMix last four ingredients for topping and spread over pasta mixture. Place skillet under broiler for 15 minutes until golden brown.",
                 "preptime": "45 minutes",
                 "owner_id": "102168863463009654270",
                 "owner_email": "angieboone01@gmail.com"
@@ -3167,7 +2532,6 @@ module.exports = [
                         "isGroupHeader": true,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Crust"
                     },
@@ -3175,7 +2539,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "cake flour"
                     },
@@ -3183,7 +2546,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "plus 2 tablespoons (1 1/4 sticks) chilled unsalted butter, cut into 1/2-inch pieces"
                     },
@@ -3191,7 +2553,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "(packed) golden brown sugar"
                     },
@@ -3199,7 +2560,6 @@ module.exports = [
                         "isGroupHeader": true,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Hazelnut Praline Filling"
                     },
@@ -3207,7 +2567,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 4,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "8-ounce packages cream cheese, room temperature"
                     },
@@ -3215,7 +2574,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "sugar"
                     },
@@ -3223,7 +2581,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "all purpose flour"
                     },
@@ -3231,7 +2588,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "whipping cream"
                     },
@@ -3239,7 +2595,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "vanilla extract"
                     },
@@ -3247,7 +2602,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 4,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "large eggs"
                     }
@@ -3275,7 +2629,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "c",
                         "desc": "unsalted butter, soft"
                     },
@@ -3283,7 +2636,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "c",
                         "desc": "brown sugar"
                     },
@@ -3291,7 +2643,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "large egg"
                     },
@@ -3299,7 +2650,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp",
                         "desc": "Mexican vanilla"
                     },
@@ -3307,7 +2657,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2.667,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "c",
                         "desc": "flour"
                     },
@@ -3315,7 +2664,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp",
                         "desc": "baking powder"
                     },
@@ -3323,7 +2671,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp",
                         "desc": "salt"
                     },
@@ -3331,7 +2678,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp",
                         "desc": "nutmeg (opt.)"
                     },
@@ -3339,7 +2685,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp",
                         "desc": "cinnamon (opt.)"
                     },
@@ -3347,7 +2692,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "vanilla bean (opt.)"
                     }
@@ -3375,7 +2719,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "warm water (110-115 degrees)"
                     },
@@ -3383,7 +2726,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "sugar"
                     },
@@ -3391,7 +2733,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoon",
                         "desc": "yeast"
                     },
@@ -3399,7 +2740,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "egg"
                     },
@@ -3407,7 +2747,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "honey"
                     },
@@ -3415,7 +2754,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "butter"
                     },
@@ -3423,7 +2761,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "Tsp",
                         "desc": "Salt"
                     },
@@ -3431,7 +2768,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 3,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "whole wheat or bread flour"
                     },
@@ -3439,7 +2775,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "oats"
                     }
@@ -3481,13 +2816,13 @@ module.exports = [
                 "title": "Lemon Raspberry-Filled Cupcakes",
                 "lastModified": "2012-03-28T01:49:18",
                 "notes": "",
-                "ingredients": [],
+                "ingredients": [{"qty":0.75,"qty2":0,"uom":"cup","desc":"(12 tablespoons) unsalted butter, room temperature","isGroupHeader":false},{"qty":3,"qty2":0,"uom":"cups","desc":"powdered sugar, divided","isGroupHeader":false},{"qty":4.5,"qty2":0,"uom":"teaspoons","desc":"finely grated lemon peel, divided","isGroupHeader":false},{"qty":2,"qty2":0,"uom":"","desc":"large eggs","isGroupHeader":false},{"qty":1.25,"qty2":0,"uom":"cups","desc":"self-rising flour","isGroupHeader":false},{"qty":0.25,"qty2":0,"uom":"cup","desc":"buttermilk","isGroupHeader":false},{"qty":4,"qty2":0,"uom":"tablespoons","desc":"fresh lemon juice, divided","isGroupHeader":false},{"qty":12,"qty2":0,"uom":"teaspoons","desc":"plus 1 tablespoon seedless raspberry jam","isGroupHeader":false},{"qty":0,"qty2":0,"uom":"","desc":"Fresh raspberries (for garnish)","isGroupHeader":false}],
                 "categories": "",
                 "yield": "",
                 "equipment": "",
-                "source": "",
+                "source": "Bon Appétit, April 2008,  Janet Taylor McCracken",
                 "key": "agtzfmJjb29rYm9va3IPCxIHUmVjaXBlMhjemAkM",
-                "directions": "Lemon-Raspberry Cupcakes\n3/4 cup (12 tablespoons) unsalted butter, room temperature\n3 cups powdered sugar, divided\n4 1/2 teaspoons finely grated lemon peel, divided\n2 large eggs\n1 1/4 cups self-rising flour\n1/4 cup buttermilk\n4 tablespoons fresh lemon juice, divided\n12 teaspoons plus 1 tablespoon seedless raspberry jam\nFresh raspberries (for garnish)\n\nPreheat oven to 350°F. Line 12 muffin cups with paper liners. Using electric mixer, beat butter, 1 1/2 cups powdered sugar, and 3 teaspoons lemon peel in large bowl until blended, then beat until fluffy and pale yellow. Add eggs 1 at a time, beating to blend after each addition. Beat in half of flour. Add buttermilk and 2 tablespoons lemon juice; beat to blend. Beat in remaining flour.\n\nDrop 1 rounded tablespoonful batter into each muffin liner. Spoon 1 teaspoon raspberry jam over. Cover with remaining batter, dividing equally.\n\nBake cupcakes until tester inserted halfway into centers comes out clean, about 23 minutes. Cool cupcakes in pan on rack. Meanwhile, whisk remaining 1 1/2 cups powdered sugar, 2 tablespoons lemon juice, and 1 1/2 teaspoons lemon peel in small bowl. Spoon half of icing over 6 cupcakes. Whisk 1 tablespoon raspberry jam into remaining icing. Spoon over remaining cupcakes. Let stand until icing sets, about 30 minutes. Garnish with raspberries.\n\nI like it best with lemon cream cheese frosting and a raspberry on top!\n\nBon Appétit\nApril 2008\nJanet Taylor McCracken",
+                "directions": "Preheat oven to 350°F. Line 12 muffin cups with paper liners. Using electric mixer, beat butter, 1 1/2 cups powdered sugar, and 3 teaspoons lemon peel in large bowl until blended, then beat until fluffy and pale yellow. Add eggs 1 at a time, beating to blend after each addition. Beat in half of flour. Add buttermilk and 2 tablespoons lemon juice; beat to blend. Beat in remaining flour.\n\nDrop 1 rounded tablespoonful batter into each muffin liner. Spoon 1 teaspoon raspberry jam over. Cover with remaining batter, dividing equally.\n\nBake cupcakes until tester inserted halfway into centers comes out clean, about 23 minutes. Cool cupcakes in pan on rack. Meanwhile, whisk remaining 1 1/2 cups powdered sugar, 2 tablespoons lemon juice, and 1 1/2 teaspoons lemon peel in small bowl. Spoon half of icing over 6 cupcakes. Whisk 1 tablespoon raspberry jam into remaining icing. Spoon over remaining cupcakes. Let stand until icing sets, about 30 minutes. Garnish with raspberries.\n\nI like it best with lemon cream cheese frosting and a raspberry on top!",
                 "preptime": "",
                 "owner_id": "102168863463009654270",
                 "owner_email": "angieboone01@gmail.com"
@@ -3505,7 +2840,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoon",
                         "desc": "unsalted butter, softened"
                     },
@@ -3513,7 +2847,6 @@ module.exports = [
                         "isGroupHeader": true,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Cookie crust"
                     },
@@ -3521,7 +2854,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "One 10-ounce package butter biscuits, wafers, or shortbread cookies"
                     },
@@ -3529,7 +2861,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.333,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "walnuts"
                     },
@@ -3537,7 +2868,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "granulated sugar"
                     },
@@ -3545,7 +2875,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 4,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "ounces",
                         "desc": "(8 tablespoons, 1 stick) unsalted butter, melted and cooled"
                     },
@@ -3553,7 +2882,6 @@ module.exports = [
                         "isGroupHeader": true,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Cheesecake"
                     },
@@ -3561,7 +2889,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 14,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "ounces",
                         "desc": "milk chocolate, finely chopped"
                     },
@@ -3569,7 +2896,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "heavy whipping cream"
                     },
@@ -3577,7 +2903,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "malted milk powder"
                     },
@@ -3585,7 +2910,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "pounds",
                         "desc": "cream cheese, softened"
                     },
@@ -3593,7 +2917,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "granulated sugar"
                     },
@@ -3601,7 +2924,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 4,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "extra-large eggs, at room temperature"
                     },
@@ -3609,7 +2931,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "sour cream"
                     },
@@ -3617,7 +2938,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoons",
                         "desc": "pure vanilla extract"
                     },
@@ -3625,7 +2945,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "quart",
                         "desc": "boiling water"
                     }
@@ -3651,17 +2970,8 @@ module.exports = [
                 "ingredients": [
                     {
                         "isGroupHeader": false,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": ""
-                    },
-                    {
-                        "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "all purpose flour"
                     },
@@ -3669,7 +2979,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "sugar"
                     },
@@ -3677,7 +2986,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoons",
                         "desc": "baking powder"
                     },
@@ -3685,7 +2993,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "salt"
                     },
@@ -3693,7 +3000,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 6,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "(3/4 stick) chilled unsalted butter, cut into pieces"
                     },
@@ -3701,7 +3007,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "toasted chopped pecans"
                     },
@@ -3709,7 +3014,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "whipping cream"
                     },
@@ -3717,7 +3021,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "large egg yolks"
                     },
@@ -3725,7 +3028,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoons",
                         "desc": "maple extract"
                     },
@@ -3733,7 +3035,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "egg, beaten to blend with 1 teaspoon water (for glaze)"
                     }
@@ -3761,7 +3062,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "powdered sugar"
                     },
@@ -3769,7 +3069,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 3.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "envelopes / 2 tbsp + 2 1/2 tsp gelatin"
                     },
@@ -3777,7 +3076,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "cold water"
                     },
@@ -3785,7 +3083,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "sugar"
                     },
@@ -3793,7 +3090,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "lt. corn syrup"
                     },
@@ -3801,7 +3097,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "hot water (~115°)"
                     },
@@ -3809,7 +3104,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp",
                         "desc": "salt"
                     },
@@ -3817,7 +3111,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "large egg whites"
                     },
@@ -3825,7 +3118,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp",
                         "desc": "vanilla"
                     },
@@ -3833,7 +3125,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "colors or flavors"
                     }
@@ -3861,7 +3152,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.333,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "c",
                         "desc": "vegetable shortening, plus more for pan (I prefer softened butter)"
                     },
@@ -3869,7 +3159,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoon",
                         "desc": "unsalted butter"
                     },
@@ -3877,7 +3166,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "corn kernels"
                     },
@@ -3885,7 +3173,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "all-purpose flour"
                     },
@@ -3893,7 +3180,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.333,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "sugar"
                     },
@@ -3901,7 +3187,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoons",
                         "desc": "baking powder"
                     },
@@ -3909,7 +3194,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "salt"
                     },
@@ -3917,7 +3201,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "stone-ground yellow cornmeal"
                     },
@@ -3925,7 +3208,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "milk"
                     },
@@ -3933,7 +3215,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "large egg, lightly beaten"
                     }
@@ -3956,13 +3237,13 @@ module.exports = [
                 "title": "Martha's Seven Minute Frosting",
                 "lastModified": "2012-01-29T02:34:49",
                 "notes": "",
-                "ingredients": [],
+                "ingredients": [{"qty":1.5,"qty2":0,"uom":"cups","desc":"plus 2 tablespoons sugar","isGroupHeader":false},{"qty":0.667,"qty2":0,"uom":"cup","desc":"water","isGroupHeader":false},{"qty":2,"qty2":0,"uom":"tablespoons","desc":"light corn syrup","isGroupHeader":false},{"qty":6,"qty2":0,"uom":"","desc":"large egg whites, room temperature","isGroupHeader":false},{"qty":0,"qty2":0,"uom":"","desc":"For Coconut Variation:","isGroupHeader":true},{"qty":0,"qty2":0,"uom":"","desc":"Add 1/2 teaspoon pure coconut extract at the end of step 3, whisking to combine.","isGroupHeader":false},{"qty":0,"qty2":0,"uom":"","desc":"For Coffee Variation:","isGroupHeader":true},{"qty":0,"qty2":0,"uom":"","desc":"Add 2 tablespoons pure coffee extract at the end of step 3, whisking to combine.","isGroupHeader":false}],
                 "categories": "",
                 "yield": "",
                 "equipment": "",
                 "source": "",
                 "key": "agtzfmJjb29rYm9va3IPCxIHUmVjaXBlMhjemwgM",
-                "directions": "Ingredients\n\n1 1/2 cups plus 2 tablespoons sugar\n2/3 cup water\n2 tablespoons light corn syrup\n6 large egg whites, room temperature\nFor Coconut Variation\nAdd 1/2 teaspoon pure coconut extract at the end of step 3, whisking to combine.\nFor Coffee Variation\nAdd 2 tablespoons pure coffee extract at the end of step 3, whisking to combine.\nDirections\n\nCombine 1 1/2 cups sugar with the water and corn syrup in a small saucepan; clip a candy thermometer to side of pan. Bring to a boil over medium heat, stirring occasionally, until sugar dissolves. Continue boiling, without stirring, until syrup reaches 230 degrees.\nMeanwhile, in the bowl of a standing electric mixer fitted with the whisk attachment, whisk egg whites on medium-high speed until soft peaks form. With mixer running, add remaining 2 tablespoons sugar, beating to combine.\nAs soon as sugar syrup reaches 230 degrees, remove from heat. With mixer on medium-low speed, pour syrup down side of bowl in a slow, steady stream. Raise speed to medium-high; whisk until mixture is completely cool (test by touching the bottom of the bowl) and stiff (but not dry) peaks form, about 7 minutes. Use immediately.",
+                "directions": "Combine 1 1/2 cups sugar with the water and corn syrup in a small saucepan; clip a candy thermometer to side of pan. Bring to a boil over medium heat, stirring occasionally, until sugar dissolves. Continue boiling, without stirring, until syrup reaches 230 degrees.\nMeanwhile, in the bowl of a standing electric mixer fitted with the whisk attachment, whisk egg whites on medium-high speed until soft peaks form. With mixer running, add remaining 2 tablespoons sugar, beating to combine.\nAs soon as sugar syrup reaches 230 degrees, remove from heat. With mixer on medium-low speed, pour syrup down side of bowl in a slow, steady stream. Raise speed to medium-high; whisk until mixture is completely cool (test by touching the bottom of the bowl) and stiff (but not dry) peaks form, about 7 minutes. Use immediately.",
                 "preptime": "",
                 "owner_id": "102168863463009654270",
                 "owner_email": "angieboone01@gmail.com"
@@ -3975,13 +3256,13 @@ module.exports = [
                 "title": "Martha's Snickerdoodle Cupcakes",
                 "lastModified": "2012-01-29T02:36:53",
                 "notes": "",
-                "ingredients": [],
+                "ingredients": [{"qty":1.5,"qty2":0,"uom":"cups","desc":"all-purpose flour","isGroupHeader":false},{"qty":1.5,"qty2":0,"uom":"cups","desc":"cake flour (not self- rising), sifted","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"tablespoon","desc":"baking powder","isGroupHeader":false},{"qty":0.5,"qty2":0,"uom":"teaspoon","desc":"salt","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"tablespoon","desc":"ground cinnamon, plus 1/2 teaspoon for dusting","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"cup","desc":"(2 sticks) unsalted butter, room temperature","isGroupHeader":false},{"qty":1.75,"qty2":0,"uom":"cups","desc":"sugar, plus 2 tablespoons for dusting","isGroupHeader":false},{"qty":4,"qty2":0,"uom":"","desc":"large eggs, room temperature","isGroupHeader":false},{"qty":2,"qty2":0,"uom":"teaspoons","desc":"pure vanilla extract","isGroupHeader":false},{"qty":1.25,"qty2":0,"uom":"cups","desc":"milk","isGroupHeader":false}],
                 "categories": "",
-                "yield": "",
+                "yield": "Makes 28",
                 "equipment": "",
                 "source": "",
                 "key": "agtzfmJjb29rYm9va3IPCxIHUmVjaXBlMhjGowgM",
-                "directions": "Martha Stewart's Cupcakes\nYield\nMakes 28\nAdd to Shopping List\nIngredients\n\n1 1/2 cups all-purpose flour\n1 1/2 cups cake flour (not self- rising), sifted\n1 tablespoon baking powder\n1/2 teaspoon salt\n1 tablespoon ground cinnamon, plus 1/2 teaspoon for dusting\n1 cup (2 sticks) unsalted butter, room temperature\n1 3/4 cups sugar, plus 2 tablespoons for dusting\n4 large eggs, room temperature\n2 teaspoons pure vanilla extract\n1 1/4 cups milk\nSeven-Minute Frosting\nDirections\n\nPreheat oven to 350 degrees. Line standard muffin tins with paper liners. Sift together both flours, baking powder, salt, and 1 tablespoon cinnamon.\nWith an electric mixer on medium-high speed, cream butter and sugar until pale and fluffy. Add eggs, one at a time, beating until each is incorporated, scraping down sides of bowl as needed. Beat in vanilla. Reduce speed to low. Add flour mixture in three batches, alternating with two additions of milk, and beating until combined after each.\nDivide batter evenly among lined cups, filling each three-quarters full. Bake, rotating tins halfway through, until a cake tester inserted in centers comes out clean, about 20 minutes. Transfer tins to wire racks to cool completely before removing cupcakes. Cupcakes can be stored up to 2 days at room temperature, or frozen up to 2 months, in airtight containers.\nTo finish, combine remaining 1/2 teaspoon cinnamon and 2 tablespoons sugar. Using a pastry bag fitted with a large plain tip (Ateco No. 809 or Wilton No. 1A), pipe frosting on each cupcake: Hold bag over cupcake with tip just above top, and squeeze to create a dome of frosting, then release pressure and pull up to form a peak. Using a small, fine sieve, dust peaks with cinnamon-sugar. Cupcakes are best eaten the day they are frosted; keep at room temperature until ready to serve.",
+                "directions": "Preheat oven to 350 degrees. Line standard muffin tins with paper liners. Sift together both flours, baking powder, salt, and 1 tablespoon cinnamon.\nWith an electric mixer on medium-high speed, cream butter and sugar until pale and fluffy. Add eggs, one at a time, beating until each is incorporated, scraping down sides of bowl as needed. Beat in vanilla. Reduce speed to low. Add flour mixture in three batches, alternating with two additions of milk, and beating until combined after each.\nDivide batter evenly among lined cups, filling each three-quarters full. Bake, rotating tins halfway through, until a cake tester inserted in centers comes out clean, about 20 minutes. Transfer tins to wire racks to cool completely before removing cupcakes. Cupcakes can be stored up to 2 days at room temperature, or frozen up to 2 months, in airtight containers.\nTo finish, combine remaining 1/2 teaspoon cinnamon and 2 tablespoons sugar. Using a pastry bag fitted with a large plain tip (Ateco No. 809 or Wilton No. 1A), pipe frosting on each cupcake: Hold bag over cupcake with tip just above top, and squeeze to create a dome of frosting, then release pressure and pull up to form a peak. Using a small, fine sieve, dust peaks with cinnamon-sugar. Cupcakes are best eaten the day they are frosted; keep at room temperature until ready to serve.",
                 "preptime": "",
                 "owner_id": "102168863463009654270",
                 "owner_email": "angieboone01@gmail.com"
@@ -3999,7 +3280,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "all-purpose flour"
                     },
@@ -4007,7 +3287,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "baking soda"
                     },
@@ -4015,7 +3294,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "cream of tartar"
                     },
@@ -4023,7 +3301,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "salt"
                     },
@@ -4031,7 +3308,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "sticks",
                         "desc": "(1 cup) unsalted butter, softened"
                     },
@@ -4039,7 +3315,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "confectioners sugar"
                     },
@@ -4047,7 +3322,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "large egg"
                     },
@@ -4055,7 +3329,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "vanilla extract"
                     },
@@ -4063,7 +3336,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "almond extract"
                     }
@@ -4091,7 +3363,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "Lb",
                         "desc": "Ground beef"
                     },
@@ -4099,7 +3370,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "Cup",
                         "desc": "Parm-Reggiano"
                     },
@@ -4107,7 +3377,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "Cup",
                         "desc": "Breadcrumbs"
                     },
@@ -4115,7 +3384,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Garlic powder"
                     },
@@ -4123,7 +3391,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Parsley"
                     },
@@ -4131,7 +3398,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Oregano"
                     },
@@ -4139,7 +3405,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Salt to taste"
                     },
@@ -4147,7 +3412,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Egg"
                     },
@@ -4155,17 +3419,8 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "Jars",
                         "desc": "Sauce"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": ""
                     }
                 ],
                 "categories": "Meat, pasta, main",
@@ -4191,7 +3446,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 6,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "rolled oats (not instant)"
                     },
@@ -4199,7 +3453,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "pecans, halved"
                     },
@@ -4207,7 +3460,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "other nuts"
                     },
@@ -4215,7 +3467,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "flour"
                     },
@@ -4223,7 +3474,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.333,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "sugar"
                     },
@@ -4231,7 +3481,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp.",
                         "desc": "salt"
                     },
@@ -4239,7 +3488,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp.",
                         "desc": "cinnamon"
                     },
@@ -4247,7 +3495,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "butter, softened"
                     },
@@ -4255,13 +3502,12 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "honey"
                     }
                 ],
                 "categories": "",
-                "yield": "4 bags of ~2 cups each ",
+                "yield": "4 bags of ~2 cups each",
                 "equipment": "",
                 "source": "",
                 "key": "agtzfmJjb29rYm9va3IPCxIHUmVjaXBlMhi--QgM",
@@ -4283,7 +3529,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "butter or margarine"
                     },
@@ -4291,7 +3536,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "brown sugar"
                     },
@@ -4299,7 +3543,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.333,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "granulated sugar"
                     },
@@ -4307,7 +3550,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "eggs"
                     },
@@ -4315,7 +3557,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0.5,
-                        "qtyRange": "",
                         "uom": "tsp.",
                         "desc": "vanilla"
                     },
@@ -4323,7 +3564,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0.5,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "flour"
                     },
@@ -4331,7 +3571,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp.",
                         "desc": "baking soda"
                     },
@@ -4339,7 +3578,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0.5,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "oats"
                     },
@@ -4347,7 +3585,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0.667,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "cinnamon chips"
                     },
@@ -4355,7 +3592,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "pecans"
                     }
@@ -4383,7 +3619,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 8,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "unsalted butter, at room temperature"
                     },
@@ -4391,7 +3626,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "sugar"
                     },
@@ -4399,7 +3633,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "light brown sugar, firmly packed"
                     },
@@ -4407,7 +3640,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "salt"
                     },
@@ -4415,7 +3647,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "vanilla extract"
                     },
@@ -4423,7 +3654,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "large eggs"
                     },
@@ -4431,7 +3661,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "flour"
                     },
@@ -4439,7 +3668,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "wheat flour"
                     },
@@ -4447,7 +3675,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "baking soda"
                     },
@@ -4455,7 +3682,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "ground cinnamon"
                     },
@@ -4463,7 +3689,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "ground nutmeg"
                     },
@@ -4471,7 +3696,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.125,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "ground clove"
                     },
@@ -4479,7 +3703,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "quick-cooking oats"
                     },
@@ -4487,7 +3710,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "chopped pecans"
                     },
@@ -4495,7 +3717,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 12,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "ounces",
                         "desc": "semisweet chocolate chips"
                     }
@@ -4518,13 +3739,13 @@ module.exports = [
                 "title": "Orzo with Spinach Meatballs",
                 "lastModified": "2013-08-12T02:36:00",
                 "notes": "",
-                "ingredients": [],
+                "ingredients": [{"qty":0.667,"qty2":0,"uom":"cup","desc":"finely grated fresh Parmesan","isGroupHeader":false},{"qty":0.75,"qty2":0,"uom":"pound","desc":"ground turkey or lean ground beef","isGroupHeader":false},{"qty":0.5,"qty2":0,"uom":"","desc":"small onion, finely chopped","isGroupHeader":false},{"qty":0.5,"qty2":0,"uom":"cup","desc":"fresh bread crumbs","isGroupHeader":false},{"qty":0.5,"qty2":0,"uom":"cup","desc":"cooked, squeezed dry, and chopped spinach","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"","desc":"large egg, lightly beaten","isGroupHeader":false},{"qty":0,"qty2":0,"uom":"","desc":"Coarse salt","isGroupHeader":false},{"qty":2,"qty2":0,"uom":"tablespoons","desc":"extra-virgin olive oil","isGroupHeader":false},{"qty":8,"qty2":0,"uom":"ounces","desc":"star-shape pasta (or any small pasta, such as orzo)","isGroupHeader":false},{"qty":4,"qty2":0,"uom":"cups","desc":"chicken stock or broth","isGroupHeader":false}],
                 "categories": "",
                 "yield": "Serves 6",
                 "equipment": "",
                 "source": "Epicurious",
                 "key": "agtzfmJjb29rYm9va3IPCxIHUmVjaXBlMhim_gkM",
-                "directions": "Chicken Soup with Stars and Meatballs\n\n2/3 cup finely grated fresh Parmesan\n3/4 pound ground turkey or lean ground beef\n1/2 small onion, finely chopped\n1/2 cup fresh bread crumbs\n1/2 cup cooked, squeezed dry, and chopped spinach\n1 large egg, lightly beaten\nCoarse salt\n2 tablespoons extra-virgin olive oil\n8 ounces star-shape pasta (or any small pasta, such as orzo)\n4 cups chicken stock or broth\n\n1. Bring a large pot of salted water to a boil.\n\n2. Set aside 4 tablespoons of the cheese.\n\n3. Combine the ground meat, onion, bread crumbs, spinach, egg, 3/4 teaspoon of the salt, and the remaining cheese in a medium bowl. Shape into 30 meatballs, each 1 inch in diameter.\n\n4. Heat the oil in a large, heavy skillet over medium-high heat until hot but not smoking. Reduce heat to medium-low; add the meatballs and cook, turning, until lightly browned, about 10 minutes. Using a slotted spoon, transfer the meatballs to a large saucepan.\n\n5. Meanwhile, add the pasta (I added extra spinach) to the boiling water and cook according to the package directions; drain.  I added butter and parm.\n\n6. Add the chicken stock (I used pasta water) to the browned meatballs and bring to a boil. Reduce heat and simmer until the meatballs are just cooked through, about 5 minutes. Stir in the pasta and salt to taste.\n\n7. Ladle the soup into bowls and sprinkle with the reserved cheese.\n",
+                "directions": "1. Bring a large pot of salted water to a boil.\n\n2. Set aside 4 tablespoons of the cheese.\n\n3. Combine the ground meat, onion, bread crumbs, spinach, egg, 3/4 teaspoon of the salt, and the remaining cheese in a medium bowl. Shape into 30 meatballs, each 1 inch in diameter.\n\n4. Heat the oil in a large, heavy skillet over medium-high heat until hot but not smoking. Reduce heat to medium-low; add the meatballs and cook, turning, until lightly browned, about 10 minutes. Using a slotted spoon, transfer the meatballs to a large saucepan.\n\n5. Meanwhile, add the pasta (I added extra spinach) to the boiling water and cook according to the package directions; drain.  I added butter and parm.\n\n6. Add the chicken stock (I used pasta water) to the browned meatballs and bring to a boil. Reduce heat and simmer until the meatballs are just cooked through, about 5 minutes. Stir in the pasta and salt to taste.\n\n7. Ladle the soup into bowls and sprinkle with the reserved cheese.\n",
                 "preptime": "30 min",
                 "owner_id": "102168863463009654270",
                 "owner_email": "angieboone01@gmail.com"
@@ -4542,7 +3763,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 4,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "T",
                         "desc": "Butter, melted"
                     },
@@ -4550,7 +3770,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Banana, mashed"
                     },
@@ -4558,7 +3777,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "C",
                         "desc": "Flour "
                     },
@@ -4566,7 +3784,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "C",
                         "desc": "Wheat flour"
                     },
@@ -4574,7 +3791,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 3,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "T",
                         "desc": "Sugar"
                     },
@@ -4582,7 +3798,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "Tsp",
                         "desc": "Soda"
                     },
@@ -4590,7 +3805,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "Tsp",
                         "desc": "Powder "
                     },
@@ -4598,7 +3812,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "Tsp",
                         "desc": "Salt"
                     },
@@ -4606,7 +3819,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "C",
                         "desc": "Buttermilk"
                     },
@@ -4614,7 +3826,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "Tsp",
                         "desc": "Vanilla"
                     },
@@ -4622,7 +3833,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "C",
                         "desc": "Strawberries, cut up"
                     },
@@ -4630,7 +3840,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "T",
                         "desc": "Honey"
                     }
@@ -4653,13 +3862,13 @@ module.exports = [
                 "title": "Pasta Salad",
                 "lastModified": "2012-03-28T01:43:51",
                 "notes": "",
-                "ingredients": [],
+                "ingredients": [{"qty":0.333,"qty2":0,"uom":"cup","desc":"white-wine vinegar","isGroupHeader":false},{"qty":2,"qty2":0,"uom":"tablespoons","desc":"water","isGroupHeader":false},{"qty":2,"qty2":0,"uom":"teaspoons","desc":"salt","isGroupHeader":false},{"qty":0.5,"qty2":0,"uom":"teaspoon","desc":"sugar","isGroupHeader":false},{"qty":2,"qty2":0,"uom":"teaspoons","desc":"minced fresh tarragon leaves or 1/2 teaspoon dried, crumbled","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"","desc":"large garlic clove, minced and mashed to a paste with 1/4 teaspoon salt","isGroupHeader":false},{"qty":0.5,"qty2":0,"uom":"cup","desc":"olive oil","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"pound","desc":"medium pasta shells","isGroupHeader":false},{"qty":0.5,"qty2":0,"uom":"pound","desc":"shelled fresh or frozen peas (about 1 1/2 cups), boiled until tender and drained","isGroupHeader":false},{"qty":2,"qty2":0,"uom":"pints","desc":"red or yellow pear tomatoes or cherry tomatoes or a combination, halved","isGroupHeader":false},{"qty":0.5,"qty2":0,"uom":"cup","desc":"shredded fresh basil leaves","isGroupHeader":false}],
                 "categories": "",
                 "yield": "",
                 "equipment": "",
-                "source": "",
+                "source": "Gourmet, June 1993",
                 "key": "agtzfmJjb29rYm9va3IPCxIHUmVjaXBlMhingQkM",
-                "directions": "\nPasta Salad with Tomatoes and Peas\n1/3 cup white-wine vinegar\n2 tablespoons water\n2 teaspoons salt\n1/2 teaspoon sugar\n2 teaspoons minced fresh tarragon leaves or 1/2 teaspoon dried, crumbled\n1 large garlic clove, minced and mashed to a paste with 1/4 teaspoon salt\n\n1/2 cup olive oil\n1 pound medium pasta shells\n1/2 pound shelled fresh or frozen peas (about 1 1/2 cups), boiled until tender and drained\n2 pints red or yellow pear tomatoes or cherry tomatoes or a combination, halved\n1/2 cup shredded fresh basil leaves\n\nIn a large bowl whisk together the vinegar, the water, the salt, the sugar, the tarragon, the garlic paste, and pepper to taste, add the oil in a stream, whisking, and whisk the dressing until it is emulsified. In a kettle of salted boiling water cook the pasta until it is tender, in a colander rinse it well, and drain it. In the bowl toss the pasta with the dressing, add the peas, the tomatoes, and the basil, and toss the salad well.\n\n\n\nGourmet\nJune 1993",
+                "directions": "In a large bowl whisk together the vinegar, the water, the salt, the sugar, the tarragon, the garlic paste, and pepper to taste, add the oil in a stream, whisking, and whisk the dressing until it is emulsified. In a kettle of salted boiling water cook the pasta until it is tender, in a colander rinse it well, and drain it. In the bowl toss the pasta with the dressing, add the peas, the tomatoes, and the basil, and toss the salad well.",
                 "preptime": "",
                 "owner_id": "102168863463009654270",
                 "owner_email": "angieboone01@gmail.com"
@@ -4671,14 +3880,14 @@ module.exports = [
                 "isFavorite": false,
                 "title": "Pate brise",
                 "lastModified": "2011-07-29T22:47:04",
-                "notes": "",
-                "ingredients": [],
+                "notes": "To ensure a crispy crust, the pastry shell is partially baked before it's filled.",
+                "ingredients": [{"qty":1.5,"qty2":0,"uom":"cups","desc":"all purpose flour","isGroupHeader":false},{"qty":0.25,"qty2":0,"uom":"teaspoon","desc":"salt","isGroupHeader":false},{"qty":0,"qty2":0,"uom":"","desc":"Pinch of sugar","isGroupHeader":false},{"qty":6,"qty2":0,"uom":"tablespoons","desc":"(3/4 stick) chilled butter, cut into 1/2-inch cubes","isGroupHeader":false},{"qty":2,"qty2":0,"uom":"tablespoons","desc":"plus 3/4 teaspoon chilled solid vegetable shortening, cut into 1/2-inch pieces","isGroupHeader":false},{"qty":4,"qty2":0,"uom":"tablespoons","desc":"(or more) cold water","isGroupHeader":false}],
                 "categories": "",
-                "yield": "",
-                "equipment": "",
-                "source": "",
+                "yield": "Makes one 8-inch-diameter crust",
+                "equipment": "8-inch-diameter springform pan, and dried beans or pie weights",
+                "source": "Bon Appétit, August 2009, Julia Child",
                 "key": "agtzfmJjb29rYm9va3IPCxIHUmVjaXBlMhi11QcM",
-                "directions": "Yield: Makes one 8-inch-diameter crust\nTo ensure a crispy crust, the pastry shell is partially baked before it's filled.\n\nIngredients\n1 1/2 cups all purpose flour\n1/4 teaspoon salt\nPinch of sugar\n6 tablespoons (3/4 stick) chilled butter, cut into 1/2-inch cubes\n2 tablespoons plus 3/4 teaspoon chilled solid vegetable shortening, cut into 1/2-inch pieces\n4 tablespoons (or more) cold water\n\nSpecial Equipment: 8-inch-diameter springform pan\nDried beans or pie weights\n\n\nPreparation\nWhisk flour, salt, and sugar in medium bowl. Add butter and shortening; rub in with fingertips until mixture resembles coarse meal. Add 4 tablespoons cold water. Work mixture with fingertips until dough comes together in moist clumps, adding more water by teaspoonfuls if dry. Gather dough into ball; flatten into disk. Wrap in plastic; chill until firm, at least 1 hour.\n\nPosition rack in center of oven; preheat to 400°F. Roll out dough on floured work surface to 10-inch round. Carefully transfer dough to 8-inch springform pan. Press dough onto bottom and about 1 1/2 inches up sides of pan, pressing to adhere to sides. Fold down and roll 1/2 inch of dough sides inward, forming double-thick edge at top of crust sides. Using dull edge of small knife, make small indentations at 1/2-inch intervals on double-thick edge. Chill 20 minutes.\n\nLine crust with foil; fill with dried beans or pie weights. Bake crust until sides of crust are set, about 18 minutes. Remove foil and beans. Pierce bottom of crust all over with fork. Continue to bake until bottom is set and pale golden, about 14 minutes longer. Remove from oven and cool in pan on rack.\n\nBon Appétit, August 2009\nby Julia Child\n \n\n ",
+                "directions": "Whisk flour, salt, and sugar in medium bowl. Add butter and shortening; rub in with fingertips until mixture resembles coarse meal. Add 4 tablespoons cold water. Work mixture with fingertips until dough comes together in moist clumps, adding more water by teaspoonfuls if dry. Gather dough into ball; flatten into disk. Wrap in plastic; chill until firm, at least 1 hour.\n\nPosition rack in center of oven; preheat to 400°F. Roll out dough on floured work surface to 10-inch round. Carefully transfer dough to 8-inch springform pan. Press dough onto bottom and about 1 1/2 inches up sides of pan, pressing to adhere to sides. Fold down and roll 1/2 inch of dough sides inward, forming double-thick edge at top of crust sides. Using dull edge of small knife, make small indentations at 1/2-inch intervals on double-thick edge. Chill 20 minutes.\n\nLine crust with foil; fill with dried beans or pie weights. Bake crust until sides of crust are set, about 18 minutes. Remove foil and beans. Pierce bottom of crust all over with fork. Continue to bake until bottom is set and pale golden, about 14 minutes longer. Remove from oven and cool in pan on rack.",
                 "preptime": "",
                 "owner_id": "102168863463009654270",
                 "owner_email": "angieboone01@gmail.com"
@@ -4696,7 +3905,6 @@ module.exports = [
                         "isGroupHeader": true,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Cake"
                     },
@@ -4704,7 +3912,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Nonstick vegetable oil spray"
                     },
@@ -4712,7 +3919,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 3.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "cake flour"
                     },
@@ -4720,7 +3926,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoons",
                         "desc": "baking powder"
                     },
@@ -4728,7 +3933,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "salt"
                     },
@@ -4736,7 +3940,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "sugar"
                     },
@@ -4744,7 +3947,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "(2 sticks) unsalted butter, room temperature"
                     },
@@ -4752,7 +3954,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 4,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoons",
                         "desc": "vanilla extract"
                     },
@@ -4760,7 +3961,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 4,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "large eggs"
                     },
@@ -4768,7 +3968,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "whole milk"
                     },
@@ -4776,7 +3975,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": ""
                     },
@@ -4784,7 +3982,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "pecans, toasted, finely chopped"
                     },
@@ -4792,7 +3989,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "dark corn syrup"
                     },
@@ -4800,7 +3996,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "mild-flavored (light) molasses"
                     },
@@ -4808,7 +4003,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "baking soda"
                     },
@@ -4816,7 +4010,6 @@ module.exports = [
                         "isGroupHeader": true,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Glaze"
                     },
@@ -4824,7 +4017,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoons",
                         "desc": "water"
                     },
@@ -4832,7 +4024,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "baking soda"
                     },
@@ -4840,7 +4031,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "sugar"
                     },
@@ -4848,7 +4038,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "buttermilk"
                     },
@@ -4856,7 +4045,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "(2 sticks) unsalted butter"
                     },
@@ -4864,7 +4052,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoons",
                         "desc": "dark corn syrup"
                     },
@@ -4872,7 +4059,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "bourbon"
                     },
@@ -4880,7 +4066,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoons",
                         "desc": "vanilla extract"
                     },
@@ -4888,7 +4073,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": ""
                     },
@@ -4896,7 +4080,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Vanilla ice cream"
                     }
@@ -4924,7 +4107,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoon",
                         "desc": "plus 2 teaspoons chili powder  [can reduce, according to preference]"
                     },
@@ -4932,7 +4114,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "salt"
                     },
@@ -4940,7 +4121,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "ground black pepper"
                     },
@@ -4948,7 +4128,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "pounds",
                         "desc": "boneless pork shoulder butt, cut into 2 1/2-inch pieces or boneless country pork spareribs, cut into 2-inch pieces"
                     },
@@ -4956,7 +4135,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 3,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "bacon slices, chopped"
                     },
@@ -4964,7 +4142,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "large onion, thinly sliced"
                     },
@@ -4972,7 +4149,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "diced smoked ham"
                     },
@@ -4980,7 +4156,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "medium carrot, peeled, chopped"
                     },
@@ -4988,7 +4163,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 6,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "large garlic cloves, chopped"
                     },
@@ -4996,7 +4170,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "poblano chilies,* seeded, cut into 2x1/4-inch strips   [I usually use just one, as it's a bit spicy]"
                     },
@@ -5004,7 +4177,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "drained canned hominy or sweet corn (from two 15-ounce cans)"
                     },
@@ -5012,7 +4184,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "canned diced tomatoes in juice"
                     },
@@ -5020,7 +4191,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "beer [the darker the better in our house, but you can substitute dry white wine or water]"
                     },
@@ -5028,7 +4198,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "canned low-salt chicken broth"
                     },
@@ -5036,7 +4205,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "dried marjoram"
                     },
@@ -5044,7 +4212,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "chopped fresh cilantro"
                     }
@@ -5072,7 +4239,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoon",
                         "desc": "plus 2 teaspoons chili powder"
                     },
@@ -5080,7 +4246,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "salt"
                     },
@@ -5088,7 +4253,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "ground black pepper"
                     },
@@ -5096,7 +4260,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "pounds",
                         "desc": "boneless pork shoulder butt, cut into 2 1/2-inch pieces or boneless country pork spareribs, cut into 2-inch pieces"
                     },
@@ -5104,7 +4267,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 3,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "bacon slices, chopped"
                     },
@@ -5112,7 +4274,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "large onion, thinly sliced"
                     },
@@ -5120,7 +4281,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "diced smoked ham"
                     },
@@ -5128,7 +4288,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "medium carrot, peeled, chopped"
                     },
@@ -5136,7 +4295,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 6,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "large garlic cloves, chopped"
                     },
@@ -5144,7 +4302,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "poblano chilies,* seeded, cut into 2x1/4-inch strips"
                     },
@@ -5152,7 +4309,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "drained canned hominy (from two 15-ounce cans)"
                     },
@@ -5160,7 +4316,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "canned diced tomatoes in juice"
                     },
@@ -5168,7 +4323,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "beer"
                     },
@@ -5176,7 +4330,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "canned low-salt chicken broth"
                     },
@@ -5184,7 +4337,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "dried marjoram"
                     },
@@ -5192,7 +4344,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "chopped fresh cilantro"
                     },
@@ -5200,7 +4351,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "avocado"
                     },
@@ -5208,7 +4358,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "sour cream"
                     }
@@ -5216,197 +4365,9 @@ module.exports = [
                 "categories": "",
                 "yield": "",
                 "equipment": "",
-                "source": "Bon Appétit  | February 2002 ",
+                "source": "Bon Appétit  | February 2002",
                 "key": "agtzfmJjb29rYm9va3IPCxIHUmVjaXBlMhi2zwkM",
                 "directions": "Mix 1 tablespoon chili powder, salt, and pepper in bowl. Rub spice mixture all over pork. Sauté bacon in heavy large pot over medium heat until crisp, about 5 minutes. Transfer bacon to paper towels to drain. \n\nWorking in batches, add pork to drippings in pot and sauté until brown on all sides, about 10 minutes per batch. Using slotted spoon, transfer pork to bowl.\n\nReduce heat to medium. Add onion, ham, carrot, and garlic to pot; cover and cook 5 minutes, stirring occasionally and scraping up browned bits. Add chilies; stir 1 minute. \n\nStir in hominy, tomatoes with juices, beer, broth, marjoram, pork, and remaining 2 teaspoons chili powder and bring to boil. Reduce heat; cover and simmer until pork is very tender, about 1 hour. \n\n(Can be prepared 1 day ahead. Cover and chill bacon. Cool stew slightly. Chill uncovered until cold, then cover and keep chilled.)\n\nSimmer stew uncovered until liquid is slightly reduced and thickened, about 10 minutes. Season with salt and pepper. Transfer to bowl. Sprinkle with reserved bacon, avo, sour cream, and cilantro.",
-                "preptime": "",
-                "owner_id": "102168863463009654270",
-                "owner_email": "angieboone01@gmail.com"
-            },
-            {
-                "status": "active",
-                "subtitle": "",
-                "canEmailOwner": true,
-                "isFavorite": false,
-                "title": "Pork, Beef and Black Bean Chili",
-                "lastModified": "2013-02-11T03:41:24",
-                "notes": "",
-                "ingredients": [
-                    {
-                        "isGroupHeader": false,
-                        "qty": 2,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "tablespoons",
-                        "desc": "olive oil"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 1,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "pound",
-                        "desc": "ground pork"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 1,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "pound",
-                        "desc": "ground beef"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 1,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "pound",
-                        "desc": "chuck steak, fat trimmed, cut into 1-inch cubes"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 6,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": "garlic cloves, minced"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 2,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "cups",
-                        "desc": "water"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 2,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "tablespoons",
-                        "desc": "ground cumin"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 2,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "tablespoons",
-                        "desc": "chili powder"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 2,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "teaspoons",
-                        "desc": "dried oregano"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 2,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "teaspoons",
-                        "desc": "salt"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 1,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "teaspoon",
-                        "desc": "cayenne pepper"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 3,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": "6-ounce cans tomato paste"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 2,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "teaspoons",
-                        "desc": "sugar"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 3,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "cups",
-                        "desc": "diced fresh tomatoes"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 3,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "cups",
-                        "desc": "diced onions"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 3,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "cups",
-                        "desc": "diced red bell peppers"
-                    },
-                    {
-                        "isGroupHeader": true,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": ""
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 3,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "cups",
-                        "desc": "canned black beans, drained, rinsed (from three 15-ounce cans)"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 1,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "cup",
-                        "desc": "chopped fresh cilantro"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 2.75,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "cups",
-                        "desc": "(about) beef broth"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": "Grated cheddar cheese"
-                    }
-                ],
-                "categories": "",
-                "yield": "",
-                "equipment": "",
-                "source": "",
-                "key": "agtzfmJjb29rYm9va3IPCxIHUmVjaXBlMhiuqAkM",
-                "directions": "Heat olive oil in heavy large pot over medium-high heat. Add ground pork and ground beef and sauté until brown, about 3 minutes. Add cubed beef and garlic and sauté 5 minutes. Add 2 cups water; bring to boil. Add cumin, chili powder, oregano, salt, and cayenne pepper. Reduce heat, cover, and simmer 10 minutes. Add tomato paste and sugar and simmer 5 minutes. Add tomatoes, onions, and peppers and simmer until vegetables are tender, about 30 minutes.\n\nAdd black beans and cilantro to chili. Add beef broth 3/4 cup at a time, until thinned to desired consistency. (Can be prepared 1 day ahead. Refrigerate uncovered until cold, then cover and keep refrigerated.) Bring chili to simmer. Ladle hot chili into bowls; top with grated cheddar cheese and serve.\n\nBon Appétit\nNovember 2002\n2002-10-09 11:37:46.0 ",
                 "preptime": "",
                 "owner_id": "102168863463009654270",
                 "owner_email": "angieboone01@gmail.com"
@@ -5422,17 +4383,8 @@ module.exports = [
                 "ingredients": [
                     {
                         "isGroupHeader": false,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": ""
-                    },
-                    {
-                        "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "olive oil"
                     },
@@ -5440,7 +4392,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "pound",
                         "desc": "ground pork"
                     },
@@ -5448,7 +4399,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "pound",
                         "desc": "ground beef"
                     },
@@ -5456,7 +4406,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "pound",
                         "desc": "chuck steak, fat trimmed, cut into 1-inch cubes"
                     },
@@ -5464,7 +4413,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 6,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "garlic cloves, minced"
                     },
@@ -5472,7 +4420,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "water"
                     },
@@ -5480,7 +4427,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "ground cumin"
                     },
@@ -5488,7 +4434,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "chili powder"
                     },
@@ -5496,7 +4441,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoons",
                         "desc": "dried oregano"
                     },
@@ -5504,7 +4448,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoons",
                         "desc": "salt"
                     },
@@ -5512,7 +4455,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "cayenne pepper"
                     },
@@ -5520,7 +4462,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 3,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "6-ounce cans tomato paste"
                     },
@@ -5528,7 +4469,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoons",
                         "desc": "sugar"
                     },
@@ -5536,7 +4476,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 3,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "diced fresh tomatoes"
                     },
@@ -5544,7 +4483,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 3,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "diced onions"
                     },
@@ -5552,7 +4490,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 3,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "diced red bell peppers"
                     },
@@ -5560,15 +4497,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": ""
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": ""
                     },
@@ -5576,7 +4504,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 3,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "canned black beans, drained, rinsed (from three 15-ounce cans)"
                     },
@@ -5584,7 +4511,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "chopped fresh cilantro"
                     },
@@ -5592,7 +4518,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "(about) beef broth"
                     },
@@ -5600,7 +4525,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Grated cheddar cheese"
                     }
@@ -5628,7 +4552,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 2,
-                        "qtyRange": "",
                         "uom": "sticks",
                         "desc": "butter"
                     },
@@ -5636,7 +4559,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "medium onions, finely sliced"
                     },
@@ -5644,7 +4566,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "large leek, finely sliced"
                     },
@@ -5652,7 +4573,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "large stick celery, finely sliced"
                     },
@@ -5660,7 +4580,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.5,
                         "qty2": 2,
-                        "qtyRange": "",
                         "uom": "lbs.",
                         "desc": "potatoes, finely sliced (or cubed to save time)"
                     },
@@ -5668,7 +4587,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "liter",
                         "desc": "Light chicken stock"
                     },
@@ -5676,7 +4594,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Maldon sea salt"
                     },
@@ -5684,7 +4601,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 1,
-                        "qtyRange": "",
                         "uom": "c.",
                         "desc": "whipping cream"
                     },
@@ -5692,7 +4608,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "small bunch of chives, chopped"
                     },
@@ -5700,7 +4615,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Bacon and grated cheese for topping"
                     },
@@ -5708,7 +4622,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Watercress (optional)"
                     }
@@ -5736,7 +4649,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 4,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "lbs",
                         "desc": "medium boiling potatoes"
                     },
@@ -5744,7 +4656,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoons",
                         "desc": "fine sea salt"
                     },
@@ -5752,7 +4663,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "heavy cream"
                     },
@@ -5760,7 +4670,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "whole milk"
                     },
@@ -5768,7 +4677,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 3,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "unsalted butter, softened"
                     },
@@ -5776,7 +4684,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 7,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "oz",
                         "desc": "finely grated Parmigiano-Reggiano (3 1/2 cups)"
                     }
@@ -5799,13 +4706,13 @@ module.exports = [
                 "title": "Pumpkin Bars",
                 "lastModified": "2013-10-23T14:14:36",
                 "notes": "",
-                "ingredients": [],
+                "ingredients": [{"qty":2,"qty2":0,"uom":"cups","desc":"all purpose flour","isGroupHeader":false},{"qty":2,"qty2":0,"uom":"cups","desc":"sugar","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"tablespoon","desc":"ground cinnamon","isGroupHeader":false},{"qty":2,"qty2":0,"uom":"teaspoons","desc":"baking powder","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"teaspoon","desc":"baking soda","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"teaspoon","desc":"salt","isGroupHeader":false},{"qty":0.5,"qty2":0,"uom":"teaspoon","desc":"ground nutmeg","isGroupHeader":false},{"qty":0.5,"qty2":0,"uom":"teaspoon","desc":"ground cloves","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"","desc":"15-ounce can solid pack pumpkin","isGroupHeader":false},{"qty":4,"qty2":0,"uom":"","desc":"large eggs","isGroupHeader":false},{"qty":0.75,"qty2":0,"uom":"cup","desc":"vegetable oil (or un-butter)","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"cup","desc":"raisins (or 1/2 cup)","isGroupHeader":false},{"qty":0,"qty2":0,"uom":"","desc":"May add pecans, or top with them","isGroupHeader":false},{"qty":0,"qty2":0,"uom":"","desc":"Frosting:","isGroupHeader":true},{"qty":8,"qty2":0,"uom":"ounces","desc":"cream cheese, room temperature","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"cup","desc":"powdered sugar","isGroupHeader":false},{"qty":0.25,"qty2":0,"uom":"cup","desc":"butter, room temperature","isGroupHeader":false}],
                 "categories": "",
                 "yield": "a lot",
                 "equipment": "",
-                "source": "",
+                "source": "Bon Appétit, January 1998",
                 "key": "agtzfmJjb29rYm9va3IPCxIHUmVjaXBlMhjelQoM",
-                "directions": "Pumpkin-Raisin Bars\n2 cups all purpose flour\n2 cups sugar\n1 tablespoon ground cinnamon\n2 teaspoons baking powder\n1 teaspoon baking soda\n1 teaspoon salt\n1/2 teaspoon ground nutmeg\n1/2 teaspoon ground cloves\n1 15-ounce can solid pack pumpkin\n4 large eggs\n3/4 cup vegetable oil (or un-butter)\n1 cup raisins (or 1/2 cup)\nMay add pecans, or top with them\n\n8 ounces cream cheese, room temperature\n1 cup powdered sugar\n1/4 cup butter, room temperature\n\nPreheat the oven to 350°F. Grease 15 1/2 x 10 1/2 x 1-inch baking sheet. Stir first 8 ingredients in large bowl to blend. Add pumpkin, eggs and oil and beat until blended. Mix in raisins. Spread batter in prepared pan. Bake until tester inserted into center comes out clean, about 25 minutes. Cool in pan on rack.\nBeat cream cheese, powdered sugar and butter in medium bowl to blend. Spread frosting over cake in thin layer. (Can be prepared 1 day ahead. Refrigerate until cold, then cover and keep refrigerated.) Cut cake into bars and serve.\n\n\n\nBon Appétit\nJanuary 1998\n",
+                "directions": "Preheat the oven to 350°F. Grease 15 1/2 x 10 1/2 x 1-inch baking sheet. Stir first 8 ingredients in large bowl to blend. Add pumpkin, eggs and oil and beat until blended. Mix in raisins. Spread batter in prepared pan. Bake until tester inserted into center comes out clean, about 25 minutes. Cool in pan on rack.\nBeat cream cheese, powdered sugar and butter in medium bowl to blend. Spread frosting over cake in thin layer. (Can be prepared 1 day ahead. Refrigerate until cold, then cover and keep refrigerated.) Cut cake into bars and serve.",
                 "preptime": "",
                 "owner_id": "102168863463009654270",
                 "owner_email": "angieboone01@gmail.com"
@@ -5823,7 +4730,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "flour"
                     },
@@ -5831,7 +4737,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 3,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "T",
                         "desc": "sugar"
                     },
@@ -5839,7 +4744,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp",
                         "desc": "baking powder"
                     },
@@ -5847,7 +4751,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp",
                         "desc": "baking soda"
                     },
@@ -5855,7 +4758,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp",
                         "desc": "salt"
                     },
@@ -5863,7 +4765,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp",
                         "desc": "pumpkin pie spice"
                     },
@@ -5871,7 +4772,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "pumpkin"
                     },
@@ -5879,7 +4779,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "buttermilk"
                     },
@@ -5887,7 +4786,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 4,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "eggs, may separate and beat whites"
                     },
@@ -5895,7 +4793,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 4,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "T",
                         "desc": "butter, melted"
                     },
@@ -5903,7 +4800,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp",
                         "desc": "vanilla"
                     }
@@ -5926,13 +4822,13 @@ module.exports = [
                 "title": "Pumpkin Pasta",
                 "lastModified": "2011-07-23T01:24:36",
                 "notes": "",
-                "ingredients": [],
+                "ingredients": [{"qty":0,"qty2":0,"uom":"","desc":"Puree in blender and set aside:","isGroupHeader":true},{"qty":1,"qty2":0,"uom":"","desc":"roasted sugar pumpkin (1-2 cups)","isGroupHeader":false},{"qty":0,"qty2":0,"uom":"","desc":"~1 cup Chicken broth","isGroupHeader":false},{"qty":0,"qty2":0,"uom":"","desc":"~1/2 cup cream cheese","isGroupHeader":false},{"qty":0,"qty2":0,"uom":"","desc":"Sauté and salt to taste:","isGroupHeader":true},{"qty":0,"qty2":0,"uom":"","desc":"~2 T butter","isGroupHeader":false},{"qty":0,"qty2":0,"uom":"","desc":"Generous amount of olive oil","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"","desc":"red onion, sliced","isGroupHeader":false},{"qty":2,"qty2":0,"uom":"","desc":"shallots, sliced","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"","desc":"carrot, very thinly sliced (or a handful of baby carrots thinly sliced)","isGroupHeader":false},{"qty":3,"qty2":0,"uom":"","desc":"or 4 garlic cloves, minced","isGroupHeader":false}],
                 "categories": "pumpkin, pasta",
                 "yield": "",
                 "equipment": "",
                 "source": "Angie's head",
                 "key": "agtzfmJjb29rYm9va3IPCxIHUmVjaXBlMhjNzQcM",
-                "directions": "Puree in blender and set aside:\n1 roasted sugar pumpkin (1-2 cups)\n~1 cup Chicken broth \n~1/2 cup cream cheese\n\nSauté and salt to taste:\n~2 T butter\nGenerous amnt. of olive oil\n1 red onion, sliced\n2 shallots, sliced\n1 carrot, very thinly sliced (or a handful of baby carrots thinly sliced)\n3 or 4 garlic cloves, minced\n\nWhile sautéing, boil pasta (I used half rigatoni and half macaroni).  Drain and reserve.\n\nOnce sauté is mostly cooked, add a handful of spinach and cook until wilted.\n\nPour blended pumpkin mixture over sauté.  Heat through, and bring just to a simmer.  Pour over pasta.  Top with parmiggano reggiano or Parmesan.  Salt and pepper to taste!",
+                "directions": "While sautéing, boil pasta (I used half rigatoni and half macaroni).  Drain and reserve.\n\nOnce sauté is mostly cooked, add a handful of spinach and cook until wilted.\n\nPour blended pumpkin mixture over sauté.  Heat through, and bring just to a simmer.  Pour over pasta.  Top with parmiggano reggiano or Parmesan.  Salt and pepper to taste!",
                 "preptime": "",
                 "owner_id": "102168863463009654270",
                 "owner_email": "angieboone01@gmail.com"
@@ -5950,7 +4846,6 @@ module.exports = [
                         "isGroupHeader": true,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "For crust"
                     },
@@ -5958,7 +4853,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "all purpose flour"
                     },
@@ -5966,7 +4860,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.667,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "finely chopped pecans"
                     },
@@ -5974,7 +4867,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.333,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "cake flour"
                     },
@@ -5982,7 +4874,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 3,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "(packed) golden brown sugar"
                     },
@@ -5990,7 +4881,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "salt"
                     },
@@ -5998,7 +4888,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "chilled unsalted butter, cut into 1/2-inch pieces"
                     },
@@ -6006,7 +4895,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 3,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "chilled vegetable shortening, cut into 1/2-inch pieces"
                     },
@@ -6014,7 +4902,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 3,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "(about) ice water"
                     },
@@ -6022,7 +4909,6 @@ module.exports = [
                         "isGroupHeader": true,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Filling"
                     },
@@ -6030,7 +4916,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "16-ounce can solid pack pumpkin"
                     },
@@ -6038,7 +4923,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "whipping cream"
                     },
@@ -6046,7 +4930,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 3,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "large eggs"
                     },
@@ -6054,7 +4937,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "sugar"
                     },
@@ -6062,7 +4944,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "packed golden brown sugar"
                     },
@@ -6070,7 +4951,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoons",
                         "desc": "ground cinnamon"
                     },
@@ -6078,7 +4958,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoons",
                         "desc": "ground allspice"
                     },
@@ -6086,7 +4965,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "ground nutmeg"
                     },
@@ -6094,7 +4972,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "ground cloves"
                     },
@@ -6102,7 +4979,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "salt"
                     },
@@ -6110,7 +4986,6 @@ module.exports = [
                         "isGroupHeader": true,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Topping"
                     },
@@ -6118,7 +4993,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "all purpose flour"
                     },
@@ -6126,7 +5000,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "packed golden brown sugar"
                     },
@@ -6134,7 +5007,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "coarsely chopped walnuts (about 2 1/2 ounces)"
                     },
@@ -6142,7 +5014,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "finely chipped crystallized ginger"
                     },
@@ -6150,7 +5021,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoons",
                         "desc": "ground ginger"
                     },
@@ -6158,7 +5028,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "(1 stick) unsalted butter, cut into small pieces, room temperature"
                     }
@@ -6166,7 +5035,7 @@ module.exports = [
                 "categories": "",
                 "yield": "",
                 "equipment": "",
-                "source": "Bon Appétit  | November 1994 ",
+                "source": "Bon Appétit  | November 1994",
                 "key": "agtzfmJjb29rYm9va3IPCxIHUmVjaXBlMhiG3wkM",
                 "directions": "For crust:\n\nPlace ginger in processor and process; until minced. Add flour, sugar, cloves and salt; process to combine. Using on/off turns, cut in butter and shortening until mixture resembles coarse meal. Mix yolk and 2 tablespoons water in small bowl. Add yolk mixture to flour and butter mixture; process just until mixture forms moist clumps. If dough is too dry, blend in more water by teaspoonfuls. Gather dough into ball; flatten into disk. Wrap in plastic; chill 1 hour. (Can be made 1 day ahead. Keep chilled. Soften dough slightly at room temperature before rolling.)\nBake until pale golden @350\n\nFor filling:\nWhisk all ingredients in large bowl until combined. Pour into pie crust. Bake until skin begins to form on filling and filling begins to set, about 50 minutes. Remove from oven. Let pie stand 10 minutes to set slightly. Maintain oven temperature.\n\nMeanwhile, prepare topping:\nMix first 5 ingredients in medium bowl. Rub in butter with fingertips until mixture begins to form small clumps. Sprinkle topping over pie. Bake until pie is set and streusel is golden brown, about 25 minutes. Transfer to rack and cool completely.",
                 "preptime": "",
@@ -6186,7 +5055,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 3,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "onions, chopped"
                     },
@@ -6194,7 +5062,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 3,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "cloves garlic, minced"
                     },
@@ -6202,7 +5069,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "T",
                         "desc": "oil"
                     },
@@ -6210,7 +5076,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "T",
                         "desc": "butter"
                     },
@@ -6218,7 +5083,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "T",
                         "desc": "brown sugar"
                     },
@@ -6226,7 +5090,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp",
                         "desc": "cumin"
                     },
@@ -6234,7 +5097,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp",
                         "desc": "chili powder"
                     },
@@ -6242,7 +5104,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp",
                         "desc": "nutmeg"
                     },
@@ -6250,7 +5111,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 6,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "chicken stock"
                     },
@@ -6258,7 +5118,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "milk or cream"
                     },
@@ -6266,7 +5125,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 30,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "oz",
                         "desc": "pumpkin purée"
                     },
@@ -6274,7 +5132,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "cans corn"
                     },
@@ -6282,7 +5139,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "cans black beans"
                     },
@@ -6290,7 +5146,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "of cilantro, chopped"
                     }
@@ -6318,7 +5173,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "T",
                         "desc": " olive oil"
                     },
@@ -6326,7 +5180,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Chicken breasts"
                     },
@@ -6334,7 +5187,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "onion, chopped"
                     },
@@ -6342,7 +5194,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "pepper, hatch, poblano or jalapeño"
                     },
@@ -6350,7 +5201,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 4,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "cloves of garlic, minced"
                     },
@@ -6358,7 +5208,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "tomatoes, chopped (or a can of diced/crushed)"
                     },
@@ -6366,7 +5215,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "can red kidney beans, drained and rinsed"
                     },
@@ -6374,7 +5222,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "can corn, drained"
                     },
@@ -6382,7 +5229,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "chicken broth"
                     },
@@ -6390,7 +5236,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.333,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "salsa"
                     },
@@ -6398,25 +5243,8 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Cumin, chili powder, salt, and pepper to taste"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": ""
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": ""
                     }
                 ],
                 "categories": "chicken, chili",
@@ -6442,7 +5270,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "hot Mexican-style chili powder"
                     },
@@ -6450,7 +5277,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoon",
                         "desc": "paprika"
                     },
@@ -6458,7 +5284,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoon",
                         "desc": "ground cumin"
                     },
@@ -6466,7 +5291,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoons",
                         "desc": "salt"
                     },
@@ -6474,7 +5298,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "ground black pepper"
                     },
@@ -6482,7 +5305,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 4,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "pounds",
                         "desc": "baby back pork ribs"
                     },
@@ -6490,7 +5312,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": ""
                     },
@@ -6498,7 +5319,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "12-ounce bottle dark beer"
                     },
@@ -6506,7 +5326,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": ""
                     },
@@ -6514,7 +5333,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "18-ounce bottle good-quality barbecue sauce"
                     },
@@ -6522,7 +5340,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "water"
                     },
@@ -6530,7 +5347,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "(packed) golden brown sugar"
                     },
@@ -6538,7 +5354,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoon",
                         "desc": "instant espresso powder"
                     }
@@ -6548,7 +5363,7 @@ module.exports = [
                 "equipment": "",
                 "source": "Lovell's of Lake Forest restaurant (via Bon Appétit, June 2003)",
                 "key": "agtzfmJjb29rYm9va3IPCxIHUmVjaXBlMhiVtgcM",
-                "directions": "Preheat oven to 400°F. Whisk chili powder, paprika, cumin, salt, and pepper in small bowl to blend. Rub spice mixture all over ribs. Place ribs in heavy large roasting pan.\n\nBoil beer in medium saucepan until reduced to 1 cup, about 5 minutes. Pour beer around ribs. Cover pan tightly with foil. Bake ribs until fork-tender, about 1 hour 30 minutes.\n\nCombine barbecue sauce, 1/2 cup water, brown sugar, and espresso powder in heavy medium saucepan. Simmer until flavors blend and sauce thickens slightly, stirring occasionally, about 10 minutes. (Ribs and barbecue sauce can be prepared 1 day ahead. Cool slightly, then cover separately and refrigerate.)\n\nPrepare barbecue (medium heat). Brush ribs with some barbecue sauce. Grill ribs just until heated through, about 3 minutes per side. Transfer ribs to platter. Bring remaining sauce to simmer. Brush ribs with more barbecue sauce. Serve ribs, passing remaining barbecue sauce separately. ",
+                "directions": "Preheat oven to 400°F. Whisk chili powder, paprika, cumin, salt, and pepper in small bowl to blend. Rub spice mixture all over ribs. Place ribs in heavy large roasting pan.\n\nBoil beer in medium saucepan until reduced to 1 cup, about 5 minutes. Pour beer around ribs. Cover pan tightly with foil. Bake ribs until fork-tender, about 1 hour 30 minutes.\n\nCombine barbecue sauce, 1/2 cup water, brown sugar, and espresso powder in heavy medium saucepan. Simmer until flavors blend and sauce thickens slightly, stirring occasionally, about 10 minutes. (Ribs and barbecue sauce can be prepared 1 day ahead. Cool slightly, then cover separately and refrigerate.)\n\nPrepare barbecue (medium heat). Brush ribs with some barbecue sauce. Grill ribs just until heated through, about 3 minutes per side. Transfer ribs to platter. Bring remaining sauce to simmer. Brush ribs with more barbecue sauce. Serve ribs, passing remaining barbecue sauce separately.",
                 "preptime": "",
                 "owner_id": "102168863463009654270",
                 "owner_email": "angieboone01@gmail.com"
@@ -6566,7 +5381,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "plus 2 tablespoons sugar"
                     },
@@ -6574,7 +5388,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "all-purpose flour"
                     },
@@ -6582,7 +5395,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "plus 1 tablespoon cocoa powder (not Dutch-processed)"
                     },
@@ -6590,7 +5402,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoons",
                         "desc": "baking powder"
                     },
@@ -6598,7 +5409,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoons",
                         "desc": "baking soda"
                     },
@@ -6606,7 +5416,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "salt"
                     },
@@ -6614,7 +5423,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "large eggs"
                     },
@@ -6622,7 +5430,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "whole milk"
                     },
@@ -6630,7 +5437,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "vegetable oil"
                     },
@@ -6638,7 +5444,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoons",
                         "desc": "pure vanilla extract"
                     },
@@ -6646,7 +5451,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "boiling water"
                     },
@@ -6654,7 +5458,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "graham cracker crumbs (from about 20 squares)"
                     },
@@ -6662,7 +5465,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.333,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "unsalted butter, melted"
                     },
@@ -6670,17 +5472,8 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 9,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "ounces",
                         "desc": "bittersweet chocolate, finely chopped"
-                    },
-                    {
-                        "isGroupHeader": false,
-                        "qty": 0,
-                        "qty2": 0,
-                        "qtyRange": "",
-                        "uom": "",
-                        "desc": ""
                     }
                 ],
                 "categories": "",
@@ -6706,7 +5499,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "all purpose flour"
                     },
@@ -6714,7 +5506,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "baking soda"
                     },
@@ -6722,7 +5513,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "baking powder"
                     },
@@ -6730,7 +5520,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "ground ginger"
                     },
@@ -6738,7 +5527,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "ground cardamom"
                     },
@@ -6746,7 +5534,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "ground cinnamon"
                     },
@@ -6754,7 +5541,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "ground nutmeg"
                     },
@@ -6762,7 +5548,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "salt"
                     },
@@ -6770,7 +5555,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "sugar"
                     },
@@ -6778,7 +5562,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "(2 sticks) unsalted butter, room temperature"
                     },
@@ -6786,7 +5569,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoon",
                         "desc": "grated orange peel"
                     },
@@ -6794,7 +5576,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 4,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "large eggs"
                     },
@@ -6802,7 +5583,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "sour cream"
                     },
@@ -6810,7 +5590,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "whole milk"
                     }
@@ -6818,7 +5597,7 @@ module.exports = [
                 "categories": "",
                 "yield": "",
                 "equipment": "",
-                "source": "Bon Appétit  | October 1999 ",
+                "source": "Bon Appétit  | October 1999",
                 "key": "agtzfmJjb29rYm9va3IPCxIHUmVjaXBlMhie1wkM",
                 "directions": " Preheat oven to 350°F. Butter three 9-inch-diameter cake pans. Line bottom of pans with waxed paper. Butter and flour pans; tap out excess flour. \n\nSift first 8 ingredients into medium bowl. Using electric mixer, beat sugar, butter and orange peel in large bowl until fluffy. Beat in eggs 1 at a time. Stir flour mixture into butter mixture alternately with sour cream and milk. Divide batter among prepared pans.\n\nBake cakes until tester inserted into center comes out clean, about 25 minutes. Transfer pans to racks and cool 10 minutes. Turn cakes out onto racks and cool completely. (Can be made 1 day ahead. Store airtight at room temperature.)\n\nPlace 1 cake layer on platter. Spread 2/3 cup frosting over. Top with second cake layer. Spread 2/3 cup frosting over. Top with third cake layer. Cover top and sides of cake with remaining frosting. (Can be made 1 day ahead. Cover with cake dome and store at room temperature.)\n",
                 "preptime": "",
@@ -6833,13 +5612,13 @@ module.exports = [
                 "title": "Strawberry Rhubarb Coffeecake",
                 "lastModified": "2011-09-03T13:57:42",
                 "notes": "",
-                "ingredients": [],
+                "ingredients": [{"qty":0,"qty2":0,"uom":"","desc":"Filling:","isGroupHeader":true},{"qty":0.667,"qty2":0,"uom":"cup","desc":"sugar","isGroupHeader":false},{"qty":0.333,"qty2":0,"uom":"cup","desc":"cornstarch","isGroupHeader":false},{"qty":2,"qty2":0,"uom":"cups","desc":"chopped rhubarb","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"","desc":"(10 ounce) package frozen sliced strawberries, thawed","isGroupHeader":false},{"qty":2,"qty2":0,"uom":"tablespoons","desc":"lemon juice","isGroupHeader":false},{"qty":0,"qty2":0,"uom":"","desc":"Cake:","isGroupHeader":true},{"qty":3,"qty2":0,"uom":"cups","desc":"all-purpose flour","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"cup","desc":"sugar","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"teaspoon","desc":"baking powder","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"teaspoon","desc":"baking soda","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"cup","desc":"cold butter or margarine","isGroupHeader":false},{"qty":2,"qty2":0,"uom":"","desc":"eggs","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"cup","desc":"buttermilk","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"teaspoon","desc":"vanilla extract","isGroupHeader":false},{"qty":0,"qty2":0,"uom":"","desc":"Topping:","isGroupHeader":true},{"qty":0.75,"qty2":0,"uom":"cup","desc":"sugar","isGroupHeader":false},{"qty":0.5,"qty2":0,"uom":"cup","desc":"all-purpose flour","isGroupHeader":false},{"qty":0.25,"qty2":0,"uom":"cup","desc":"cold butter or margarine","isGroupHeader":false}],
                 "categories": "",
                 "yield": "",
                 "equipment": "",
                 "source": "",
                 "key": "agtzfmJjb29rYm9va3IPCxIHUmVjaXBlMhid3QcM",
-                "directions": "Ingredients\nFilling\n2/3 cup sugar\n1/3 cup cornstarch\n2 cups chopped rhubarb\n1 (10 ounce) package frozen sliced strawberries, thawed\n2 tablespoons lemon juice\n \nCake\n3 cups all-purpose flour\n1 cup sugar\n1 teaspoon baking powder\n1 teaspoon baking soda\n1 cup cold butter or margarine\n2 eggs\n1 cup buttermilk\n1 teaspoon vanilla extract\n \nTopping\n3/4 cup sugar\n1/2 cup all-purpose flour\n1/4 cup cold butter or margarine\nDirections\nCombine sugar and cornstarch in a large saucepan; stir in rhubarb and strawberries and bring to a simmer over medium heat. Cook until thickened, about two minutes. Remove from heat, stir in lemon juice and let cool.\nPreheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13 inch pan.\nCombine 3 cups flour, 1 cup sugar, baking powder, and baking soda in a large bowl. Cut in butter until mixture resembles coarse crumbs. Beat together eggs, buttermilk, and vanilla in a separate bowl. Stir egg mixture into flour until just moistened. Spoon two-thirds of the batter into prepared pan; evenly spread on the cooled filling, then cover with remaining batter.\nIn a small bowl, combine 3/4 cup sugar and 1/2 cup flour, and cut in butter until the mixture resembles coarse crumbs; sprinkle over the batter. Bake in preheated oven for 45 to 50 minutes or until golden brown. Cool on a wire rack.",
+                "directions": "Combine sugar and cornstarch in a large saucepan; stir in rhubarb and strawberries and bring to a simmer over medium heat. Cook until thickened, about two minutes. Remove from heat, stir in lemon juice and let cool.\nPreheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13 inch pan.\nCombine 3 cups flour, 1 cup sugar, baking powder, and baking soda in a large bowl. Cut in butter until mixture resembles coarse crumbs. Beat together eggs, buttermilk, and vanilla in a separate bowl. Stir egg mixture into flour until just moistened. Spoon two-thirds of the batter into prepared pan; evenly spread on the cooled filling, then cover with remaining batter.\nIn a small bowl, combine 3/4 cup sugar and 1/2 cup flour, and cut in butter until the mixture resembles coarse crumbs; sprinkle over the batter. Bake in preheated oven for 45 to 50 minutes or until golden brown. Cool on a wire rack.",
                 "preptime": "",
                 "owner_id": "102168863463009654270",
                 "owner_email": "angieboone01@gmail.com"
@@ -6857,7 +5636,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 3.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "powdered sugar"
                     },
@@ -6865,7 +5643,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 3,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "large egg whites"
                     },
@@ -6873,7 +5650,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoon",
                         "desc": "water"
                     }
@@ -6901,7 +5677,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": -1,
                         "qty2": 3,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Sweet Potatoes, 1/2\" slices"
                     },
@@ -6909,7 +5684,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": -1,
                         "qty2": 3,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Garlic cloves, minced"
                     },
@@ -6917,7 +5691,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": -1,
                         "qty2": 3,
-                        "qtyRange": "",
                         "uom": "tsp",
                         "desc": "olive oil"
                     },
@@ -6925,7 +5698,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Salt and Pepper"
                     },
@@ -6933,7 +5705,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Thyme and Parsley"
                     }
@@ -6961,7 +5732,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "all-purpose flour"
                     },
@@ -6969,7 +5739,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoons",
                         "desc": "baking powder"
                     },
@@ -6977,7 +5746,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "baking soda"
                     },
@@ -6985,7 +5753,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "kosher salt"
                     },
@@ -6993,7 +5760,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 6,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "(3/4 stick) chilled unsalted butter, cut into 1/2\" cubes"
                     },
@@ -7001,7 +5767,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "buttermilk"
                     },
@@ -7009,7 +5774,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "pounds",
                         "desc": "large ripe tomatoes, cored and cut into 1/4\" slices"
                     },
@@ -7017,7 +5781,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "coarsely grated extra-sharp cheddar (89 ounces)"
                     },
@@ -7025,7 +5788,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "finely grated Parmesan (1/2 ounce)"
                     },
@@ -7033,7 +5795,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "scallion, trimmed, chopped"
                     },
@@ -7041,7 +5802,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "mayonnaise"
                     },
@@ -7049,7 +5809,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "chopped fresh dill"
                     },
@@ -7057,7 +5816,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoon",
                         "desc": "apple cider vinegar"
                     },
@@ -7065,7 +5823,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoons",
                         "desc": "sugar"
                     },
@@ -7073,7 +5830,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "kosher salt"
                     },
@@ -7081,7 +5837,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoons",
                         "desc": "freshly ground black pepper"
                     },
@@ -7089,7 +5844,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "cornmeal"
                     }
@@ -7097,9 +5851,9 @@ module.exports = [
                 "categories": "",
                 "yield": "6-8",
                 "equipment": "",
-                "source": "Bon Appetit ",
+                "source": "Bon Appétit, August 2011, Ian Knauer",
                 "key": "agtzfmJjb29rYm9va3IPCxIHUmVjaXBlMhjt7AcM",
-                "directions": "Yield: Makes 8 servings\nWith its biscuity buttermilk crust, this rustic pie is our new summertime staple. Let the pie cool for at least one hour before serving.\n\nIngredients\nCrust:\n2 cups all-purpose flour\n1 1/2 teaspoons baking powder\n1/2 teaspoon baking soda\n1/2 teaspoon kosher salt\n6 tablespoons (3/4 stick) chilled unsalted butter, cut into 1/2\" cubes\n1 cup buttermilk\n\nFilling:\n2 pounds large ripe tomatoes, cored and cut into 1/4\" slices\n2 1/2 cups coarsely grated extra-sharp cheddar (89 ounces)\n1/4 cup finely grated Parmesan (1/2 ounce)\n1 scallion, trimmed, chopped\n1/2 cup mayonnaise\n2 tablespoons chopped fresh dill\n1 tablespoon apple cider vinegar\n2 teaspoons sugar\n3/4 teaspoon kosher salt\n1/2 teaspoons freshly ground black pepper\n1 1/2 tablespoons cornmeal\n\nSpecial Equipment: Use a 9\"-diameter glass or ceramic pie dish\n\n\nPreparation\nFor crust:\nWhisk first 4 ingredients in a medium bowl. Using your fingertips, rub in butter until coarse meal forms and some small lumps remain. Stir in buttermilk and knead gently with your hands until dough forms. Wrap dough in plastic and chill for 1 hour.\n\nFor filling:\nLay tomatoes in a single layer on a baking sheet lined with 2 layers of paper towels. Place another 2 layers of paper towels on top of tomatoes. Let stand for 30 minutes to drain.\n\nPreheat oven to 425°F. Roll out dough between 2 sheets of plastic wrap to an 11\" round. Remove top layer of plastic wrap. Invert dough onto pie dish. Carefully peel off plastic wrap.\n\nToss both cheeses in a medium bowl until evenly incorporated. Reserve 1/4 cup of cheese mixture. Whisk scallion, mayonnaise, dill, vinegar, sugar, salt, and pepper in a small bowl.\n\nSprinkle cornmeal evenly over bottom of crust, then top with 1/2 cup cheese mixture. Arrange 1/3 of tomatoes over cheese, overlapping as needed. Spread half of mayonnaise mixture (about 1/3 cup) over. Repeat layering with 1 cup of cheese mixture, 1/2 of remaining tomato slices, and remaining mayonnaise mixture. Sprinkle remaining 1 cup cheese mixture over, then remaining tomato slices. Sprinkle with reserved 1/4 cup cheese mixture. Fold overhanging crust up and over edges of tomato slices.\n\nBake pie until crust is golden and cheese is golden brown, 35-40 minutes (check crust halfway and tent with foil if it's getting too dark). Let pie cool at least 1 hour and up to 3 hours before slicing and serving.\n\nBon Appétit, August 2011\nby Ian Knauer\nphoto by: Christopher Baker\n\n \n\n ",
+                "directions": "Yield: Makes 8 servings\nWith its biscuity buttermilk crust, this rustic pie is our new summertime staple. Let the pie cool for at least one hour before serving.\n\nIngredients\nCrust:\n2 cups all-purpose flour\n1 1/2 teaspoons baking powder\n1/2 teaspoon baking soda\n1/2 teaspoon kosher salt\n6 tablespoons (3/4 stick) chilled unsalted butter, cut into 1/2\" cubes\n1 cup buttermilk\n\nFilling:\n2 pounds large ripe tomatoes, cored and cut into 1/4\" slices\n2 1/2 cups coarsely grated extra-sharp cheddar (89 ounces)\n1/4 cup finely grated Parmesan (1/2 ounce)\n1 scallion, trimmed, chopped\n1/2 cup mayonnaise\n2 tablespoons chopped fresh dill\n1 tablespoon apple cider vinegar\n2 teaspoons sugar\n3/4 teaspoon kosher salt\n1/2 teaspoons freshly ground black pepper\n1 1/2 tablespoons cornmeal\n\nSpecial Equipment: Use a 9\"-diameter glass or ceramic pie dish\n\n\nPreparation\nFor crust:\nWhisk first 4 ingredients in a medium bowl. Using your fingertips, rub in butter until coarse meal forms and some small lumps remain. Stir in buttermilk and knead gently with your hands until dough forms. Wrap dough in plastic and chill for 1 hour.\n\nFor filling:\nLay tomatoes in a single layer on a baking sheet lined with 2 layers of paper towels. Place another 2 layers of paper towels on top of tomatoes. Let stand for 30 minutes to drain.\n\nPreheat oven to 425°F. Roll out dough between 2 sheets of plastic wrap to an 11\" round. Remove top layer of plastic wrap. Invert dough onto pie dish. Carefully peel off plastic wrap.\n\nToss both cheeses in a medium bowl until evenly incorporated. Reserve 1/4 cup of cheese mixture. Whisk scallion, mayonnaise, dill, vinegar, sugar, salt, and pepper in a small bowl.\n\nSprinkle cornmeal evenly over bottom of crust, then top with 1/2 cup cheese mixture. Arrange 1/3 of tomatoes over cheese, overlapping as needed. Spread half of mayonnaise mixture (about 1/3 cup) over. Repeat layering with 1 cup of cheese mixture, 1/2 of remaining tomato slices, and remaining mayonnaise mixture. Sprinkle remaining 1 cup cheese mixture over, then remaining tomato slices. Sprinkle with reserved 1/4 cup cheese mixture. Fold overhanging crust up and over edges of tomato slices.\n\nBake pie until crust is golden and cheese is golden brown, 35-40 minutes (check crust halfway and tent with foil if it's getting too dark). Let pie cool at least 1 hour and up to 3 hours before slicing and serving.",
                 "preptime": "",
                 "owner_id": "102168863463009654270",
                 "owner_email": "angieboone01@gmail.com"
@@ -7112,14 +5866,14 @@ module.exports = [
                 "title": "Tres Leches Cake",
                 "lastModified": "2012-03-28T01:31:40",
                 "notes": "",
-                "ingredients": [],
+                "ingredients": [{"qty":0,"qty2":0,"uom":"","desc":"Cake:","isGroupHeader":true},{"qty":6,"qty2":0,"uom":"","desc":"large eggs, separated","isGroupHeader":false},{"qty":2,"qty2":0,"uom":"cups","desc":"granulated sugar","isGroupHeader":false},{"qty":2,"qty2":0,"uom":"cups","desc":"all-purpose flour","isGroupHeader":false},{"qty":2,"qty2":0,"uom":"teaspoons","desc":"baking powder","isGroupHeader":false},{"qty":0.5,"qty2":0,"uom":"cup","desc":"whole milk","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"teaspoon","desc":"vanilla extract","isGroupHeader":false},{"qty":0,"qty2":0,"uom":"","desc":"Cream topping:","isGroupHeader":true},{"qty":1,"qty2":0,"uom":"","desc":"14-ounce can evaporated milk","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"","desc":"14-ounce can sweetened condensed milk","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"cup","desc":"heavy cream","isGroupHeader":false},{"qty":0,"qty2":0,"uom":"","desc":"Icing:","isGroupHeader":true},{"qty":3,"qty2":0,"uom":"tablespoons","desc":"water","isGroupHeader":false},{"qty":0.75,"qty2":0,"uom":"cup","desc":"granulated sugar","isGroupHeader":false},{"qty":3,"qty2":0,"uom":"","desc":"large egg whites","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"","desc":"ripe mango, peeled, seed removed, and thinly sliced","isGroupHeader":false},{"qty":1,"qty2":0,"uom":"","desc":"ripe papaya, peeled, seeds removed, and thinly sliced","isGroupHeader":false}],
                 "categories": "",
-                "yield": "",
+                "yield": "About 10 servings",
                 "equipment": "",
                 "source": "Emeril",
                 "key": "agtzfmJjb29rYm9va3IPCxIHUmVjaXBlMhimgQkM",
-                "directions": "Tres Leches (Three Milks Cake), Latin America\n\nRecipe courtesy Emeril Lagasse, 2002\nShow: Emeril LiveEpisode: Latin Flavors\nRecipe categories: Dairy, Milk, Flour, Fruit, Mango, more\nRecipe Ratings & Reviews(97)\nRated 5 stars out of 5\nRate This Recipe\nRead 97 Reviews\nTotal Time:\n2 hr 4 min\nPrep\n1 hr 0 min\nInactive\n4 min\nCook\n1 hr 0 min\nYield:\n1 cake, about 10 servings\nLevel:\nDifficult\nPrint Recipe\nFull-Page View\nSave to My Recipe Box\nReview Recipe\nE-Mail\nShare It!\nTweet\n\nIngredients\nCake:\n6 large eggs, separated\n2 cups granulated sugar\n2 cups all-purpose flour\n2 teaspoons baking powder\n1/2 cup whole milk\n1 teaspoon vanilla extract\nCream topping:\n1 14-ounce can evaporated milk\n1 14-ounce can sweetened condensed milk\n1 cup heavy cream\nIcing:\n3 tablespoons water\n3/4 cup granulated sugar\n3 large egg whites\n1 ripe mango, peeled, seed removed, and thinly sliced\n1 ripe papaya, peeled, seeds removed, and thinly sliced\nDirections\nTo make the cake: Preheat the oven to 350 degrees F. Lightly grease and flour a 9 by 13-inch baking dish and set aside.\nIn the bowl of a mixer, beat the egg whites on low speed until soft peaks form. Add the sugar gradually with the mixer running and peak to stiff peaks. Add the egg yolks 1 at a time, beating well after the addition of each.\nSift together the flour and baking powder and add to the egg mixture, alternating with the milk. (Do this quickly so the batter does not lose volume.) Add the vanilla. Bake until golden, 25 minutes.\nTo make the cream topping: In a blender, combine the evaporated milk, condensed milk, and heavy cream and blend on high speed.\nRemove the cake from the oven and while still warm, pour the cream mixture over it. Let sit and cool to room temperature. Cover and refrigerate until well chilled, at least 4 hours or overnight.\nTo make the icing: Once the cake is completely chilled, in a saucepan combine the water and sugar. Bring to a boil. Reduce the heat and stir to dissolve the sugar. Cook until the mixture reaches the soft ball stage, 235 to 240 degrees F. Remove from the heat. In a medium bowl, beat the egg whites to soft peaks. While beating, add the hot syrup in a stream. Beat until all the syrup has been added, the mixture cools, and a glossy icing forms.\nTo assemble: Remove the cake from the refrigerator and spread the icing evenly across the top. Arrange the mango and papaya slices over the top and serve.",
-                "preptime": "",
+                "directions": "To make the cake: Preheat the oven to 350 degrees F. Lightly grease and flour a 9 by 13-inch baking dish and set aside.\nIn the bowl of a mixer, beat the egg whites on low speed until soft peaks form. Add the sugar gradually with the mixer running and peak to stiff peaks. Add the egg yolks 1 at a time, beating well after the addition of each.\nSift together the flour and baking powder and add to the egg mixture, alternating with the milk. (Do this quickly so the batter does not lose volume.) Add the vanilla. Bake until golden, 25 minutes.\nTo make the cream topping: In a blender, combine the evaporated milk, condensed milk, and heavy cream and blend on high speed.\nRemove the cake from the oven and while still warm, pour the cream mixture over it. Let sit and cool to room temperature. Cover and refrigerate until well chilled, at least 4 hours or overnight.\nTo make the icing: Once the cake is completely chilled, in a saucepan combine the water and sugar. Bring to a boil. Reduce the heat and stir to dissolve the sugar. Cook until the mixture reaches the soft ball stage, 235 to 240 degrees F. Remove from the heat. In a medium bowl, beat the egg whites to soft peaks. While beating, add the hot syrup in a stream. Beat until all the syrup has been added, the mixture cools, and a glossy icing forms.\nTo assemble: Remove the cake from the refrigerator and spread the icing evenly across the top. Arrange the mango and papaya slices over the top and serve.",
+                "preptime": "1 hr (2 hrs total)",
                 "owner_id": "102168863463009654270",
                 "owner_email": "angieboone01@gmail.com"
             },
@@ -7136,7 +5890,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": -1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "T",
                         "desc": "Miracle Whip"
                     },
@@ -7144,7 +5897,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Cans of Tuna"
                     },
@@ -7152,7 +5904,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp",
                         "desc": "olive oil"
                     },
@@ -7160,7 +5911,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp",
                         "desc": "lemon juice"
                     },
@@ -7168,7 +5918,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Salt and Pepper to taste"
                     },
@@ -7176,7 +5925,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Small Apple, chopped"
                     },
@@ -7184,7 +5932,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Boiled Eggs, chopped"
                     },
@@ -7192,7 +5939,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Stick of Celery and top, chopped"
                     },
@@ -7200,7 +5946,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Handful chopped Pecans and/or Sliced Almonds"
                     },
@@ -7208,7 +5953,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "serve with avocado slices, cucumber, and greens"
                     }
@@ -7236,7 +5980,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 3,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "whole milk"
                     },
@@ -7244,7 +5987,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "sugar"
                     },
@@ -7252,7 +5994,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "whipping cream"
                     },
@@ -7260,7 +6001,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "cinnamon sticks"
                     },
@@ -7268,7 +6008,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.125,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "salt"
                     },
@@ -7276,7 +6015,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 12,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "large egg yolks"
                     },
@@ -7284,7 +6022,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "vanilla extract"
                     }
@@ -7294,7 +6031,7 @@ module.exports = [
                 "equipment": "",
                 "source": "Bon Appétit, November 2002",
                 "key": "agtzfmJjb29rYm9va3IPCxIHUmVjaXBlMhiolgIM",
-                "directions": "Combine milk, 1 cup sugar, cream, cinnamon sticks, and salt in heavy large saucepan. Bring almost to simmer over medium-high heat. Whisk egg yolks and 1/4 cup sugar in large bowl. Gradually whisk in hot milk mixture. Return custard to saucepan and stir constantly over low heat until custard thickens, about 4 minutes (do not boil). Transfer custard to large bowl set over another large bowl of ice water; let cool 30 minutes, stirring often. Cover and chill custard overnight.\n\nStrain custard. Process in ice cream maker according to manufacturer's instructions. Transfer ice cream to container; cover and freeze.\n\n ",
+                "directions": "Combine milk, 1 cup sugar, cream, cinnamon sticks, and salt in heavy large saucepan. Bring almost to simmer over medium-high heat. Whisk egg yolks and 1/4 cup sugar in large bowl. Gradually whisk in hot milk mixture. Return custard to saucepan and stir constantly over low heat until custard thickens, about 4 minutes (do not boil). Transfer custard to large bowl set over another large bowl of ice water; let cool 30 minutes, stirring often. Cover and chill custard overnight.\n\nStrain custard. Process in ice cream maker according to manufacturer's instructions. Transfer ice cream to container; cover and freeze.",
                 "preptime": "",
                 "owner_id": "113270077823195105196",
                 "owner_email": "jakeboone02@gmail.com"
@@ -7312,7 +6049,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "water, vegetable or chicken stock"
                     },
@@ -7320,7 +6056,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoon",
                         "desc": "unsalted butter"
                     },
@@ -7328,7 +6063,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "medium onion, coarsely chopped"
                     },
@@ -7336,7 +6070,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "cloves garlic, minced"
                     },
@@ -7344,7 +6077,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.125,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "ground nutmeg (optional)"
                     },
@@ -7352,7 +6084,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 4.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "stock"
                     },
@@ -7360,7 +6091,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "white wine"
                     },
@@ -7368,7 +6098,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "pounds",
                         "desc": "vegetable of choice, coarsely chopped"
                     },
@@ -7376,7 +6105,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "(cauliflower, broccoli, carrot, spinach, etc.)"
                     },
@@ -7384,7 +6112,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0.5,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "heavy cream or milk"
                     },
@@ -7392,7 +6119,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 1,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "ground white or black pepper"
                     }
@@ -7420,7 +6146,6 @@ module.exports = [
                         "isGroupHeader": true,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "For filling"
                     },
@@ -7428,7 +6153,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 4,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "large eggs"
                     },
@@ -7436,7 +6160,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "sugar"
                     },
@@ -7444,7 +6167,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "pounds",
                         "desc": "cream cheese, softened"
                     },
@@ -7452,7 +6174,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "cornstarch"
                     },
@@ -7460,7 +6181,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoon",
                         "desc": "plus 1 teaspoon vanilla extract"
                     },
@@ -7468,7 +6188,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "sour cream"
                     },
@@ -7476,7 +6195,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "instant espresso powder"
                     },
@@ -7484,7 +6202,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 12,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "ounces",
                         "desc": "fine-quality bittersweet chocolate (not unsweetened), melted and cooled"
                     },
@@ -7492,7 +6209,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "chilled heavy cream, whipped into soft peaks"
                     },
@@ -7500,7 +6216,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Garnish: bittersweet and milk chocolate curls"
                     }
@@ -7528,7 +6243,6 @@ module.exports = [
                         "isGroupHeader": true,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Crust"
                     },
@@ -7536,7 +6250,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "cake flour"
                     },
@@ -7544,7 +6257,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "plus 2 tablespoons (1 1/4 sticks) chilled unsalted butter, cut into 1/2-inch pieces"
                     },
@@ -7552,7 +6264,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "(packed) golden brown sugar"
                     },
@@ -7560,7 +6271,6 @@ module.exports = [
                         "isGroupHeader": true,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Hazelnut Praline Filling"
                     },
@@ -7568,7 +6278,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 4,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "8-ounce packages cream cheese, room temperature"
                     },
@@ -7576,7 +6285,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "sugar"
                     },
@@ -7584,7 +6292,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "all purpose flour"
                     },
@@ -7592,7 +6299,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "whipping cream"
                     },
@@ -7600,7 +6306,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "vanilla extract"
                     },
@@ -7608,7 +6313,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 4,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "large eggs"
                     }
@@ -7636,7 +6340,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "c",
                         "desc": "unsalted butter, soft"
                     },
@@ -7644,7 +6347,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "c",
                         "desc": "brown sugar"
                     },
@@ -7652,7 +6354,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "large egg"
                     },
@@ -7660,7 +6361,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp",
                         "desc": "Mexican vanilla"
                     },
@@ -7668,7 +6368,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2.667,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "c",
                         "desc": "flour"
                     },
@@ -7676,7 +6375,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp",
                         "desc": "baking powder"
                     },
@@ -7684,7 +6382,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp",
                         "desc": "salt"
                     },
@@ -7692,7 +6389,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp",
                         "desc": "nutmeg (opt.)"
                     },
@@ -7700,7 +6396,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp",
                         "desc": "cinnamon (opt.)"
                     },
@@ -7708,7 +6403,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "vanilla bean (opt.)"
                     }
@@ -7736,7 +6430,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "yellow cornmeal"
                     },
@@ -7744,7 +6437,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "all purpose flour"
                     },
@@ -7752,7 +6444,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "sugar"
                     },
@@ -7760,7 +6451,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.75,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "coarse kosher salt"
                     },
@@ -7768,7 +6458,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "baking powder"
                     },
@@ -7776,7 +6465,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "baking soda"
                     },
@@ -7784,7 +6472,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "buttermilk"
                     },
@@ -7792,7 +6479,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "beaten egg"
                     },
@@ -7800,7 +6486,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "chopped seeded jalapeño chile"
                     },
@@ -7808,7 +6493,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 4,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "ounces",
                         "desc": "coarsely crumbled soft fresh goat cheese (about 1 cup)"
                     },
@@ -7816,13 +6500,12 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Canola oil or vegetable oil (for deep-frying)"
                     }
                 ],
                 "categories": "",
-                "yield": "Makes about 18 ",
+                "yield": "Makes about 18",
                 "equipment": "",
                 "source": "Bon Appétit, September 2010: From Caseus Fromagerie Bistro in New Haven, CT",
                 "key": "agtzfmJjb29rYm9va3IPCxIHUmVjaXBlMhi12wUM",
@@ -7844,7 +6527,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoon",
                         "desc": "unsalted butter, softened"
                     },
@@ -7852,7 +6534,6 @@ module.exports = [
                         "isGroupHeader": true,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Cookie crust"
                     },
@@ -7860,7 +6541,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "One 10-ounce package butter biscuits, wafers, or shortbread cookies"
                     },
@@ -7868,7 +6548,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.333,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "walnuts"
                     },
@@ -7876,7 +6555,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "granulated sugar"
                     },
@@ -7884,7 +6562,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 4,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "ounces",
                         "desc": "(8 tablespoons, 1 stick) unsalted butter, melted and cooled"
                     },
@@ -7892,7 +6569,6 @@ module.exports = [
                         "isGroupHeader": true,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "Cheesecake"
                     },
@@ -7900,7 +6576,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 14,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "ounces",
                         "desc": "milk chocolate, finely chopped"
                     },
@@ -7908,7 +6583,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "heavy whipping cream"
                     },
@@ -7916,7 +6590,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "malted milk powder"
                     },
@@ -7924,7 +6597,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "pounds",
                         "desc": "cream cheese, softened"
                     },
@@ -7932,7 +6604,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "granulated sugar"
                     },
@@ -7940,7 +6611,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 4,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "extra-large eggs, at room temperature"
                     },
@@ -7948,7 +6618,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "sour cream"
                     },
@@ -7956,7 +6625,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoons",
                         "desc": "pure vanilla extract"
                     },
@@ -7964,7 +6632,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "quart",
                         "desc": "boiling water"
                     }
@@ -7992,7 +6659,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "powdered sugar"
                     },
@@ -8000,7 +6666,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 3.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "envelopes / 2 tbsp + 2 1/2 tsp gelatin"
                     },
@@ -8008,7 +6673,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "cold water"
                     },
@@ -8016,7 +6680,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "sugar"
                     },
@@ -8024,7 +6687,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "lt. corn syrup"
                     },
@@ -8032,7 +6694,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "hot water (~115°)"
                     },
@@ -8040,7 +6701,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp",
                         "desc": "salt"
                     },
@@ -8048,7 +6708,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "large egg whites"
                     },
@@ -8056,7 +6715,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tsp",
                         "desc": "vanilla"
                     },
@@ -8064,7 +6722,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "colors or flavors"
                     }
@@ -8092,7 +6749,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.333,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "plus 2 tablespoons sugar"
                     },
@@ -8100,7 +6756,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "water"
                     },
@@ -8108,7 +6763,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.25,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "plus 1 teaspoon dark rum"
                     },
@@ -8116,7 +6770,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 4,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "brandy"
                     },
@@ -8124,7 +6777,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 12,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "large egg yolks"
                     },
@@ -8132,7 +6784,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoon",
                         "desc": "ground nutmeg"
                     },
@@ -8140,7 +6791,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 4,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "8-ounce containers mascarpone cheese"
                     },
@@ -8148,7 +6798,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cups",
                         "desc": "chilled whipping cream"
                     },
@@ -8156,7 +6805,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoons",
                         "desc": "vanilla extract"
                     },
@@ -8164,7 +6812,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 6.5,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "teaspoons",
                         "desc": "instant espresso powder"
                     },
@@ -8172,7 +6819,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 7,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "tablespoons",
                         "desc": "Kahlúa or other coffee liqueur"
                     },
@@ -8180,7 +6826,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 2,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "6.15-ounce or four 3.5-ounce boxes Champagne biscuits or Boudoirs (about 60 crisp ladyfinger cookies)"
                     },
@@ -8188,7 +6833,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 1,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "cup",
                         "desc": "semisweet chocolate chips, finely ground in processor"
                     },
@@ -8196,7 +6840,6 @@ module.exports = [
                         "isGroupHeader": false,
                         "qty": 0,
                         "qty2": 0,
-                        "qtyRange": "",
                         "uom": "",
                         "desc": "chocolate leaves"
                     }

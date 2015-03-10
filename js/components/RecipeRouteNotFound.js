@@ -1,8 +1,13 @@
 var React = require("react");
+var DocumentTitle = require("react-document-title");
 
 var RecipeRouteNotFound = React.createClass({
   render: function () {
-    return <p>Recipe {this.props.id} not found :(</p>;
+    return (
+      <DocumentTitle title="Not found">
+        <p>Recipe {this.props.id} not found :(</p>
+      </DocumentTitle>
+    );
   }
 });
 

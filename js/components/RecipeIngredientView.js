@@ -6,6 +6,7 @@ var RecipeIngredientView = React.createClass({
 
     var ing = this.props.data;
     var qtyRange = formatQtyRange(ing);
+    var ingText = (qtyRange ? qtyRange + " " : "") + (ing.uom ? ing.uom + " " : "") + ing.desc + "\n";
 
     if (ing.isGroupHeader) {
       return (
@@ -13,7 +14,7 @@ var RecipeIngredientView = React.createClass({
       );
     } else {
       return (
-        <div className="ingredient">{qtyRange} {ing.uom} {ing.desc}</div>
+        <span className="ingredient">{ingText}</span>
       );
     }
   }
