@@ -5,12 +5,15 @@ var RecipeIngredientView = require("./RecipeIngredientView");
 var IngredientParser = require("./IngredientParser");
 var cx = require("react/lib/cx");
 var recipes = require("../constants/dataObject");
+var { APP_NAME } = require("../constants/config");
 
 var RecipeView = React.createClass({
   mixins: [ Router.State ],
 
   render() {
     var recipe = recipes[this.getParams().key];
+
+    var documentTitle = recipe.title + " - " + APP_NAME;
 
     var sourceClassName = cx({"hidden": !recipe.source}),
         subtitleClassName = cx({"hidden": !recipe.subtitle}),
@@ -26,7 +29,7 @@ var RecipeView = React.createClass({
     );
 
     return (
-      <DocumentTitle title={recipe.title}>
+      <DocumentTitle title={documentTitle}>
         <article className="recipe">
           <header>
             <div className="recipe-title-block">

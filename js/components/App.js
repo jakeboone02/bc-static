@@ -5,7 +5,7 @@ var DocumentTitle = require("react-document-title");
 var RecipeList = require("./RecipeList");
 var RecipeView = require("./RecipeView");
 var recipes = require("../constants/dataObject");
-var config = require("../constants/config");
+var { APP_NAME } = require("../constants/config");
 
 var App = React.createClass({
   getInitialState() {
@@ -17,7 +17,7 @@ var App = React.createClass({
     var recipeArray = Object.keys(this.state.recipes).map(k => this.state.recipes[k]);
 
     return (
-      <DocumentTitle title={config.APP_NAME}>
+      <DocumentTitle title={APP_NAME}>
         <Row>
           <Col smPush={4} sm={8}>
             <RouteHandler />
