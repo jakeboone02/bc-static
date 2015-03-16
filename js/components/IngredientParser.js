@@ -3,7 +3,7 @@ var { Button, Input } = require("react-bootstrap");
 var parseIngredients = require("../utilities/parseIngredients");
 
 var IngredientParser = React.createClass({
-  render: function() {
+  render() {
     return (
       <form key={"form-" + this.props.data.key}>
         <Input type="textarea" id="ingparsetextarea" rows="14" defaultValue={this.props.data.directions} />
@@ -12,7 +12,7 @@ var IngredientParser = React.createClass({
     );
   }, 
 
-  parseIngs: function() {
+  parseIngs() {
     console.log(JSON.stringify(parseIngredients(document.getElementById("ingparsetextarea").value)));
   }
 });

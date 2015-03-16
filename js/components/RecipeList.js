@@ -1,14 +1,12 @@
 var React = require("react");
-var ListGroup = require("react-bootstrap").ListGroup;
-var Link = require("react-router").Link;
+var { ListGroup } = require("react-bootstrap");
+var RecipeLink = require("./RecipeLink");
 
 var RecipeList = React.createClass({
-  render: function() {
-    var bcdmap = this.props.data.map(function(v, i, a) {
-      return (
-        <Link to="recipe" params={{key: v.key}} className="list-group-item">{v.title}</Link>
-      );
-    });
+  render() {
+    var bcdmap = this.props.data.map(recipe =>
+      <RecipeLink data={recipe} />
+    );
 
     return (
       <ListGroup>

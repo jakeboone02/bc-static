@@ -1,5 +1,1 @@
-function trim(s) {
-  return s.replace(/^\s+|\s+$/g,""); 
-}
-
-module.exports = trim;
+module.exports = s => s.replace(/^\s+|\s+$/g,"");

@@ -10,6 +10,15 @@
   font-style: normal;
 }
 
+::selection {
+  background-color: #347B30;
+  color: #CFC;
+}
+::-moz-selection {
+  background-color: #347B30;
+  color: #CFC;
+}
+
 .recipe {
     margin-bottom: 2em;
 }

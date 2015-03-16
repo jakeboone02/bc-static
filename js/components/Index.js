@@ -1,7 +1,7 @@
 var React = require("react");
 
 var Index = React.createClass({
-  render: function () {
+  render() {
     return <p>Select a recipe</p>;
   }
 });

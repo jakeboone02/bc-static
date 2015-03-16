@@ -9,9 +9,9 @@ var recipes = require("../constants/dataObject");
 var RecipeView = React.createClass({
   mixins: [ Router.State ],
 
-  render: function() {
+  render() {
     var recipe = recipes[this.getParams().key];
-    
+
     var sourceClassName = cx({"hidden": !recipe.source}),
         subtitleClassName = cx({"hidden": !recipe.subtitle}),
         preptimeClassName = cx({"hidden": !recipe.preptime}),
@@ -21,9 +21,9 @@ var RecipeView = React.createClass({
         notesClassName = cx({"hidden": !recipe.notes}),
         ingsClassName = cx({"hidden": !recipe.ingredients.length && !recipe.equipment});
 
-    var ings = recipe.ingredients.map(function(v, i, a) {
-      return (<RecipeIngredientView data={v} />);
-    });
+    var ings = recipe.ingredients.map(v =>
+      <RecipeIngredientView data={v} />
+    );
 
     return (
       <DocumentTitle title={recipe.title}>

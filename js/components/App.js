@@ -1,5 +1,5 @@
 var React = require("react");
-var RouteHandler = require("react-router").RouteHandler;
+var { RouteHandler } = require("react-router");
 var { Row, Col } = require("react-bootstrap");
 var DocumentTitle = require("react-document-title");
 var RecipeList = require("./RecipeList");
@@ -8,15 +8,13 @@ var recipes = require("../constants/dataObject");
 var config = require("../constants/config");
 
 var App = React.createClass({
-  getInitialState: function () {
-    return { recipes: recipes };
+  getInitialState() {
+    return { recipes };
   },
 
-  render: function() {
+  render() {
 
-    var recipeArray = Object.keys(recipes).map(function(k) {
-      return recipes[k];
-    });
+    var recipeArray = Object.keys(this.state.recipes).map(k => this.state.recipes[k]);
 
     return (
       <DocumentTitle title={config.APP_NAME}>

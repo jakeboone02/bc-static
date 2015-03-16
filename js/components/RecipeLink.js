@@ -1,14 +1,13 @@
 var React = require("react");
-var ListGroupItem = require('react-bootstrap').ListGroupItem;
+// var { ListGroupItem } = require('react-bootstrap');
+var { Link } = require("react-router");
 
 var RecipeLink = React.createClass({
-  render: function() {
+  render() {
     return (
-      <ListGroupItem href="#" onClick={this.onClick} active={this.props.i === 18}>{this.props.data.title}</ListGroupItem>
+      // <ListGroupItem href="#">{this.props.data.title}</ListGroupItem>
+      <Link to="recipe" params={{key: this.props.data.key}} className="list-group-item">{this.props.data.title}</Link>
     );
-  },
-  onClick: function() {
-    alert(this.props.data.title);
   }
 });
 
