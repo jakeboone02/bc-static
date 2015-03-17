@@ -1,9 +1,9 @@
 var React = require("react");
 var formatQtyRange = require("../utilities/formatQtyRange");
 
-var RecipeIngredientView = React.createClass({
-  render() {
+class RecipeIngredientView extends React.Component {
 
+  render() {
     var ing = this.props.data;
     var qtyRange = formatQtyRange(ing);
     var ingText = (qtyRange ? qtyRange + " " : "") + (ing.uom ? ing.uom + " " : "") + ing.desc + "\n";
@@ -18,6 +18,6 @@ var RecipeIngredientView = React.createClass({
       );
     }
   }
-});
+}
 
 module.exports = RecipeIngredientView;

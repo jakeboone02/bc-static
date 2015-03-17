@@ -2,7 +2,8 @@ var React = require("react");
 var DocumentTitle = require("react-document-title");
 var { APP_NAME } = require("../constants/config");
 
-var RecipeRouteNotFound = React.createClass({
+class RecipeRouteNotFound extends React.Component {
+
   render() {
     return (
       <DocumentTitle title={"Recipe not found - " + APP_NAME}>
@@ -10,6 +11,6 @@ var RecipeRouteNotFound = React.createClass({
       </DocumentTitle>
     );
   }
-});
+}
 
 module.exports = RecipeRouteNotFound;

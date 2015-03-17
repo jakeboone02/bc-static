@@ -1,4 +1,4 @@
-var UOM = [
+module.exports = [
   'cup','cups','c','c.','C',
   'teaspoon','teaspoons','tsp','tsp.','t',
   'tablespoon','tablespoons','tbsp','tbsp.','T',
@@ -13,5 +13,3 @@ var UOM = [
   'quart','quarts','qt','qt.',
   'liter','liters','l'
 ];
-
-module.exports = UOM;

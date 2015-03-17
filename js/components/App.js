@@ -7,10 +7,12 @@ var RecipeView = require("./RecipeView");
 var recipes = require("../constants/dataObject");
 var { APP_NAME } = require("../constants/config");
 
-var App = React.createClass({
-  getInitialState() {
-    return { recipes };
-  },
+class App extends React.Component {
+
+  constructor(props) {
+    super(props);
+    this.state = { recipes };
+  }
 
   render() {
 
@@ -29,6 +31,6 @@ var App = React.createClass({
       </DocumentTitle>
     );
   }
-});
+}
 
 module.exports = App;

@@ -1,9 +1,9 @@
 var React = require("react");
 
-var Index = React.createClass({
+class Index extends React.Component {
   render() {
     return <p>Select a recipe</p>;
   }
-});
+}
 
 module.exports = Index;

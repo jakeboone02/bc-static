@@ -2,11 +2,12 @@ var React = require("react");
 var { ListGroup } = require("react-bootstrap");
 var RecipeLink = require("./RecipeLink");
 
-var RecipeList = React.createClass({
+class RecipeList extends React.Component {
+
   render() {
-    var bcdmap = this.props.data.map(recipe =>
-      <RecipeLink data={recipe} />
-    );
+    var bcdmap = this.props.data
+    .sort( (a, b) => (a.title > b.title ? 1 : -1) )
+    .map( recipe => <RecipeLink data={recipe} /> );
 
     return (
       <ListGroup>
@@ -14,6 +15,6 @@ var RecipeList = React.createClass({
       </ListGroup>
     );
   }
-});
+}
 
 module.exports = RecipeList;

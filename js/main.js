@@ -7,14 +7,12 @@ var Index = require("./components/Index");
 var RecipeView = require("./components/RecipeView");
 var RecipeRouteNotFound = require("./components/RecipeRouteNotFound");
 
-var routes = (
+var routes =
   <Route handler={App} path="/">
     <DefaultRoute handler={Index} />
     <Route name="recipe" path="/recipe/:key" handler={RecipeView} />
     <NotFoundRoute handler={RecipeRouteNotFound} />
   </Route>
-);
+;
 
-Router.run(routes, function(Handler) {
-  React.render(<Handler />, document.getElementById("app"));
-});
+Router.run(routes, Handler => React.render(<Handler />, document.getElementById("app")) );
