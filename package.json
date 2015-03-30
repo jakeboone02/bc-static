@@ -12,11 +12,13 @@
   "author": "Jake Boone <jakeboone02@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "format-quantity": "*",
+    "numeric-quantity": "*",
     "react": "^0.13.1",
-    "react-bootstrap": "^0.17.0",
+    "react-bootstrap": "^0.19.0",
     "react-document-title": "^1.0.2",
     "react-router": "^0.13.0",
-    "react-router-bootstrap": "^0.9.1"
+    "react-router-bootstrap": "^0.12.1"
   },
   "devDependencies": {
     "browserify": "^9.0.3",
@@ -28,7 +30,7 @@
     "gulp-uglify": "^1.1.0",
     "reactify": "^1.1.0",
     "vinyl-transform": "^1.0.0",
-    "watchify": "^2.4.0"
+    "watchify": "^3.0.0"
   },
   "browserify": {
     "transform": [

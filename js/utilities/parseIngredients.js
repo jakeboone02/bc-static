@@ -1,4 +1,4 @@
-var makeNumeric = require("./makeNumeric");
+var makeNumeric = require("numeric-quantity");
 var trim = require("./trim");
 var UnitsOfMeasure = require("../constants/UnitsOfMeasure");
 

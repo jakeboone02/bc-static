@@ -7,11 +7,10 @@ var cx = require("react/lib/cx");
 var recipes = require("../constants/dataObject");
 var { APP_NAME } = require("../constants/config");
 
-var RecipeView = React.createClass({
-  mixins: [ Router.State ],
+class RecipeView extends React.Component {
 
   render() {
-    var recipe = recipes[this.getParams().key];
+    var recipe = recipes[this.context.router.getCurrentParams().key];
 
     var documentTitle = recipe.title + " - " + APP_NAME;
 
@@ -65,6 +64,10 @@ var RecipeView = React.createClass({
       </DocumentTitle>
     );
   }
-});
+}
+
+RecipeView.contextTypes = {
+  router: React.PropTypes.func
+};
 
 module.exports = RecipeView;
