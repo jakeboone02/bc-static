@@ -36,9 +36,9 @@ gulp.task("js", ["clean:js", "data2obj"], function () {
     .pipe(browserified)
     .pipe(rename({ basename: "bundle" }))
     .pipe(gulp.dest("./js/"))
-    .pipe(rename({ extname: ".min.js" }))
     .pipe(sourcemaps.init({loadMaps: true}))
       .pipe(uglify())
+      .pipe(rename({ extname: ".min.js" }))
     .pipe(sourcemaps.write("./"))
     .pipe(gulp.dest("./js/"));
 });
