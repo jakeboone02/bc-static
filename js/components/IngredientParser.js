@@ -1,13 +1,15 @@
-var React = require("react");
-var { Button, Input } = require("react-bootstrap");
-var parseIngredients = require("../utilities/parseIngredients");
+import React from "react";
+import { Button, Input } from "react-bootstrap";
+import parseIngredients from "../utilities/parseIngredients";
 
 class IngredientParser extends React.Component {
 
   constructor() {
+    super();
+
     this.parseIngs = () => {
       console.log(JSON.stringify(parseIngredients(document.getElementById("ingparsetextarea").value)));
-    }
+    };
   }
 
   render() {
@@ -20,4 +22,4 @@ class IngredientParser extends React.Component {
   }
 }
 
-module.exports = IngredientParser;
+export default IngredientParser;

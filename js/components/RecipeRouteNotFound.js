@@ -1,6 +1,6 @@
-var React = require("react");
-var DocumentTitle = require("react-document-title");
-var { APP_NAME } = require("../constants/config");
+import React from "react";
+import DocumentTitle from "react-document-title";
+import { APP_NAME } from "../constants/config";
 
 class RecipeRouteNotFound extends React.Component {
 
@@ -13,4 +13,4 @@ class RecipeRouteNotFound extends React.Component {
   }
 }
 
-module.exports = RecipeRouteNotFound;
+export default RecipeRouteNotFound;

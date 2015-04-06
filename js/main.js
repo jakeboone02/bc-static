@@ -1,11 +1,11 @@
-var React = require("react");
-var Router = require("react-router")
+import React from "react";
+import Router from "react-router";
+import RecipeRouteNotFound from "./components/RecipeRouteNotFound";
+import App from "./components/App";
+import Index from "./components/Index";
+import RecipeView from "./components/RecipeView";
+
 var { Route, DefaultRoute, NotFoundRoute } = Router;
-var RecipeRouteNotFound = require("./components/RecipeRouteNotFound");
-var App = require("./components/App");
-var Index = require("./components/Index");
-var RecipeView = require("./components/RecipeView");
-var RecipeRouteNotFound = require("./components/RecipeRouteNotFound");
 
 var routes =
   <Route handler={App} path="/">

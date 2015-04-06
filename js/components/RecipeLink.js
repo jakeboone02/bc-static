@@ -1,5 +1,5 @@
-var React = require("react");
-var { ListGroupItem } = require("react-bootstrap");
+import React from "react";
+import { ListGroupItem } from "react-bootstrap";
 
 class RecipeLink extends React.Component {
 
@@ -19,4 +19,4 @@ RecipeLink.contextTypes = {
   router: React.PropTypes.func
 };
 
-module.exports = RecipeLink;
+export default RecipeLink;

@@ -1,6 +1,5 @@
-var makeNumeric = require("numeric-quantity");
-var trim = require("./trim");
-var UnitsOfMeasure = require("../constants/UnitsOfMeasure");
+import makeNumeric from "numeric-quantity";
+import UnitsOfMeasure from "../constants/UnitsOfMeasure";
 
 function importIngredients(ingText) {
 
@@ -12,7 +11,7 @@ function importIngredients(ingText) {
   var arrRawLen = arrRaw.length;
 
   for (var a = 0; a < arrRawLen; a++) {
-    arrRaw[a] = trim(arrRaw[a]);
+    arrRaw[a] = arrRaw[a].trim();
   }
 
   for (var i = 0; i < arrRawLen; i++) {
@@ -28,8 +27,8 @@ function importIngredients(ingText) {
       oIng.desc = arrRaw[i];
 
       //If the line ends in ":" or starts with "For ", then it is assumed to be a group header.
-      if (oIng.desc.substring(oIng.desc.length - 1) === ":"
-        || oIng.desc.substring(0, 4).toUpperCase() === "FOR ") {
+      if (oIng.desc.substring(oIng.desc.length - 1) === ":" ||
+        oIng.desc.substring(0, 4).toUpperCase() === "FOR ") {
 
         oIng.isGroupHeader = true;
       }
@@ -43,11 +42,11 @@ function importIngredients(ingText) {
 
       while (lenNum > 0 && mnresult === -1) {
 
-        mnresult = makeNumeric(trim(arrRaw[i].substring(0, lenNum)));
+        mnresult = makeNumeric( arrRaw[i].substring(0, lenNum).trim() );
 
         if (mnresult > -1) {
           oIng.qty = mnresult;
-          oIng.desc = trim(arrRaw[i].substring(lenNum));
+          oIng.desc = arrRaw[i].substring(lenNum).trim();
         }
 
         lenNum--;
@@ -93,8 +92,8 @@ function importIngredients(ingText) {
 
     arrIngs[i] = oIng;
   }
-  
+
   return arrIngs;
 }
 
-module.exports = importIngredients;
+export default importIngredients;

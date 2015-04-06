@@ -2,7 +2,7 @@
 
 var del = require("del");
 var gulp = require("gulp");
-var data = require("./js/constants/data.js")
+var data = require("./js/constants/data.js");
 var uglify = require("gulp-uglify");
 var rename = require("gulp-rename");
 var data2obj = require("./js/constants/data2obj");

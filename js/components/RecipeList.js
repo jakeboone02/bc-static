@@ -1,6 +1,6 @@
-var React = require("react");
-var { ListGroup } = require("react-bootstrap");
-var RecipeLink = require("./RecipeLink");
+import React from "react";
+import { ListGroup } from "react-bootstrap";
+import RecipeLink from "./RecipeLink";
 
 class RecipeList extends React.Component {
 
@@ -17,4 +17,4 @@ class RecipeList extends React.Component {
   }
 }
 
-module.exports = RecipeList;
+export default RecipeList;

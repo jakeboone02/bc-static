@@ -1,4 +1,4 @@
-module.exports = [
+export default [
   'cup','cups','c','c.','C',
   'teaspoon','teaspoons','tsp','tsp.','t',
   'tablespoon','tablespoons','tbsp','tbsp.','T',

@@ -7,7 +7,7 @@ function run(data, destination) {
     result[v.key] = v;
   });
 
-  fs.writeFile(destination, "module.exports = " + JSON.stringify(result) + ";", function(err) {
+  fs.writeFile(destination, "export default " + JSON.stringify(result) + ";", function(err) {
       if(err) {
           console.log(err);
       } else {
@@ -16,4 +16,4 @@ function run(data, destination) {
   });
 }
 
-module.exports = {run: run};
+module.exports = { run: run };

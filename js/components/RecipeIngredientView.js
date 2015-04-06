@@ -1,5 +1,5 @@
-var React = require("react");
-var formatQtyRange = require("../utilities/formatQtyRange");
+import React from "react";
+import formatQtyRange from "../utilities/formatQtyRange";
 
 class RecipeIngredientView extends React.Component {
 
@@ -20,4 +20,4 @@ class RecipeIngredientView extends React.Component {
   }
 }
 
-module.exports = RecipeIngredientView;
+export default RecipeIngredientView;

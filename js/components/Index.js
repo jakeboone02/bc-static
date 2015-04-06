@@ -1,4 +1,4 @@
-var React = require("react");
+import React from "react";
 
 class Index extends React.Component {
   render() {
@@ -6,4 +6,4 @@ class Index extends React.Component {
   }
 }
 
-module.exports = Index;
+export default Index;

@@ -1,11 +1,11 @@
-var React = require("react");
-var Router = require("react-router");
-var DocumentTitle = require("react-document-title");
-var RecipeIngredientView = require("./RecipeIngredientView");
-var IngredientParser = require("./IngredientParser");
-var cx = require("react/lib/cx");
-var recipes = require("../constants/dataObject");
-var { APP_NAME } = require("../constants/config");
+import React from "react";
+import Router from "react-router";
+import DocumentTitle from "react-document-title";
+import RecipeIngredientView from "./RecipeIngredientView";
+import IngredientParser from "./IngredientParser";
+import classnames from "classnames";
+import recipes from "../constants/dataObject";
+import { APP_NAME } from "../constants/config";
 
 class RecipeView extends React.Component {
 
@@ -14,14 +14,14 @@ class RecipeView extends React.Component {
 
     var documentTitle = recipe.title + " - " + APP_NAME;
 
-    var sourceClassName = cx({"hidden": !recipe.source}),
-        subtitleClassName = cx({"hidden": !recipe.subtitle}),
-        preptimeClassName = cx({"hidden": !recipe.preptime}),
-        yieldClassName = cx({"hidden": !recipe.yield}),
-        equipmentClassName = cx({"hidden": !recipe.equipment}),
-        directionsClassName = cx({"hidden": !recipe.directions}),
-        notesClassName = cx({"hidden": !recipe.notes}),
-        ingsClassName = cx({"hidden": !recipe.ingredients.length && !recipe.equipment});
+    var sourceClassName = classnames({"hidden": !recipe.source});
+    var subtitleClassName = classnames({"hidden": !recipe.subtitle});
+    var preptimeClassName = classnames({"hidden": !recipe.preptime});
+    var yieldClassName = classnames({"hidden": !recipe.yield});
+    var equipmentClassName = classnames({"hidden": !recipe.equipment});
+    var directionsClassName = classnames({"hidden": !recipe.directions});
+    var notesClassName = classnames({"hidden": !recipe.notes});
+    var ingsClassName = classnames({"hidden": !recipe.ingredients.length && !recipe.equipment});
 
     var ings = recipe.ingredients.map(v =>
       <RecipeIngredientView data={v} />
@@ -70,4 +70,4 @@ RecipeView.contextTypes = {
   router: React.PropTypes.func
 };
 
-module.exports = RecipeView;
+export default RecipeView;

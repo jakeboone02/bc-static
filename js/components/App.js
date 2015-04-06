@@ -1,11 +1,11 @@
-var React = require("react");
-var { RouteHandler } = require("react-router");
-var { Row, Col } = require("react-bootstrap");
-var DocumentTitle = require("react-document-title");
-var RecipeList = require("./RecipeList");
-var RecipeView = require("./RecipeView");
-var recipes = require("../constants/dataObject");
-var { APP_NAME } = require("../constants/config");
+import React from "react";
+import { RouteHandler } from "react-router";
+import { Row, Col } from "react-bootstrap";
+import DocumentTitle from "react-document-title";
+import RecipeList from "./RecipeList";
+import RecipeView from "./RecipeView";
+import recipes from "../constants/dataObject";
+import { APP_NAME } from "../constants/config";
 
 class App extends React.Component {
 
@@ -33,4 +33,4 @@ class App extends React.Component {
   }
 }
 
-module.exports = App;
+export default App;
