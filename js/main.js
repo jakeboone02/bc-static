@@ -5,9 +5,9 @@ import App from "./components/App";
 import Index from "./components/Index";
 import RecipeView from "./components/RecipeView";
 
-var { Route, DefaultRoute, NotFoundRoute } = Router;
+const { Route, DefaultRoute, NotFoundRoute } = Router;
 
-var routes =
+const routes =
   <Route handler={App} path="/">
     <DefaultRoute handler={Index} />
     <Route name="recipe" path="/recipe/:key" handler={RecipeView} />

@@ -5,9 +5,9 @@ import RecipeLink from "./RecipeLink";
 class RecipeList extends React.Component {
 
   render() {
-    var bcdmap = this.props.data
-    .sort( (a, b) => (a.title > b.title ? 1 : -1) )
-    .map( recipe => <RecipeLink data={recipe} /> );
+    const bcdmap = this.props.data
+      .sort( (a, b) => (a.title > b.title ? 1 : -1) )
+      .map( (recipe) => <RecipeLink data={recipe} /> );
 
     return (
       <ListGroup>

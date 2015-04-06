@@ -16,7 +16,7 @@ class App extends React.Component {
 
   render() {
 
-    var recipeArray = Object.keys(this.state.recipes).map(k => this.state.recipes[k]);
+    const recipeArray = Object.keys(this.state.recipes).map(k => this.state.recipes[k]);
 
     return (
       <DocumentTitle title={APP_NAME}>

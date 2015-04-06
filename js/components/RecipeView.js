@@ -10,20 +10,20 @@ import { APP_NAME } from "../constants/config";
 class RecipeView extends React.Component {
 
   render() {
-    var recipe = recipes[this.context.router.getCurrentParams().key];
+    const recipe = recipes[this.context.router.getCurrentParams().key];
 
-    var documentTitle = recipe.title + " - " + APP_NAME;
+    const documentTitle = recipe.title + " - " + APP_NAME;
 
-    var sourceClassName = classnames({"hidden": !recipe.source});
-    var subtitleClassName = classnames({"hidden": !recipe.subtitle});
-    var preptimeClassName = classnames({"hidden": !recipe.preptime});
-    var yieldClassName = classnames({"hidden": !recipe.yield});
-    var equipmentClassName = classnames({"hidden": !recipe.equipment});
-    var directionsClassName = classnames({"hidden": !recipe.directions});
-    var notesClassName = classnames({"hidden": !recipe.notes});
-    var ingsClassName = classnames({"hidden": !recipe.ingredients.length && !recipe.equipment});
+    const sourceClassName = classnames({"hidden": !recipe.source});
+    const subtitleClassName = classnames({"hidden": !recipe.subtitle});
+    const preptimeClassName = classnames({"hidden": !recipe.preptime});
+    const yieldClassName = classnames({"hidden": !recipe.yield});
+    const equipmentClassName = classnames({"hidden": !recipe.equipment});
+    const directionsClassName = classnames({"hidden": !recipe.directions});
+    const notesClassName = classnames({"hidden": !recipe.notes});
+    const ingsClassName = classnames({"hidden": !recipe.ingredients.length && !recipe.equipment});
 
-    var ings = recipe.ingredients.map(v =>
+    const ings = recipe.ingredients.map(v =>
       <RecipeIngredientView data={v} />
     );
 

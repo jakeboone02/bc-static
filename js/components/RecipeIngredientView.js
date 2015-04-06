@@ -4,9 +4,9 @@ import formatQtyRange from "../utilities/formatQtyRange";
 class RecipeIngredientView extends React.Component {
 
   render() {
-    var ing = this.props.data;
-    var qtyRange = formatQtyRange(ing);
-    var ingText = (qtyRange ? qtyRange + " " : "") + (ing.uom ? ing.uom + " " : "") + ing.desc + "\n";
+    const ing = this.props.data;
+    const qtyRange = formatQtyRange(ing);
+    const ingText = (qtyRange ? qtyRange + " " : "") + (ing.uom ? ing.uom + " " : "") + ing.desc + "\n";
 
     if (ing.isGroupHeader) {
       return (

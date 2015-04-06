@@ -3,28 +3,31 @@ import UnitsOfMeasure from "../constants/UnitsOfMeasure";
 
 function importIngredients(ingText) {
 
-  var arrRaw = ingText.split("\n");
-  var mnresult = 0;
-  var lenNum = 0;
-  var arrIngs = [];
-  var oIng = {};
-  var arrRawLen = arrRaw.length;
+  const arrRawLines = ingText.split("\n");
+  const arrLines = arrRawLines.map((line) => line.trim());
 
-  for (var a = 0; a < arrRawLen; a++) {
-    arrRaw[a] = arrRaw[a].trim();
-  }
+  let mnresult = 0;
+  let lenNum = 0;
+  let arrIngs = [];
+  let oIng;
 
-  for (var i = 0; i < arrRawLen; i++) {
+  arrLines.forEach((line) => {
 
-    oIng = {qty: 0, qty2: 0, uom: "", desc: "", isGroupHeader: false};
+    oIng = {
+      qty: 0,
+      qty2: 0,
+      uom: "",
+      desc: "",
+      isGroupHeader: false
+    };
 
     //Check if the first character is numeric.
-    mnresult = makeNumeric(arrRaw[i].substring(0, 1));
+    mnresult = makeNumeric(line.substring(0, 1));
 
     //If the first character is not numeric, the entire line is the description.
     if (mnresult === -1) {
 
-      oIng.desc = arrRaw[i];
+      oIng.desc = line;
 
       //If the line ends in ":" or starts with "For ", then it is assumed to be a group header.
       if (oIng.desc.substring(oIng.desc.length - 1) === ":" ||
@@ -42,11 +45,11 @@ function importIngredients(ingText) {
 
       while (lenNum > 0 && mnresult === -1) {
 
-        mnresult = makeNumeric( arrRaw[i].substring(0, lenNum).trim() );
+        mnresult = makeNumeric( line.substring(0, lenNum).trim() );
 
         if (mnresult > -1) {
           oIng.qty = mnresult;
-          oIng.desc = arrRaw[i].substring(lenNum).trim();
+          oIng.desc = line.substring(lenNum).trim();
         }
 
         lenNum--;
@@ -56,7 +59,7 @@ function importIngredients(ingText) {
     //Now check the description for a qty2 at the beginning.
     //First we look for a dash to indicate a range, then process the next seven
     //characters just like we did for qty.
-    var firstChar = oIng.desc.substring(0,1);
+    let firstChar = oIng.desc.substring(0,1);
 
     if (/[\u002D|\u2010|\u2011|\u2012|\u2013|\u2014|\u2015]/.test(firstChar)) {
 
@@ -82,16 +85,16 @@ function importIngredients(ingText) {
     }
 
     //check for a known unit of measure
-    var firstSpace = oIng.desc.indexOf(" ");
-    var firstWord = oIng.desc.substring(0, firstSpace);
+    let firstSpace = oIng.desc.indexOf(" ");
+    let firstWord = oIng.desc.substring(0, firstSpace);
 
     if (UnitsOfMeasure.indexOf(firstWord) >= 0) {
       oIng.uom = firstWord;
       oIng.desc = oIng.desc.substring(firstSpace + 1);
     }
 
-    arrIngs[i] = oIng;
-  }
+    arrIngs.push( oIng );
+  });
 
   return arrIngs;
 }
